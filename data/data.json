@@ -1,0 +1,2762 @@
+[
+    {
+        "Category":"교수님 학위논문",
+        "Title":"순차적 SMT 구조 및 그룹화 방안에 관한 연구 ( Study of an In-order SMT Architecture and Grouping Schemes )",
+        "Author":"문병인, 연세대학교 전기전자공학과",
+        "Etc":"Dec. 2001, 박사 학위논문",
+        "URL":"\/datas\/publications\/순차적 SMT 구조 및 그룹화 방안에 관한 연구.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"교수님 학위논문",
+        "Title":"64 비트 4-way 수퍼스칼라 마이크로프로세서의 최적화된 명령어 이슈 구조 (An Optimized Instruction Issue Architecture of a 64-bit 4-way Superscalar Microprocessor)",
+        "Author":"문병인, 연세대학교 전자공학과",
+        "Etc":"Dec. 1996, 석사 학위논문",
+        "URL":"\/datas\/publications\/64 비트 4-way 수퍼스칼라 마이크로프로세서의 최적화된 명령어 이슈 구조.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"Fused Layer Based Embedded Architecture Design for YOLOv4-tiny",
+        "Author":"김경욱, 경북대학교 전자전기공학부",
+        "Etc":"Aug. 2024, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"SENet을 스킵 커넥션에 적용한 단안 깊이 맵 추정",
+        "Author":"송하윤, 경북대학교 전자전기공학부",
+        "Etc":"Dec. 2024, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"Hardware Architecture of Exponential-based Activation Function for YOLOv4-tiny",
+        "Author":"하지석, 경북대학교 전자전기공학부",
+        "Etc":"Dec. 2023, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"Low-cost and Optimized Hardware Implementation of Stereo Vision and Haar Cascade Classifier in Road Environment",
+        "Author":"현종길, 경북대학교 전자전기공학부",
+        "Etc":"Aug. 2022, 박사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"Improved De-noising and Disparity Refinement for Stereo Vision Systems",
+        "Author":"최철호, 경북대학교 전자전기공학부",
+        "Etc":"Aug. 2022, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"FSRCNN 적용을 위한 저비용 역합성곱 가속기 구조 (Low-cost Deconvolution Accelerator Architecture for FSRCNN)",
+        "Author":"장혜림, 경북대학교 전자전기공학부",
+        "Etc":"Dec. 2021, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"A Multiplexer-efficient Haar Cascade Classifier Accelerator",
+        "Author":"이상현, 경북대학교 전자전기공학부",
+        "Etc":"Dec. 2021, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"Algorithm and Hardware Architecture for Stixel Segmentation Using Vertical Symmetric Difference Filters",
+        "Author":"김영현, 경북대학교 모바일통신공학과",
+        "Etc":"Dec. 2020, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"서브 윈도우 기반 허프 변환을 이용한 직선 검출 하드웨어 구조 ( Line Detection Hardware Architecture Using the Subwindow-Based Hough Transform )",
+        "Author":"김세훈, 경북대학교 모바일통신공학과",
+        "Etc":"Dec. 2020, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"BCH 기반 BMA 회로의 지연시간 개선 방법 ( Latency improving method of BCH based BMA circuit )",
+        "Author":"신명수, 경북대학교 전자전기공학부",
+        "Etc":"Dec. 2020, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"Low-Cost Integral Image Generator Architecture for Haar Classifiers",
+        "Author":"김정환, 경북대학교 전자전기공학부",
+        "Etc":"Dec. 2020, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"Resource-Efficient Hardware Architecture for Illumination-Robust Face Detection",
+        "Author":"김동섭, 경북대학교 전자공학부",
+        "Etc":"Dec. 2019, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"알고리즘별 On-Die ECC 부·복호화기 설계 및 결과 분석",
+        "Author":"권연수, 경북대학교 전자공학부",
+        "Etc":"Dec. 2019, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"BCH 연산의 병렬화 및 원시다항식 탐색을 통한 설계",
+        "Author":"정성훈, 경북대학교 전자공학부",
+        "Etc":"Dec. 2018, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"Methods and Circuits for Stereo Matching Based on Vertical Census Transform and Free Space Detection",
+        "Author":"이상재, 경북대학교 전자공학부",
+        "Etc":"Dec. 2018, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"적층 DRAM을 사용하는 다중 코어 프로세서의 작업 할당 및 파이프라인 폭 조절 방법",
+        "Author":"윤창호, 경북대학교 전자공학부",
+        "Etc":"Dec. 2017, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"2비트 오류 정정을 지원하는 In-DRAM ECC 알고리즘 및 회로 설계",
+        "Author":"김형태, 경북대학교 전자공학부",
+        "Etc":"Dec. 2017, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"Resource-optimized Design of a Stereo Matching Processor for Smart Cars ( 스마트 자동차를 위한 스테레오 정합 프로세서의 리소스 최적화 설계 )",
+        "Author":"손현식, 경북대학교 전자공학부",
+        "Etc":"Jun. 2017, 박사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"스테레오 비전의 정합률 향상을 위한 버티컬 센서스 변환 및 하드웨어 설계 ( A Vertical Census Transform and Hardware Design to improve the Matching Rate of Stereoo Vision )",
+        "Author":"조현우, 경북대학교 전자공학부",
+        "Etc":"Dec. 2016, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"하드웨어 기반 스테레오 시스템의 효율적인 렉티피케이션 연산 기법 및 구조 ( An Efficient Rectification Method and Its Architecture in Hardware-Based Stereo Vision )",
+        "Author":"현종길, 경북대학교 전자공학부",
+        "Etc":"Dec. 2016, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"메모리 최적화를 위한 세미 전역 스테레오 정합 하드웨어 설계 ( Stereo Matching Hardware Design Based on Semi-Global Matching for A Memory Optimization )",
+        "Author":"조성득, 경북대학교 전자공학부",
+        "Etc":"Dec. 2016, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"다중 스파스 윈도우기반 버티컬 센서스 변환 및 하드웨어 설계 ( Multiple Sparse Windows-Based Vertical Census Transform and Its Hardware Design )",
+        "Author":"이인규, 경북대학교 전자공학부",
+        "Etc":"Dec. 2016, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"스테레오 비전을 위한 블록 군집화 기반 시차 탐색 범위 추정 하드웨어 설계 ( A Disparity Search Range Estimation Hardware Design Based on Clustering Block for Stereo Vision )",
+        "Author":"안태웅, 경북대학교 전자공학부",
+        "Etc":"Dec. 2016, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"A Study on Transaction Management for DIMM Tree Architecture ( DIMM 트리 구조를 위한 트랜잭션 관리 연구 )",
+        "Author":"김영규, 경북대학교 전자공학부",
+        "Etc":"Jun. 2016, 박사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"A Hardware-based Depth Map Extraction System for Context Awareness of Smart Vehicles ( 스마트 자동차의 주변환경 인식을 위한 하드웨어 기반의 시차 맵 추출 시스템 )",
+        "Author":"배경렬, 경북대학교 전자공학부",
+        "Etc":"Jun. 2016, 박사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"허프 변환을 위한 저비용 보트 값 산출 하드웨어 구조 ( Hardware Architecture of a Low-cost Vote Value Generator for Hough Transform )",
+        "Author":"성원석, 경북대학교 전자공학부",
+        "Etc":"Jun. 2016, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"DIMM Tree 구조의 Row Buffer 관리 정책 연구 ( A Study of the Row Buffer Management Policies of the DIMM Tree Architecture )",
+        "Author":"장영종, 경북대학교 전자공학부",
+        "Etc":"Dec. 2014, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"이종 객체 추적 알고리즘을 혼합한 영상 감시 기술 연구 ( The Study for Video Surveillance System that is Converged with Different Object Tracking Algorithms )",
+        "Author":"허성남, 경북대학교 전자공학부",
+        "Etc":"Dec. 2014, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"Modified Adaptive Support-Weight and Stretched Depth-Histogram Schemes for Stereo Matching Processors ( 스테레오 매칭 프로세서를 위한 수정된 적응적 영역 가중치 및 확장된 깊이 히스토그램 기법 새창으로 상세보기 )",
+        "Author":"옥승호, 경북대학교 전자공학부",
+        "Etc":"Dec. 2013, 박사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"다중 레벨 DIMM Tree 구조에서의 페이징 기법에 관한 연구 ( Study on Paging Scheme at DIMM Tree Structure of Multi-Level )",
+        "Author":"민경국, 경북대학교 전자공학부",
+        "Etc":"Dec. 2013, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"개선된 보팅 정책을 적용한 허프 변환 기반 직선 정보 검출 하드웨어 구조 ( A Hardware Architecture for Line Detection Based on Hough Transform with an Improved Voting Scheme )",
+        "Author":"이정록, 경북대학교 전자공학부",
+        "Etc":"Dec. 2013, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"개선된 경로 선택 기법을 적용한 다이내믹 프로그래밍 기반 스테레오 정합 하드웨어 구조 ( A stereo matching hardware architecture based on dynamic programming with an improved path selection method )",
+        "Author":"조재욱, 경북대학교 전자공학부",
+        "Etc":"Dec. 2013, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"인메모리 컴퓨팅 시스템을 위한 최적의 메모리 시스템 구성 및 구조 연구 ( A Study on Optimal Memory System Configuration and Architecture for In-memory Computing System )",
+        "Author":"김봉정, 경북대학교 전자공학부",
+        "Etc":"Dec. 2012, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"적응형 베이스라인 스테레오 비전 시스템의 렉티피케이션 회로 ( The Rectification Hardware architecture for an Adaptive Baseline Stereo Vision System )",
+        "Author":"손현식, 경북대학교 전자공학부",
+        "Etc":"Dec. 2011, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"광전효과로 인한 게이트 드라이버의 POR 회로 오동작 분석 ( POR circuit malfunction analysis of the gate driver by photoelectric effect )",
+        "Author":"이동하, 경북대학교 산업대학원",
+        "Etc":"Jun. 2011, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"예측 기반 고속 하드웨어 트랜잭셔널 메모리 구조 ( High-speed Hardware Transactional Memory Structure based on Prediction )",
+        "Author":"김영규, 경북대학교 모바일통신공학과",
+        "Etc":"Dec. 2010, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"NCC 알고리즘 기반 고속 시차 추정 하드웨어 구조 ( A Hardware Architecture based on the NCC Algorithm A Hardware Architecture based on the NCC Algorithm)",
+        "Author":"배경렬, 경북대학교 전자전기컴퓨터학부",
+        "Etc":"Dec. 2010, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"상태 플레인 예측을 통한 JPEG2000 BPC의 병렬처리 하드웨어 설계 ( The Parallel Hardware Design of JPEG2000 BPC through Prediction of the State Plane)",
+        "Author":"우동휘, 경북대학교 전자전기컴퓨터학부",
+        "Etc":"Dec. 2010, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"실시간 스테레오 영상 매칭 시스템의 구현 ( Real0time stereo image matching system )",
+        "Author":"정효수, 경북대학교 전자전기컴퓨터학부",
+        "Etc":"Dec. 2010, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"FTM 알고리즘을 효율적으로 적용한 FlexRay 통신 제어기 ( FlexRay communication controller with efficient FTM algorithm)",
+        "Author":"김현아, 경북대학교 전자전기컴퓨터학부",
+        "Etc":"Dec. 2009, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"A* 알고리즘의 하드웨어 구조 설계 ( A Hardware Architecture of A-star Algorithm )",
+        "Author":"서우진, 경북대학교 전자전기컴퓨터학부",
+        "Etc":"Dec. 2009, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"RTL 기반의 Flexray 통신 제어기 설계 ( RTL based FlexRay communication controller architecture )",
+        "Author":"김우식, 경북대학교 전자전기컴퓨터학부",
+        "Etc":"Dec. 2008, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"FFT의 성능 및 비용에 수의 체계가 미치는 영향 ( Trade-off between performance and cost of FFT as a function of number system )",
+        "Author":"옥승호, 경북대학교 전자공학부",
+        "Etc":"Dec. 2007, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"QoS보장을 위한 우선순위 큐의 설계 ( Priority Queue Architecture for Guaranteeing QoS )",
+        "Author":"김상균, 경북대학교 전자공학부",
+        "Etc":"Dec. 2007, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"높은 대역폭을 갖는 AHB 호환 NoC 구조 ( A high-bandwidth AHB-compliant NoC architecture )",
+        "Author":"김현철, 경북대학교 전자공학부",
+        "Etc":"Jun. 2007, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"지도학생 학위논문",
+        "Title":"온 칩 네트워크를 위한 IP 인터페이스의 설계 ( Design of IP interface for on-chip network )",
+        "Author":"우인구, 경북대학교 산업대학원",
+        "Etc":"Dec. 2006, 석사 학위논문",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"Face Detection Using Haar Cascade Classifiers Based on Vertical Component Calibration",
+        "Author":"Cheol-Ho Choi, Junghwan Kim, Jongkil Hyun, Younghyeon Kim and Byungin Moon",
+        "Etc":"Human-centric Computing and Information Sciences, Vol. 12, Mar. 2022",
+        "URL":"http:\/\/hcisj.com\/data\/file\/article\/2022031501\/12-11.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"Hardware-friendly architecture for a pseudo 2D weighted median filter based on sparse-window approach",
+        "Author":"Jongkil Hyun, Younghyeon Kim, Junghwan Kim and Byungin Moon",
+        "Etc":"Multimedia Tools and Applications, Vol. 80, Nov. 2021",
+        "URL":"https:\/\/link.springer.com\/article\/10.1007\/s11042-020-09906-2",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"Cache memory organization for processing in memory",
+        "Author":"Young-Kyu Kim, Byungin Moon, Dong-Sun Kim, Young-Jong Jang",
+        "Etc":"IEICE Electronics Express, Vol. 16, No. 16, Aug. 2019",
+        "URL":"https:\/\/www.jstage.jst.go.jp\/article\/elex\/16\/16\/16_16.20190393\/_article",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"Modified adaptive support weight and disparity search range estimation schemes for stereo matching processors",
+        "Author":"Seung-Ho Ok, Jae Hoon Shim, and Byungin Moon",
+        "Etc":"The Journal of Supercomputing, Vol. 74, No. 12, Dec. 2018",
+        "URL":"https:\/\/link.springer.com\/article\/10.1007\/s11227-017-2058-y",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"3D die-stacked DRAM thermal management via task allocation and core pipeline control",
+        "Author":"Changho Yoon, Jae Hoon Shim, Byungin Moon, Joonho Kong",
+        "Etc":"IEICE Electronics Express, Vol. 15, No. 3, Feb. 2018",
+        "URL":"https:\/\/www.jstage.jst.go.jp\/article\/elex\/15\/3\/15_15.20171253\/_pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"A simplified rectification method and its hardware architecture for embedded multimedia systems",
+        "Author":"Jongkil Hyun and Byungin Moon",
+        "Etc":"Multimedia Tools and Applications, Vol. 76, No. 19, Oct. 2017",
+        "URL":"https:\/\/link.springer.com\/article\/10.1007\/s11042-016-3517-9",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"A study of partitioned DIMM tree management for multimedia server systems",
+        "Author":"Young-Kyu Kim, Yong-Hwan Lee, and Byungin Moon",
+        "Etc":"Multimedia Tools and Applications, Vol. 76, No. 19, Sep. 2017",
+        "URL":"https:\/\/link.springer.com\/article\/10.1007\/s11042-016-3382-6",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"An accurate and cost-effective stereo matching algorithm and processor for real-time embedded multimedia systems",
+        "Author":"Kyeong-ryeol Bae and Byungin Moon",
+        "Etc":"Multimedia Tools and Applications, Vol. 76, No. 17, Sep. 2017",
+        "URL":"https:\/\/link.springer.com\/article\/10.1007\/s11042-016-3248-y",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"A Multi-Level Accumulation-Based Rectification Method and Its Circuit Implementation",
+        "Author":"Hyeon-Sik Son and Byungin Moon",
+        "Etc":"KSII Transactions on Internet and Information Systems, Vol. 11, No.6, Jun. 2017",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002310026",
+        "prize_category":"최우수상",
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"An Improved Stereo Matching Algorithm with Robustness to Noise Based on Adaptive Support Weight",
+        "Author":"Ingyu Lee and Byungin Moon",
+        "Etc":"Journal of Information Processing Systems, Vol. 13, No. 2, Apr. 2017",
+        "URL":"https:\/\/jips-k.org\/digital-library\/2017\/13\/2\/256",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"The Impact of 3D Stacking and Technology Scaling on the Power and Area of Stereo Matching Processors",
+        "Author":"Seung-Ho Ok, Yong-Hwan Lee, Jae Hoon Shim, Sung Kyu Lim, and Byungin Moon",
+        "Etc":"Sensors, Vol. 17, No. 2, Feb. 2017",
+        "URL":"https:\/\/www.mdpi.com\/1424-8220\/17\/2\/426",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"A T-DIMM ID Based Command Routing Method for the DIMM Tree Architecture",
+        "Author":"Young-Kyu Kim and Byungin Moon",
+        "Etc":"International Journal of Control and Automation, Vol. 8, No. 2, Feb. 2015",
+        "URL":"http:\/\/article.nadiapub.com\/IJCA\/vol8_no2\/5.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"A Real-Time Stereo Matching Hardware Architecture Based on the AD-Census",
+        "Author":"Hyeon-Sik Son, Kyeong-ryeol Bae, Yong-Hwan Lee and Byungin Moon",
+        "Etc":"International Journal of Multimedia and Ubiquitous Engineering, Vol. 8, No. 4, Jul. 2013",
+        "URL":"https:\/\/citeseerx.ist.psu.edu\/document?repid=rep1&type=pdf&doi=e7b85c5a92e524b27d3ff9ce4fdb40a457c13be6",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"An ant colony optimization approach for the preference-based shortest path search",
+        "Author":"Seung-Ho Ok, Woo-Jin Seo, Jin-Ho Ahn, Sungho Kang, and Byungin Moon",
+        "Etc":"Journal of the Chinese Institute of Engineers, Vol. 34, No. 2, Mar. 2011",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-642-10844-0_63",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"System on a Chip Implementation of Social Insect Behavior for Adaptive Network Routing",
+        "Author":"Jin-Ho Ahn, Hyunjin Kim, Byung In Moon, Sungho Kang",
+        "Etc":"Lecture Notes in Artificial Intelligence, Vol. 4114, Aug. 2006",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-540-37275-2_65",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"A Low-Cost Recovery Mechanism for Processors with Large Instruction Windows",
+        "Author":"In Pyo HONG, Byung In MOON, Yong Surk LEE",
+        "Etc":"IEICE TRANSACTIONS on Information and Systems, Vol. E89-D, No. 6, Jun. 2006",
+        "URL":"https:\/\/globals.ieice.org\/en_transactions\/information\/10.1093\/ietisy\/e89-d.6.1967\/_p",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"A Practical Test Scheduling Using Network-Based TAM in Network on Chip Architecture",
+        "Author":"Jin Ho Ahn, Byung In Moon, and Sungho Kang",
+        "Etc":"Lecture Notes in Computer Science, Vol. 3740, Oct. 2005",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/11572961_50",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"An In-order SMT Architecture with Static Resource Partitioning for Consumer Applications",
+        "Author":"Byung In Moon, Hongil Yoon, Ilgu Yun, Sungho Kang",
+        "Etc":"Lecture Notes in Computer Science, Vol. 3320, Dec. 2004",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-540-30501-9_103",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"Study of an In-order SMT Architecture and Grouping Schemes",
+        "Author":"Byung In Moon, Moon Gyung Kim, In Pyo Hong, Ki Chang Kim, and Yong Surk Lee",
+        "Etc":"International Journal of Control, Automation, and Systems, Vol. 1, No. 3, Sep. 2003",
+        "URL":"https:\/\/www.ijcas.org\/journal\/view.html?pn=vol&uid=200&vmd=Full",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"A Fast Finite Field Multiplier Architecture for High-Security Elliptic Curve Cryptosystems",
+        "Author":"Sangook Moon, Yong Joo Lee, Jae Min Park, Byung In Moon, Yong Surk Lee",
+        "Etc":"IEICE TRANSACTIONS on Information and Systems, Vol.E85-D, No.2, Feb. 2002",
+        "URL":"https:\/\/globals.ieice.org\/en_transactions\/information\/10.1587\/e85-d_2_418\/_p",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술지",
+        "Title":"A 32-bit RISC Microprocessor with DSP Functionality: Rapid Prototyping",
+        "Author":"Byung In Moon, Dong Ryul Ryu, Jong Wook Hong, Tae Young Lee, Sangook Moon, and Yong Surk Lee",
+        "Etc":"IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E84-A, No. 5, May. 2001",
+        "URL":"https:\/\/globals.ieice.org\/en_transactions\/fundamentals\/10.1587\/e84-a_5_1339\/_p",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Haar Classifier Accelerator with Reduced Multiplexer Usage",
+        "Author":"SangHyun Lee, Byungin Moon",
+        "Etc":"Proc. International SoC Design Conference (ISOCC 2021), Oct. 2021",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/9613971\/",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Haar Filter Hardware Architecture for the Accuracy Improvement of Stereo Vision Systems",
+        "Author":"Cheol-Ho Choi, Younghyeon Kim, Jiseok Ha, Byungin Moon",
+        "Etc":"Proc. International SoC Design Conference (ISOCC 2021), Oct. 2021",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/9614032",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Hardware Architecture of a Haar Classifier Based Face Detection System using a Skip Scheme",
+        "Author":"Jongkil Hyun, Junghwan Kim, Cheol-Ho Choi, Byungin Moon",
+        "Etc":"Proc. IEEE International Symposium on Circuits and Systems (ISCAS 2021), May. 2021",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/9401114",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Low-cost Hardware Architecture for Integral Image Generation using Word Length Reduction",
+        "Author":"Junghwan Kim, Jongkil Hyun, Byungin Moon",
+        "Etc":"Proc. International SoC Design Conference (ISOCC 2020), Oct. 2020",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/9332974",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Memory-Efficient Architecture for Contrast Enhancement and Integral Image Computation",
+        "Author":"Dongsub Kim, Jongkil Hyun, Byungin Moon",
+        "Etc":"Proc. International Conference on Electronics, Information, and Communication (ICEIC), Jan. 2020",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/9051296",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Weighted Median Filter Architecture Based on the Sparse Window Approach",
+        "Author":"Jongkil Hyun, Younghyeon Kim, Junghwan Kim, and Byungin Moon",
+        "Etc":"Proc. International Workshop on Future Technology, Jan. 2020",
+        "URL":"https:\/\/link.springer.com\/article\/10.1007\/s11042-020-09906-2",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Drivable Area Detection Method Capable of Distinguishing Vegetation Area on Country Road",
+        "Author":"Sangjae Lee and Byungin Moon",
+        "Etc":"Proc. International SoC Design Conference (ISOCC 2018), Nov. 2018",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/8649902",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Disparity Search Range Estimation Method Using Cluster Blocks",
+        "Author":"Taewoong Ahn and Byungin Moon",
+        "Etc":"Proc. International Conference on Electronics, Electrical Engineering, Computer Science (EEECS 2016), Aug. 2016",
+        "URL":"\/datas\/publications\/A Disparity Search Range Estimation Method Using Cluster Blocks.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"An Accumuation-Based Rectification and Distortion Correction Method",
+        "Author":"Hyoen-Sik Son and Byungin Moon",
+        "Etc":"Proc. International Conference on Electronics, Electrical Engineering, Computer Science (EEECS 2016), Jan. 2016",
+        "URL":"\/datas\/publications\/An Accumuation-Based Rectification and Distortion Correction Method.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Modified Census Transform Using the Representative Intensity Values",
+        "Author":"Hyun-Woo Jo and Byungin Moon",
+        "Etc":"Proc. International SoC Design Conference (ISOCC 2015), Nov. 2015",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/7401711",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Study on Fast Partition Page Table Management for the DIMM Tree Architecture",
+        "Author":"Young-Kyu Kim, Yong-Hwan Lee, Byungin Moon",
+        "Etc":"Proc. International Workshop on Advanced Computing and Multimedia Technology (ACMT 2015), Oct. 2015",
+        "URL":"\/datas\/publications\/A Study on Fast Partition Page Table Management for the DIMM Tree Architecture.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Simplified Rectification Method for Efficient Hardware Implementation",
+        "Author":"Jongkil Hyun and Byungin Moon",
+        "Etc":"Proc. International Workshop on Advanced Computing and Multimedia Technology (ACMT 2015), Oct. 2015",
+        "URL":"\/datas\/publications\/A Simplified Rectification Method for Efficient Hardware Implementation.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Fast Stereo Matching Algorithm and Its Hardware Architecture for Real-time Embedded Multimedia Systems",
+        "Author":"Kyeong-ryeol Bae and Byungin Moon",
+        "Etc":"Proc. International Workshop on Advanced Computing and Multimedia Technology (ACMT 2015), Oct. 2015",
+        "URL":"\/datas\/publications\/A Fast Stereo Matching Algorithm and Its Hardware Architecture for Real-time Embedded Multimedia Systems.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Census-Based Stereo Matching Algorithm with Multiple Sparse Windows",
+        "Author":"Kyeong-ryeol Bae, Hyeon-Sik Son, Jongkil Hyun and Byungin Moon",
+        "Etc":"Proc. International Conference on Ubiquitous and Future Networks (ICUFN 2015), Jul. 2015",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/7182542",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Command Routing Method without the Routing Table for the DIMM Tree Architecture",
+        "Author":"Young-Kyu Kim and Byungin Moon",
+        "Etc":"Proc. u- and e- Service, Science and Technology (UNESST 2014), Dec. 2014",
+        "URL":"\/datas\/publications\/A Command Routing Method without the Routing Table for the DIMM Tree Architecture.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"An Online Test and Debug Methodology for Automotive Image Processing System",
+        "Author":"Hyunggoy Oh, Inhyuk Choi, Taewoo Han, Won Jung, Byungin Moon, and Sungho Kang",
+        "Etc":"Proc. International SoC Design Conference (ISOCC 2014), Nov. 2014",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/7087618",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Memory Controller for the DIMM Tree Architecture",
+        "Author":"Young-Jong Jang, Young-Kyu Kim, Taewoong Ahn, Byungin Moon",
+        "Etc":"Proc. The Eighth International Conference on Advanced Engineering Computing and Applications in Sciences (ADVCOMP 2014), Aug. 2014",
+        "URL":"https:\/\/personales.upv.es\/thinkmind\/ADVCOMP\/ADVCOMP_2014\/advcomp_2014_4_30_20138.html",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Design and Analysis of 3D IC-Based Low Power Stereo Matching Processors",
+        "Author":"Seung-Ho Ok, Kyeong-ryeol Bae, Sung Kyu Lim, Byungin Moon",
+        "Etc":"Proc. International Symposium on Low Power Electronics and Design (ISLPED 2013), Sep. 2013",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/6629260",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Cost-Effective Local Stereo Matching Based on the Unconventional Window",
+        "Author":"Kyeong-ryeol Bae, Hyeon-Sik Son, Yong-Hwan Lee, Byungin Moon",
+        "Etc":"Proc. Advanced Researches on Software Technology (SoftTech 2013), Apr. 2013",
+        "URL":"https:\/\/scholarworks.bwise.kr\/kumoh\/handle\/2020.sw.kumoh\/10167",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Real-Time Stereo Matching Hardware Architecture Based on the AD-Census 3",
+        "Author":"Hyeon-Sik Son, Kyeong-ryeol Bae, Yong-Hwan Lee and Byungin Moon",
+        "Etc":"Proc. Advanced Researches on Software Technology (SoftTech 2013), Apr. 2013",
+        "URL":"https:\/\/citeseerx.ist.psu.edu\/document?repid=rep1&type=pdf&doi=e7b85c5a92e524b27d3ff9ce4fdb40a457c13be6",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"An Efficient Interworking Architecture of a Network Processor for Layer 7 Packet Processing",
+        "Author":"Kyeong-ryeol Bae, Seung-Ho Ok, Hyeon-Sik Son, Sang Yoon Oh, Yong-Hwan Lee, and Byungin Moon",
+        "Etc":"Proc. Future Generation Communication and Networking (FGCN 2011), Dec. 2011",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-642-27192-2_18",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Rectification Hardware Architecture for an Adaptive Multiple-Baseline Stereo Vision System",
+        "Author":"Hyeon-Sik SonKyeong-ryeol BaeSeung-Ho OkYong-Hwan LeeByungin Moon",
+        "Etc":"Proc. Future Generation Communication and Networking (FGCN 2011), Dec. 2011",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-642-27192-2_19",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Platform for Real Time Brain-Waves Analysis System",
+        "Author":"Eun-Gyu Jeong, Byungin Moon, and Yong-Hwan Lee",
+        "Etc":"Proc. Grid and Distributed Computing (GDC 2011), Dec. 2011",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-642-27180-9_53",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Hardware Architecture of Bilateral Filter to Remove Haze",
+        "Author":"Eun-Kyoung Kim, Jae-Dong Lee, Byungin Moon, and Yong-Hwan Lee",
+        "Etc":"Proc. Future Generation Communication and Networking (FGCN 2011), Dec. 2011",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-642-27192-2_17",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Fully Parallel, High-Speed BPC Hardware Architecture for the EBCOT in JPEG 2000",
+        "Author":"Dong-Hwi Woo, Kyeong-Ryeol Bae, Hyeon-Sic Son, Seung-Ho Ok, Yong Hwan Lee, and Byungin Moon",
+        "Etc":"Proc. Future Generation Communication and Networking (FGCN 2011), Dec. 2010",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-642-17604-3_42",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Design of a 32-bit RISC Processor with Reduced Area",
+        "Author":"Hyo-Su Jeong, Young-Kyu Kim, Byungin Moon",
+        "Etc":"Proc. The 5th International Symposium on Embedded Technology, May. 2010",
+        "URL":"\/datas\/publications\/Design of a 32-bit RISC Processor with Reduced Area.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Efficient Data Transmission Scheme among Multi-devices",
+        "Author":"Sang-Bong Byun, Byungin Moon, and Yong-Hwan Lee",
+        "Etc":"Proc. Future Generation Communication and Networking (FGCN 2009), Dec. 2009",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-642-10844-0_61",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"An Ant Colony Optimization Approach for the Preference-based Shortest Path Search",
+        "Author":"Seung-Ho Ok, Woo-Jin Seo, Jin-Ho Ahn, Sungho Kang, and Byungin Moon",
+        "Etc":"Proc. Future Generation Communication and Networking (FGCN 2009), Dec. 2009",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-642-10844-0_63",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"An Efficient Hardware Architecture of the A-star Algorithm for the Shortest Path Search Engine",
+        "Author":"Woo-Jin Seo, Seung-Ho Ok, Jin-Ho Ahn, Sungho Kang, Byungin Moon",
+        "Etc":"Proc. International Joint Conference on INC, IMS, and IDC (NCM 2009), Aug. 2009",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/5331336",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Effective Fast Link between Mobile Components",
+        "Author":"Sang -Bong Byun, Hyun-Woong Ju, Byung-In Moon, Yong-Hwan Lee",
+        "Etc":"Proc. International Conference of Maritime Information and Communication Sciences (ICKIMICS2009), Vol. 2, No.1, Jun. 2009",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE07223638",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"System-Level Development and Verification of the FlexRay Communication Controller Model Based on SystemC",
+        "Author":"Woo Sik Kim, Hyun Ah Kim, Jin-Ho Ahn, Byungin Moon",
+        "Etc":"Proc. Future Generation Communication and Networking (FGCN 2008), Dec. 2008",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/4734188\/",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"High-Speed Priority Queue Architecture for Multiple Out Links",
+        "Author":"Sang Gyun Kim, Woo Sik Kim, Seung Ho Ok and Byung In Moon",
+        "Etc":"Proc. IEEE International Symposium on Electronic Design, Test and Applecations (delta 2008), Jan. 2008",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/4459582",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Digit Reversal Circuit for the Variable-Length Radix-4 FFT",
+        "Author":"Seung Ho Ok, Byung In Moon",
+        "Etc":"Proc. Future Generation Communication and Networking (FGCN 2007), Dec. 2007",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/4426291\/",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Improved Reinforcement Computing to Implement AntNet-Based Routing using General NPs for Ubiquitous Environments",
+        "Author":"Hyuntae Park, Byung In Moon, and Sungho Kang",
+        "Etc":"Proc. International Conference on Ubiquitous Convergence Technology (ICUCT 2006), Dec. 2006",
+        "URL":"https:\/\/link.springer.com\/chapter\/10.1007\/978-3-540-71789-8_25",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Partitioned Binary Search Scheme on Multiple Trees for Efficient IP Address Lookup",
+        "Author":"Hyuntae Park, Sungho Kang, Byung In Moon",
+        "Etc":"Proc. International SoC Design Conference (ISOCC 2006), Oct. 2006",
+        "URL":"https:\/\/www.semanticscholar.org\/paper\/A-Partitioned-Binary-Search-Scheme-on-Multiple-for-Park-Kang\/a0eb3b3059185341b54a56dfd2e8869e422c27a1",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"An Efficient Test Scheduling Algorithms in Networks on Chip Architecture",
+        "Author":"Jin-Ho Ahn, Byung In Moon, and Sungho Kang",
+        "Etc":"Proc. International Technical Conference on Circuits Systems, Computers and Communications (ITC-CSCC), Jul. 2005",
+        "URL":"http:\/\/soc.yonsei.ac.kr\/Abstract\/International_conference\/pdf\/An%20Efficient%20Test%20Scheduling%20Algoruthm%20in%20Networks%20on%20Chip%20Architecture.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Analysis of the Impact of Simultaneous Multithreading on Cache interference",
+        "Author":"Byung In Moon, Ilgu Yun, Hongil Yun, Sungho Kang",
+        "Etc":"Proc. International SoC Design Conference, Oct. 2004",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE01810859",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"An Optimal Simultaneous Multi-Threading Architecture with In-order Issue and Completion",
+        "Author":"In-Pyo Hong, Byung-In Moon, Moon-Gyung Kim, Jae-Eok Kim, Yong-Surk Lee",
+        "Etc":"Proc. North-east Asia IT Symposium, Jan. 2002",
+        "URL":"\/datas\/publications\/An Optimal Simultaneous Multi-Threading Architecture with In-order Issue and Completion.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A Simultaneous Multithreading Processor Architecture with Minimal Hardware Overhead",
+        "Author":"Byung In Moon, Moon Gyung Kim, Woo Kyeong Jeong, Seung Pil Lee, and Yong Surk Lee",
+        "Etc":"Proc. International Technical Conference on Circuits Systems, Computers and Communications (ITC-CSCC), Jul. 2001",
+        "URL":"\/datas\/publications\/A Simultaneous Multithreading Processor Architecture with Minimal Hardware Overhead.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"Implementation of a Cycle-based Simulator for the Design of a Processor Core",
+        "Author":"Moon Gyung Kim, Byung In Moon, Sang Jun An, Dong Ryul Ryu, and Youg Surk Lee",
+        "Etc":"Proc. IEEE Asia Pacific Conference on ASICs (AP-ASIC’99), Aug. 1999",
+        "URL":"https:\/\/ieeexplore.ieee.org\/document\/824040",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국제 학술대회",
+        "Title":"A 32-bit RISC Microprocessor with DSP Functionality",
+        "Author":"Byung In Moon, Doun Ryu, Jong Wook Hong, Sangook Moon, Young Hwan Lee, and Yong Surk Lee",
+        "Etc":"Proc. Electronic Circuits and Systems Conference (ECS’99), Sep. 1999",
+        "URL":"\/datas\/publications\/A 32-bit RISC Microprocessor with DSP Functionality.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"CBL 블록 기반 피라미드 형태의 다중계층 슬라이딩 윈도우를 위한 하드웨어 구조",
+        "Author":"김경욱, 문병인",
+        "Etc":"한국정보기술학회논문지, 22권 9호, Sep. 2024",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003121976",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"아동 외현화 장애 조기발견을 위한 인공지능 기반의 영상 분석 시스템 개발",
+        "Author":"안시현, 박윤하, 문병인",
+        "Etc":"한국정보기술학회논문지, 21권 8호, Aug. 2023",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002990277",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"인공지능 기반 실시간 감지가 가능한 산불 경보시스템",
+        "Author":"안시현, 박윤하, 문병인",
+        "Etc":"한국정보기술학회논문지, 21권,3호, Mar. 2023",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002942289",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"실내 아동 안전을 위한 딥러닝 기반의 아동 행동 분석기술 개발",
+        "Author":"안시현, 문병인",
+        "Etc":"한국정보기술학회논문지, 21권,1호, Jan. 2023",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002926480",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"초목을 포함한 도로 환경에서 주행 가능 영역 검출을 위한 필터링 기반 방법 및 하드웨어 구조",
+        "Author":"김영현, 하지석, 최철호, 문병인",
+        "Etc":"한국정보처리학회논문지, 11권,1호, Jan. 2022",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002809349",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"Design and Analysis of Fast Fourier Transform Processors with Various Number Systems",
+        "Author":"옥승호, 문병인",
+        "Etc":"한국정보기술학회논문지, 18권, 2호, Feb. 2020",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002559787",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"도로의 높낮이 변화와 초목이 존재하는 환경에서의 비전 센서 기반 주행 가능 영역 검출 기술",
+        "Author":"이상재, 현종길, 권연수, 심재훈, 문병인",
+        "Etc":"센서학회지, 28권, 2호, Mar. 2019",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE09253502",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"A Sequence-Preserving Packet Scheduler for Multi-Core Network Processors",
+        "Author":"옥승호, 문병인",
+        "Etc":"한국정보기술학회논문지, 17권, 2호, Feb. 2019",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002438879",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"차세대 모바일 메모리 기술의 정량적 비교 및 분석",
+        "Author":"윤창호, 문병인, 공준호",
+        "Etc":"한국차세대컴퓨팅학회논문지, 13권, 4호, Aug. 2017",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE10799659",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"스테레오 비전 후처리 알고리즘의 시차 개선 성능 평가",
+        "Author":"현종길, 이인규, 문병인",
+        "Etc":"한국정보기술학회논문지, 15권, 2호, Feb. 2017",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002197133",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"고속 스테레오 정합을 위한 점진적 시차 탐색 범위 추정 기법",
+        "Author":"옥승호, 문병인",
+        "Etc":"한국정보기술학회논문지, 15권, 1호, Jan. 2017",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE07099191",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"이종 알고리즘을 융합한 다중 이동객체 검출",
+        "Author":"허성남, 손현식, 문병인",
+        "Etc":"한국통신학회논문지, 40권, 9호, Sep. 2015",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002035435",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"개선된 보팅 정책을 적용한 허프 변환 하드웨어 구조",
+        "Author":"이정록, 배경렬, 문병인",
+        "Etc":"한국통신학회논문지-A, 38권, 9호, Sep. 2013",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001808517",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"시스템 성능 및 버스 트래픽에 대한 트랜잭셔널 메모리의 충돌 관리 정책 영향 분석",
+        "Author":"김영규, 문병인",
+        "Etc":"한국통신학회논문지-B, 37권, 11호, Nov. 2012",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001717135",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"고속 영상 유사도 분석을 위한 효율적 하드웨어 구조",
+        "Author":"권순, 이충희, 이종훈, 문병인, 이용환",
+        "Etc":"전자공학회논문지-SD, 48권, 4호, Apr. 2011",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001548315",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"고밀도 SOC를 위한 발열 고려 테스트 스케줄링",
+        "Author":"안진호, 심재훈, 문병인",
+        "Etc":"한국정보기술학회논문지, 8권, 12호, Dec. 2010",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001503416",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"모바일 기기를 위한 칩간 범용 인터페이스 구현",
+        "Author":"변상봉, 문병인, 이용환",
+        "Etc":"한국정보기술학회논문지, 8권, 11호, Nov. 2010",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001495030",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"높은 대역폭을 갖는 AHB 호환 NoC 구조",
+        "Author":"김현철, 문병인",
+        "Etc":"한국정보기술학회논문지, 8권, 11호, Nov. 2010",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001495028",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"높은 지향성을 갖는 소형 Yagi-Uda 안테나 설계",
+        "Author":"이대희, 문병인, 정훈주, 이용환",
+        "Etc":"한국정보기술학회논문지, 8권, 11호, Nov. 2010",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001489475",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"우선순위 큐를 이용한 A* 기반 최단경로 탐색 기법",
+        "Author":"안진호, 박민지, 강성호, 문병인",
+        "Etc":"한국정보기술학회논문지, 8권, 8호, Aug. 2010",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001471914",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"선호도 기반 최단경로 탐색을 위한 휴리스틱 융합 알고리즘",
+        "Author":"옥승호, 안진호, 강성호, 문병인",
+        "Etc":"전자공학회논문지-TC, 47권, 8호, Aug. 2010",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001469559",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"고밀도 3D 형상 계측 시스템에서의 고속 시차 추정을 위한 NCC 알고리즘 기반 하드웨어 구조",
+        "Author":"배경렬, 권순, 이용환, 이종훈, 문병인",
+        "Etc":"센서학회지, 19권, 2호, 2010",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001431743",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"고속 FTM 실행의 효율적인 FlexRay 통신 제어기",
+        "Author":"김현아, 문병인",
+        "Etc":"한국정보기술학회논문지, 8권, 3호, Mar. 2010",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001430590",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"저전력 미디어 버스 설계",
+        "Author":"노창구, 문병인, 이용환",
+        "Etc":"한국정보통신학회논문지, 14권, 2호, Feb. 2010",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001425356",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"패킷 스케줄러를 위한 빠르고 확장성 있는 우선순위 큐의 하드웨어 구조",
+        "Author":"김상균, 문병인",
+        "Etc":"전자공학회논문지-SD, 44권, 10호, Oct. 2007",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001215258",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"가변적인 복수 해슁을 이용한 글로벌 IPv6 유니캐스트 주소 검색 구조",
+        "Author":"박현태, 문병인, 강성호",
+        "Etc":"한국통신학회논문지-B, 31권, 5호, May. 2006",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001012556",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"적응적인 복수 해슁과 프리픽스그룹화를 이용한 고속 IP 주소 검색 구조",
+        "Author":"박현태, 문병인, 강성호",
+        "Etc":"전자공학회논문지-TC, 43권, 5호, May. 2006",
+        "URL":"https:\/\/www.kci.go.kr\/kciportal\/ci\/sereArticleSearch\/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001045435",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"SMT 프로세서에 최적화된 명령어 페치 전략에 관한 연구",
+        "Author":"홍인표, 문병인, 김문경, 이용석",
+        "Etc":"한국통신학회논문지-C, 27권, 5호, May. 2002",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE00528164",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"풀커스텀(full-custom) 방식의 17x17b 곱셈기의 설계와 효율적인 테스트",
+        "Author":"문상국, 문병인, 이용석",
+        "Etc":"한국통신학회논문지-B, 26권, 3호, Mar. 2001",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE00214809",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"Taylor 전개식을 이용한 나눗셈 연산기의 VLSI 설계",
+        "Author":"권호경, 문상국, 문병인,이용석",
+        "Etc":"한국통신학회논문지-B, 26권, 1호, Jan. 2001",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE00214743",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"64비트 4-way 수퍼스칼라 마이크로프로세서의 효율적인 분기 예측을 수행하는 프리페치 구조",
+        "Author":"문상국, 문병인, 이용환, 이용석",
+        "Etc":"한국통신학회논문지-B, 25권, 11호, Nov. 2000",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE00214650",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
+        "Title":"명령어 버퍼를 이용한 최적화된 수퍼스칼라 명령어 이슈 구조",
+        "Author":"문병인, 이용환, 안상준, 이용석",
+        "Etc":"전자공학회논문지-C, 34권, 9호, Sep. 1997",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE00400449",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"하드웨어 친화적 캐니 에지 검출 알고리즘",
+        "Author":"조승준, 강주완, 김태준, 정인수, 문병인",
+        "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, May. 2025",
+        "URL":"\/datas\/publications\/하드웨어 친화적 캐니 에지 검출 알고리즘.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"ISA 기반 March 패턴 생성기의 FPGA 구현 및 검증",
+        "Author":"정인수, 강주완, 김태준, 조승준, 문병인",
+        "Etc":"한국정보기술학회 추계종합학술대회, Nov. 2024",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"히스토그램 기반 Otsu 알고리즘을 활용한 엣지 검출 하드웨어 가속기",
+        "Author":"강주완, 정인수, 조승준, 문병인",
+        "Etc":"ACK 2024 학술발표대회, Nov. 2024",
+        "URL":"https:\/\/kiss.kstudy.com\/Detail\/Ar?key=4155941",
+        "prize_category":"우수논문상",
+        "prize_URL":"\/datas\/publications\/Prizes\/[우수논문상] 히스토그램 기반 Otsu 알고리즘을 활용한 엣지 검출 하드웨어 가속기.pdf",
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"초고속 메모리 테스트를 위한 패턴 생성기 ASIC의 검증",
+        "Author":"김정환, 정성훈, 문병인",
+        "Etc":"한국반도체테스트학회, Jul. 2024",
+        "URL":"\/datas\/publications\/초고속 메모리 테스트를 위한 패턴 생성기 ASIC의 검증.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":"초고속 메모리"
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"March 패턴 생성기의 병렬화 수준에 따른 하드웨어 사용량 비교",
+        "Author":"정성훈, 김정환, 강주완, 정인수, 조승준, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, May 2024",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE11825448",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"초고속 메모리 테스트를 위한 패턴 생성기의 ASIC 설계",
+        "Author":"김정환, 송하윤, 정성훈, 문병인",
+        "Etc":"한국정보기술학회 추계종합학술대회, Nov. 2023",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE11651994",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":"초고속 메모리"
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"초고속 메모리 테스트를 위한 패턴 생성기",
+        "Author":"김정환, 송하윤, 문병인",
+        "Etc":"한국반도체테스트학회, Jun. 2023",
+        "URL":"\/datas\/publications\/초고속 메모리 테스트를 위한 패턴 생성기.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":"초고속 메모리"
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"얼굴 검출을 위한 half precision 기반 YOLOv4-tiny head 구조",
+        "Author":"김경욱, 정성훈, 김정환, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2023",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE11485377",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"연산 정밀도에 따른 Object Localization 모듈의 하드웨어 자원 사용량 비교",
+        "Author":"김경욱, 민경국, 송하윤, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2023",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE11485378",
+        "prize_category":"우수논문상",
+        "prize_URL":"\/datas\/publications\/Prizes\/[우수논문상] 연산 정밀도에 따른 Object Localization 모듈의 하드웨어 자원 사용량 비교.pdf",
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"얼굴 검출 시간을 줄이기 위한 Haar 분류기의 구조 개선",
+        "Author":"김경욱, 정성훈, 하지석, 문병인",
+        "Etc":"한국정보기술학회 추계종합학술대회, Dec. 2022",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE11183740",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"초고속 메모리의 결함 진단을 위한 4-way March Pattern 생성 가속기",
+        "Author":"송하윤, 김정환, 민경국, 문병인",
+        "Etc":"한국정보기술학회 추계종합학술대회, Dec. 2022",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE11183741",
+        "prize_category":"우수논문상",
+        "prize_URL":"\/datas\/publications\/Prizes\/[우수논문상] 초고속 메모리의 결함 진단을 위한 4-way March Pattern 생성 가속기.pdf",
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"차선 검출을 위한 허프 변환 기반 Co-processing 시스템",
+        "Author":"송하윤, 최철호, 하지석, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2022",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE11082460",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"시차 정제를 위한 분리형 중앙-최댓값 필터",
+        "Author":"최철호, 하지석, 문병인",
+        "Etc":"한국정보처리학회 춘계학술발표대회(ASK), May. 2022",
+        "URL":"https:\/\/kiss.kstudy.com\/Detail\/Ar?key=3957962",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"Haar 웨이블릿 변환을 활용한 객체 경계면 추출 기반 실시간 얼굴 검출 방법",
+        "Author":"김경욱, 최철호, 김정환, 문병인",
+        "Etc":"한국정보기술학회 추계종합학술대회, Nov. 2021",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE10664498",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"FPGA 기반 AES-256 CTR 모듈의 Text Length 별 사양 비교",
+        "Author":"장혜림, 정성훈, 하지석, 문병인",
+        "Etc":"한국정보기술학회 추계종합학술대회, Nov. 2021",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE10664497",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"암호화 영상 스트리밍을 위한 FPGA 기반 Co-processing 하드웨어 가속기",
+        "Author":"정성훈, 장혜림, 김영현, 이상현, 문병인",
+        "Etc":"한국정보기술학회 추계종합학술대회, Nov. 2021",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE10664496",
+        "prize_category":"우수논문상",
+        "prize_URL":"\/datas\/publications\/Prizes\/[우수논문상] 암호화 영상 스트리밍을 위한 FPGA 기반 Co-processing 하드웨어 가속기.pdf",
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"YOLOv2 구조 기반 검출기의 성능 향상을 위한 웨이블릿 전처리 방법",
+        "Author":"하지석, 최철호, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2021",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE10568895",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"안드로이드 OS에서 실시간 얼굴 검출을 위한 웨이블릿 변환 기반 Haar Cascade Classifier",
+        "Author":"최철호, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2021",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE10568897",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"Gentle Adaboost 기반 Haar cascade classifier의 학습 속도를 향상시키기 위한 특징값 군집화 방법",
+        "Author":"이상현, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2021",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE10568899",
+        "prize_category":"우수논문상",
+        "prize_URL":"\/datas\/publications\/Prizes\/[우수논문상] Gentle Adaboost 기반 Haar cascade classifier의 학습 속도를 향상시키기 위한 특징값 군집화 방법.pdf",
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"효율적인 DCNN 연산을 위한 FPGA 기반 TDC 가속기",
+        "Author":"장혜림, 문병인",
+        "Etc":"한국정보처리학회 춘계학술대회, May. 2021",
+        "URL":"https:\/\/kiss.kstudy.com\/Detail\/Ar?key=3893694",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"초목을 포함한 도로 환경에서의 필터링 기반 주행 가능 영역 검출 방법 및 하드웨어 구조",
+        "Author":"김영현, 하지석, 최철호, 문병인",
+        "Etc":"한국정보처리학회 춘계학술대회, May. 2021",
+        "URL":"https:\/\/kiss.kstudy.com\/Detail\/Ar?key=3893716",
+        "prize_category":"우수논문상",
+        "prize_URL":"\/datas\/publications\/Prizes\/[우수논문상] 초목을 포함한 도로 환경에서의 필터링 기반 주행 가능 영역 검출 방법 및 하드웨어 구조.pdf",
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"서브 윈도우 허프 변환을 이용한 효율적인 차선 검출",
+        "Author":"김세훈, 문병인",
+        "Etc":"대한전자공학회 추계학술대회, Nov. 2020",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE10521788",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"BCH 기반 파이프라인 구조 BMA 회로의 지연시간 개선 방법",
+        "Author":"신명수, 정성훈, 문병인",
+        "Etc":"한국정보기술학회 종합학술대회, Oct. 2020",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE10490770",
+        "prize_category":"우수논문상",
+        "prize_URL":"\/datas\/publications\/Prizes\/[우수논문상] BCH 기반 파이프라인 구조 BMA 회로의 지연시간 개선 방법.pdf",
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"시차 개선을 위한 하이브리드 가중 메디안 필터 방법",
+        "Author":"김영현, 신명수, 문병인",
+        "Etc":"한국정보기술학회 종합학술대회, Oct. 2020",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE10490937",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"BCH 기반 On-die ECC 엔진을 위한 오류 위치 다항식 생성 알고리즘의 비교",
+        "Author":"권연수, 정성훈, 문병인",
+        "Etc":"한국정보과학회\/한국빅데이터학회 공동학술 심포지엄, Sep. 2019",
+        "URL":"\/datas\/publications\/BCH 기반 On-die ECC 엔진을 위한 오류 위치 다항식 생성 알고리즘의 비교.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"임베디드 시스템에서의 적분 영상 계산을 위한 저비용 하드웨어 구조",
+        "Author":"김동섭, 문병인",
+        "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, May. 2019",
+        "URL":"\/datas\/publications\/임베디드 시스템에서의 적분 영상 계산을 위한 저비용 하드웨어 구조.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"In-DRAM ECC 구현을 위한 BCH 부호의 오류 위치 다항식 계산 알고리즘 비교",
+        "Author":"정성훈, 문병인",
+        "Etc":"한국통신학회 하계종합학술발표회, Jun. 2018",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE07512429",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"도로의 특성을 활용한 v-시차 기반의 주행가능영역 검출 방법",
+        "Author":"이상재, 정성훈, 문병인",
+        "Etc":"한국통신학회 하계종합학술발표회, Jun. 2018",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE07512453",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"In-DRAM ECC 적용을 위한 ECC 알고리즘들의 비교",
+        "Author":"김형태, 현종길, 문병인",
+        "Etc":"한국정보기술학회\/한국디지털콘텐츠학회 하계공동학술대회, Jun. 2017",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE07182667",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"효율적인 하드웨어 구현을 위한 가중 메디안 필터",
+        "Author":"현종길, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2017",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE07182666",
+        "prize_category":"우수논문상",
+        "prize_URL":"\/datas\/publications\/Prizes\/[우수논문상] 효율적인 하드웨어 구현을 위한 가중 메디안 필터.pdf",
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"DDR4 메모리의 ECC에 적용하기 위한 Hsiao 부호",
+        "Author":"안태웅, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2016",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06690805",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"스테레오 비전 시스템을 위한 유일성 검사 하드웨어 구조",
+        "Author":"조성득, 문병인",
+        "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, May. 2016",
+        "URL":"\/datas\/publications\/스테레오 비전 시스템을 위한 유일성 검사 하드웨어 구조.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"Verilog HDL로 기술된 조합 논리회로의 Cadence SMV 기반 정형 검증 방법",
+        "Author":"조성득, 김영규, 문병인, 최윤자",
+        "Etc":"한국정보처리학회 추계학술발표대회, Oct. 2015",
+        "URL":"https:\/\/www.koreascience.kr\/article\/CFKO201529368418190.view?orgId=anpor&hide=breadcrumb%2Cjournalinfo",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"Multi Sparse Windows 기반의 TAD-Adaptive Census Transform을 이용한 스테레오 정합 알고리즘",
+        "Author":"이인규, 문병인",
+        "Etc":"한국정보처리학회 추계학술발표대회, Oct. 2015",
+        "URL":"https:\/\/www.koreascience.kr\/article\/CFKO201529368419099.view?orgId=anpor&hide=breadcrumb%2Cjournalinfo",
+        "prize_category":"우수논문상",
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"시차 영상의 다단계 블록화를 이용한 시차 탐색 범위 추정",
+        "Author":"안태웅, 배경렬, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2015",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06359305",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"시차 예측 성능 향상을 위한 Mx1 블록 매칭 스테레오",
+        "Author":"성원석, 배경렬, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2015",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06359304",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"개선된 연산방법을 적용한 스테레오 렉티피케이션",
+        "Author":"현종길, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2015",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06359306",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"배경 차 알고리즘과 모션 히스토리 영상 알고리즘을 융합한 다중 이동객체 검출",
+        "Author":"허성남, 손현식, 문병인",
+        "Etc":"한국통신학회 동계종합학술발표회, Jan. 2015",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06265639",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"적응적 관심영역을 적용한 옵티컬 플로우 기반의 객체 추적",
+        "Author":"허성남, 문병인",
+        "Etc":"대한전자공학회 추계학술대회, Nov. 2014",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06264420",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"실시간 시차 탐색 범위 추정을 위한 하드웨어 구조",
+        "Author":"손현식, 민경국, 권기구, 문병인",
+        "Etc":"대한전자공학회 융합\/스마트\/클라우드 컴퓨팅 학술대회, Oct. 2014",
+        "URL":"\/datas\/publications\/실시간 시차 탐색 범위 추정을 위한 하드웨어 구조.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"DIMM 트리 구조의 페이지 모드 정책 영향 분석",
+        "Author":"김영규, 장영종, 안태웅, 문병인",
+        "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, May. 2014",
+        "URL":"\/datas\/publications\/DIMM 트리 구조의 페이지 모드 정책 영향 분석.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"스테레오 매칭을 위한 효율적인 시차 탐색 범위 추정 방법",
+        "Author":"민경국, 손현식, 배경렬, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, May. 2014",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06086156",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"중복연산 최소화를 통한 저비용 허프 변환 하드웨어 구조",
+        "Author":"허성남, 이정록, 배경렬, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, May. 2013",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE02172658",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"대용량 메인 메모리 시스템에서 DIMM 트리의 최적 차수에 대한 연구",
+        "Author":"장영종, 김영규, 문병인",
+        "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, May. 2013",
+        "URL":"\/datas\/publications\/대용량 메인 메모리 시스템에서 DIMM 트리의 최적 차수에 대한 연구.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"확산 기반 스테레오 정합을 위한 정확한 시드 픽셀 검출 방법",
+        "Author":"조재욱, 손현식, 문병인",
+        "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, May. 2013",
+        "URL":"\/datas\/publications\/확산 기반 스테레오 정합을 위한 정확한 시드 픽셀 검출 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"개선된 허프 변환 보팅 정책 기반 실시간 라인 검출 하드웨어 구조",
+        "Author":"이정록, 배경렬, 문병인",
+        "Etc":"한국통신학회 동계학술발표대회, Jan. 2013",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE02135910",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"병렬 리프팅 기반 고속 웨이블릿 변환 필터 하드웨어 구조",
+        "Author":"조재욱, 배경렬, 손현식, 문병인",
+        "Etc":"한국통신학회 동계학술발표대회, Jan. 2013",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE02135909",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"인메모리 컴퓨팅을 위한 최적의 메모리 구성 및 채널 개수에 대한 연구",
+        "Author":"김봉정, 김영규, 문병인",
+        "Etc":"한국정보처리학회 추계학술발표대회, Nov. 2012",
+        "URL":"https:\/\/www.koreascience.kr\/article\/CFKO201221868476529.page?&lang=ko",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"최근 페이지 참조 빈도를 고려한 최적화된 NUR 페이지 교체 정책",
+        "Author":"민경국, 김영규, 배경렬, 문병인",
+        "Etc":"한국정보처리학회 추계학술발표대회, Nov. 2012",
+        "URL":"https:\/\/koreascience.kr\/article\/CFKO201221868476552.page?&lang=ko",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"효율적인 시차 계산을 위한 다이내믹 프로그래밍 정합 하드웨어 구조",
+        "Author":"조재욱, 배경렬, 손현식, 문병인",
+        "Etc":"지속가능과학회 지속가능\/ICT 연합학술대회, Nov. 2012",
+        "URL":"\/datas\/publications\/효율적인 시차 계산을 위한 다이내믹 프로그래밍 정합 하드웨어 구조.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"K-means 알고리즘 기반 실시간 객체 분류 하드웨어 구조",
+        "Author":"이정록, 배경렬, 손현식, 문병인",
+        "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, April 2012",
+        "URL":"\/datas\/publications\/K-means 알고리즘 기반 실시간 객체 분류 하드웨어 구조.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"시스템 버스 트래픽에 대한 트랜잭셔널 메모리의 충돌 관리 정책 영향 분석",
+        "Author":"김영규, 문병인",
+        "Etc":"한국통신학회 동계종합학술발표회, Feb. 2012",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE02039268",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"점진적 시차 범위 추정을 통한 효율적인 스테레오 정합 기법",
+        "Author":"옥승호, 배경렬, 손현식, 장영종, 문병인",
+        "Etc":"대한전자공학회 추계학술대회, Nov. 2011",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE02338865",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"지능형 시각시스템을 위한 ZNCC 알고리즘의 효율적인 하드웨어 구조",
+        "Author":"배경렬, 손현식, 안진호, 문병인",
+        "Etc":"한국통신학회 추계종합학술발표회, Nov. 2011",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE02186325",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"JPEG2000의 병렬 연산에 최적화된 Tier-2 인코더의 하드웨어 구조",
+        "Author":"손현식, 배경렬, 옥승호, 안진호, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, May. 2011",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE01689143",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"L7 패킷 처리를 위한 네트워크 프로세서 연동 구조 제안 및 분석",
+        "Author":"배경렬, 옥승호, 손현식, 오상윤, 이용환, 문병인",
+        "Etc":"한국통신학회 동계종합학술발표회, Feb. 2011",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE02376481",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"JPEG2000의 고속 BPC를 위한 Stripe 레벨 병렬 구조",
+        "Author":"손현식, 배경렬, 문병인",
+        "Etc":"대한전자공학회 추계학술대회, Nov. 2010",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE01587891",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"스테레오 정합을 위한 Distance Transform 하드웨어 구조",
+        "Author":"김준섭, 권순, 이종훈, 문병인, 이용환",
+        "Etc":"한국정보기술학회 하계종합학술대회, May. 2010",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE01455077",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"하드웨어 트랜잭셔널 메모리 모델링 및 성능 분석",
+        "Author":"김영규, 옥승호, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, May. 2010",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE01455079",
+        "prize_category":"우수논문상",
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"FlexRay 통신 제어기의 동기화를 위한 효율적인 하드웨어 구조",
+        "Author":"김현아, 옥승호, 문병인",
+        "Etc":"한국정보기술학회 하계학술대회, Jun. 2009",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE01211446",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"SystemC 기반의 FlexRay 통신 제어기 모델 설계",
+        "Author":"김우식, 안진호 , 문병인",
+        "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, May. 2008",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE01620961",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"NoC 구조에서 IP재사용성을 향상 및 전달지연 최소화를위한 연구",
+        "Author":"김현철, 문병인",
+        "Etc":"대한전자공학회 하계종합학술대회, Jul. 2007",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE01597584",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"패킷 스케줄러를 위한 빠르고 확장성 있는 우선순위 큐의 하드웨어 구조 설계",
+        "Author":"김상균, 문병인",
+        "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, May. 2007",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE01726681",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"심리음향모델기반 디지털 오디오 워터마킹 알고리즘의 효율적인 연산을 위한 Radix-4 256\/1024 Point FFT 설계",
+        "Author":"옥승호, 문병인",
+        "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, May. 2007",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE01726639",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"온칩네트워크 기반 효과적인 테스트 스케쥴링 방법",
+        "Author":"안진호, 문병인, 강성호",
+        "Etc":"한국테스트 학술대회, Jul. 2005",
+        "URL":"\/datas\/publications\/온칩네트워크 기반 효과적인 테스트 스케쥴링 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"SMT 마이크로프로세서에 적합한 Non-Blocking 명령어\/데이터 캐쉬 제어기의 설계",
+        "Author":"이승필, 문병인, 김문경, 홍인표, 이용석",
+        "Etc":"전자정보통신 학술대회, Nov. 2001",
+        "URL":"\/datas\/publications\/SMT 마이크로프로세서에 적합한 Non-Blocking 명령어데이터 캐쉬 제어기의 설계.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"SMT 방식 네트워크 프로세서의 패킷 스케쥴러 설계",
+        "Author":"박재민, 홍인표, 김문경, 문병인, 이용석, 박성배",
+        "Etc":"SoC Design Conference, Nov. 2001",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE02012677",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"SMT 마이크로프로세서의 명령어 이슈 구조",
+        "Author":"문병인, 김문경, 홍인표, 이용석",
+        "Etc":"컴퓨터 소사이어티 추계학술대회, Nov. 2001",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06330616",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"SMT 프로세서에 적합한 명령어 페치 기법에 관한 연구",
+        "Author":"홍인효, 문병인, 김문경, 이용석",
+        "Etc":"컴퓨터 소사이어티 추계학술대회, Nov. 2001",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06330617",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"In-order Completion을 지원하는 SMT(Simultaneous Multithreading) 프로세서 구조의 최적화",
+        "Author":"김문경, 문병인, 김재억, 정우경, 이승필, 이용석",
+        "Etc":"CAD 및 VLSI설계 연구회 학술발표대회 May. 2001",
+        "URL":"\/datas\/publications\/In-order Completion을 지원하는 SMT(Simultaneous Multithreading) 프로세서 구조의 최적화.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"An Area Efficient Redundant Binary (RB) Adder Using Modified RB Addition Rule",
+        "Author":"Jong-Wook Hong, Byung-In Mun, Tae-Young Lee and Yong-Surk Lee",
+        "Etc":"한국반도체 학술대회, Jan. 2000",
+        "URL":"\/datas\/publications\/An Area Efficient Redundant Binary (RB) Adder Using Modified RB Addition Rule.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"멀티미디어 명령어를 강화한 수퍼스칼라 RISC 마이크로프로세서 구조",
+        "Author":"이용환, 문병인, 이용석",
+        "Etc":"대한전자공학회 추계종합학술대회, Nov. 1999",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06333571",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"32 비트 RISC\/DSP 프로세서를 위한 17 비트 x 17 비트 곱셈기의 설계",
+        "Author":"박종환, 문상국, 홍종욱, 문병인, 이용석",
+        "Etc":"대한전자공학회 하계종합학술대회, Jun. 1999",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06333860",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"내장형 시스템에 적합한 32 비트 RISC\/DSP 마이크로프로세서에 관한 연구",
+        "Author":"유동열, 문병인, 홍종욱, 이태영, 이용석",
+        "Etc":"대한전자공학회 하계종합학술대회, Jun. 1999",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06333701",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"32 비트 DSP RISC 프로세서를 위한 ALU 설계 및 테스트",
+        "Author":"최대봉, 문병인, 유동열, 이태영, 이용석",
+        "Etc":"대한전자공학회 추계종합학술대회, Nov. 1998",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06306322",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"Taylor 전개식을 이용한 나눗셈 연산기의 VLSI 설계",
+        "Author":"권호경, 최대봉, 문병인, 이용환, 이광엽, 이용석",
+        "Etc":"대한전자공학회 추계종합학술대회, Nov. 1997",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE00214743",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"64 비트 4-way 수퍼스칼라 마이크로프로세서의 최적화된 명령어 이슈 구조",
+        "Author":"문병인, 권호경, 이용환, 윤석한",
+        "Etc":"대한전자공학회 추계종합학술대회, Nov. 1996",
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE06325345",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"하드웨어 IP 등록",
+        "Title":"Census transform based adaptive support weight stereo matching IP",
+        "Author":"Inventor : 문병인 \/ Data : 2014.11.18",
+        "Etc":"Application\/Registration No. (KIPEX)KU256H0595",
+        "URL":"\/datas\/publications\/HardwareIP\/Census transform based adaptive support weight stereo matching IP.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"하드웨어 IP 등록",
+        "Title":"LR CROSS CHECK based on stereo matching IP",
+        "Author":"Inventor : 문병인 \/ Data : 2014.11.17",
+        "Etc":"Application\/Registration No. (KIPEX)KU256S0594",
+        "URL":"\/datas\/publications\/HardwareIP\/LR CROSS CHECK based on stereo matching IP.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"하드웨어 IP 등록",
+        "Title":"Hough Transform-Based Line Detection IP",
+        "Author":"Inventor : 문병인 \/ Data : 2014.02.26",
+        "Etc":"Application\/Registration No. (KIPEX)KU256H0496",
+        "URL":"\/datas\/publications\/HardwareIP\/Hough Transform-Based Line Detection IP.jpg",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"하드웨어 IP 등록",
+        "Title":"Census transform based stereo matching IP",
+        "Author":"Inventor : 문병인 \/ Data : 2014.02.26",
+        "Etc":"Application\/Registration No. (KIPEX)KU256H0495",
+        "URL":"\/datas\/publications\/HardwareIP\/Census transform based stereo matching IP.jpg",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"하드웨어 IP 등록",
+        "Title":"깊이 확산을 통한 3차원 깊이 맵 추출 IP",
+        "Author":"Inventor : 문병인, 조재욱 \/ Data : 2013.11.15",
+        "Etc":"Application\/Registration No.",
+        "URL":"\/datas\/publications\/HardwareIP\/깊이 확산을 통한 3차원 깊이 맵 추출 IP.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"하드웨어 IP 등록",
+        "Title":"SAD 기반 3차원 깊이맵 추출 IP",
+        "Author":"Inventor : 문병인, 손현식 \/ Data : 2012.11.14",
+        "Etc":"Application\/Registration No.",
+        "URL":"\/datas\/publications\/HardwareIP\/SAD 기반 3차원 깊이맵 추출 IP.jpg",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"해외특허",
+        "Title":"[등록] Rectification Apparatus of Stereo Vision System and Method Thereof",
+        "Author":"Inventor : Byungin Moon, Jongkil Hyun \/ Data : 2018.01.09",
+        "Etc":"Application\/Registration No. 9,866,821 B2",
+        "URL":"\/datas\/publications\/해외특허\/Rectification Apparatus of Stereo Vision System and Method Thereof.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"해외특허",
+        "Title":"[등록] Stereo Matching Method and System using Rectangular Window",
+        "Author":"Inventor : Byungin Moon, Kyeong-ryeol Bae, Kwang Yong Kim, Mi Ryong Park \/ Data : 2017.10.25",
+        "Etc":"Application\/Registration No. 15793528",
+        "URL":"\/datas\/publications\/해외특허\/Stereo Matching Method and System using Rectangular Window.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"해외특허",
+        "Title":"[등록] Method for Estimating Disparity Search Range to which Multi-Level Disparity Image Division is Applied, and Stereo Image Matching Device Using the Same",
+        "Author":"Inventor : Byungin Moon, Taewoong Ahn, Kyeongryeol Bae \/ Data : 2017.10.10",
+        "Etc":"Application\/Registration No. 9,785,825 B2",
+        "URL":"\/datas\/publications\/해외특허\/Method for Estimating Disparity Search Range to which Multi-Level Disparity Image Division is Applied, and Stereo Image Matching Device Using the Same.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"해외특허",
+        "Title":"[등록] Disparity Computation Method Through Stereo Matching Based on Census Transform with Adaptive Support Weight and System Thereof",
+        "Author":"Inventor : Byung In Moon, Kyeong Ryeol Bae, Hyeon Sik Son, Seung Ho Ok \/ Data : 2017.10.10",
+        "Etc":"Application\/Registration No. 9,786,063 B2",
+        "URL":"\/datas\/publications\/해외특허\/Disparity Computation Method Through Stereo Matching Based on Census Transform with Adaptive Support Weight and System Thereof.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"해외특허",
+        "Title":"[등록] Disparity Correcting Device in Stereo Vision and Method Thereof",
+        "Author":"Inventor : Byung In Moon, Kyeong Ryeol Bae \/ Data : 2017.08.29",
+        "Etc":"Application\/Registration No. 9,749,620 B2",
+        "URL":"\/datas\/publications\/해외특허\/Disparity Correcting Device in Stereo Vision and Method Thereof.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"해외특허",
+        "Title":"[등록] Method and Apparatus for Detecting Line Data Based on Hough Transform",
+        "Author":"Inventor : Byungin Moon, Jeong Rok Lee \/ Data : 2016.05.17",
+        "Etc":"Application\/Registration No. 9,342,750 B2",
+        "URL":"\/datas\/publications\/해외특허\/Method and Apparatus for Detecting Line Data Based on Hough Transform.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"해외특허",
+        "Title":"[등록] System for Real-Time Stereo Matching",
+        "Author":"Inventor : Byung In Moon, Seung Ho Ok, Kyeong-ryeol Bae, Hyeon-Sik Son \/ Data : 2015.04.21",
+        "Etc":"Application\/Registration No. 9,014,463 B2",
+        "URL":"\/datas\/publications\/해외특허\/System for Real-Time Stereo Matching.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"해외특허",
+        "Title":"[등록] Method and Apparatus for Performing Parallel Box Filtering in Region Based Image Processing",
+        "Author":"Inventor : Soon Kwon, Jong Hun Lee, Kyeong Ryeol Bae, Byung In Moon \/ Data : 2011.06.14",
+        "Etc":"Application\/Registration No. 7,961,971 B2",
+        "URL":"\/datas\/publications\/해외특허\/Method and Apparatus for Performing Parallel Box Filtering in Region Based Image Processing.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 네트워크 프로세서 패킷 처리 장치 및 그 방법",
+        "Author":"Inventor : 옥승호, 문병인 \/ Data : 2021.02.09",
+        "Etc":"Application\/Registration No. 10-2216523",
+        "URL":"\/datas\/publications\/국내특허\/네트워크 프로세서 패킷 처리 장치 및 그 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 버티컬 센서스 변환 기반 스테레오 정합을 통한 시차정보 생성장치 및 그 방법",
+        "Author":"Inventor : 문병인, 배경렬, 손현식 \/ Data : 2018.08.31",
+        "Etc":"Application\/Registration No. 10-1896160",
+        "URL":"\/datas\/publications\/국내특허\/버티컬 센서스 변환 기반 스테레오 정합을 통한 시차정보 생성장치 및 그 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 스테레오 비전 시스템의 렉티피케이션 장치 및 그 방법",
+        "Author":"Inventor : 문병인, 현종길 \/ Data : 2017.08.03",
+        "Etc":"Application\/Registration No. 10-1766756",
+        "URL":"\/datas\/publications\/국내특허\/스테레오 비전 시스템의 렉티피케이션 장치 및 그 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 다단계 시차영상 분할이 적용된 시차탐색범위 추정 방법 및 이를 이용한 스테레오 영상 정합장치",
+        "Author":"Inventor : 문병인, 안태웅, 배경렬 \/ Data : 2016.12.22",
+        "Etc":"Application\/Registration No. 10-1690645",
+        "URL":"\/datas\/publications\/국내특허\/다단계 시차영상 분할이 적용된 시차탐색범위 추정 방법 및 이를 이용한 스테레오 영상 정합장치.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[출원] 직사각형 윈도우를 이용한 스테레오 정합 방법 및 스테레오 정합 시스템",
+        "Author":"Inventor : 김광용, 문병인, 박미룡, 배경렬 \/ Data : 2016.11.08",
+        "Etc":"Application\/Registration No. 10-2016-0148300",
+        "URL":"\/datas\/publications\/국내특허\/직사각형 윈도우를 이용한 스테레오 정합 방법 및 스테레오 정합 시스템.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 적응적 영역 가중치가 적용된 센서스 변환 기반 스테레오 정합을 통한 시차 계산 방법 및 그 시스템",
+        "Author":"Inventor : 문병인, 배경렬, 손현식, 옥승호 \/ Data : 2016.05.12",
+        "Etc":"Application\/Registration No. 10-1622344",
+        "URL":"\/datas\/publications\/국내특허\/적응적 영역 가중치가 적용된 센서스 변환 기반 스테레오 정합을 통한 시차 계산 방법 및 그 시스템.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 스테레오 비젼에서의 시차 보정장치 및 그 방법",
+        "Author":"Inventor : 문병인, 배경렬 \/ Data : 2016.01.27",
+        "Etc":"Application\/Registration No. 10-1590777",
+        "URL":"\/datas\/publications\/국내특허\/스테레오 비젼에서의 시차 보정장치 및 그 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[출원] 상황인지 기반 전자 디바이스 분실방지시스템 및 그 방법",
+        "Author":"Inventor : 정임영, 김진성, 문병인 \/ Data : 2015.10.29",
+        "Etc":"Application\/Registration No. 10-2015-0150595",
+        "URL":"\/datas\/publications\/국내특허\/상황인지 기반 전자 디바이스 분실방지시스템 및 그 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 시드 픽셀 검출 방법 및 이를 이용한 확산 기반 스테레오 정합 방법",
+        "Author":"Inventor : 문병인, 조재욱 \/ Data : 2015.05.06",
+        "Etc":"Application\/Registration No. 10-1519725",
+        "URL":"\/datas\/publications\/국내특허\/시드 픽셀 검출 방법 및 이를 이용한 확산 기반 스테레오 정합 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 시차 탐색 범위 추정 장치 및 방법",
+        "Author":"Inventor : 문병인, 옥승호, 배경렬, 손현식 \/ Data : 2015.03.17",
+        "Etc":"Application\/Registration No. 10-1505360",
+        "URL":"\/datas\/publications\/국내특허\/시차 탐색 범위 추정 장치 및 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 허프 변환을 통한 직선 정보 검출 방법 및 장치",
+        "Author":"Inventor : 문병인, 이정록 \/ Data : 2015.01.07",
+        "Etc":"Application\/Registration No. 10-1482448",
+        "URL":"\/datas\/publications\/국내특허\/허프 변환을 통한 직선 정보 검출 방법 및 장치.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 실시간 스테레오 정합 시스템",
+        "Author":"Inventor : 문병인, 옥승호, 배경렬, 손현식 \/ Data : 2013.12.18",
+        "Etc":"Application\/Registration No. 10-1344943",
+        "URL":"\/datas\/publications\/국내특허\/실시간 스테레오 정합 시스템.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 영상 데이터의 상관도 산출 장치 및 산출 방법",
+        "Author":"Inventor : 문병인, 배경렬 \/ Data : 2013.08.05",
+        "Etc":"Application\/Registration No. 10-1295347",
+        "URL":"\/datas\/publications\/국내특허\/영상 데이터의 상관도 산출 장치 및 산출 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 엘리베이터를 위한 지능형 영상 감시 시스템",
+        "Author":"Inventor : 조정훈, 문병인, 윤경희 \/ Data : 2013.01.11",
+        "Etc":"Application\/Registration No. 10-1223606",
+        "URL":"\/datas\/publications\/국내특허\/엘리베이터를 위한 지능형 영상 감시 시스템.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 협업 감시 시스템 및 협업 감시 방법",
+        "Author":"Inventor : 조정훈, 문병인, 윤경희 \/ Data : 2012.10.25",
+        "Etc":"Application\/Registration No. 10-1196408",
+        "URL":"\/datas\/publications\/국내특허\/협업 감시 시스템 및 협업 감시 방법.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 고속연산으로 이미지의 유사도를 측정하는 방법 및 장치",
+        "Author":"Inventor : 권순, 이종훈, 배경렬, 문병인 \/ Data : 2010.09.02",
+        "Etc":"Application\/Registration No. 10-0981147",
+        "URL":"\/datas\/publications\/국내특허\/고속연산으로 이미지의 유사도를 측정하는 방법 및 장치.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 영역 기반 영상 처리에서 병렬적인 박스 필터링을 수행하는 방법 및 장치",
+        "Author":"Inventor : 권순, 이종훈, 배경렬, 문병인 \/ Data : 2010.07.29",
+        "Etc":"Application\/Registration No. 10-0973964",
+        "URL":"\/datas\/publications\/국내특허\/영역 기반 영상 처리에서 병렬적인 박스 필터링을 수행하는 방법 및 장치.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 고정길이 및 가변길이 래딕스-4 고속 퓨리에 변환을 위한 디지트 반전장치",
+        "Author":"Inventor : 옥승호, 문병인 \/ Data : 2009.09.15",
+        "Etc":"Application\/Registration No. 10-0918378",
+        "URL":"\/datas\/publications\/국내특허\/고정길이 및 가변길이 래딕스-4 고속 퓨리에 변환을 위한 디지트 반전장치.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 적응형 워터마크 삽입방법 및 그 장치",
+        "Author":"Inventor : 문병인, 임세윤 \/ Data : 2007.07.16",
+        "Etc":"Application\/Registration No. 10-0741815",
+        "URL":"\/datas\/publications\/국내특허\/적응형 워터마크 삽입방법 및 그 장치.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 전원 조정 회로",
+        "Author":"Inventor : 문병인 \/ Data : 2006.04.24",
+        "Etc":"Application\/Registration No. 10-0575061",
+        "URL":"\/datas\/publications\/국내특허\/전원 조정 회로.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내특허",
+        "Title":"[등록] 레지스터 리네이밍 방법을 사용하는 조건부 실행 비순차적 명령어 이슈 컴퓨터 시스템",
+        "Author":"Inventor : 문병인, 김문경, 홍인표, 김기창, 이용석 \/ Data : 2005.06.14",
+        "Etc":"Application\/Registration No. 10-0496904",
+        "URL":"\/datas\/publications\/국내특허\/레지스터 리네이밍 방법을 사용하는 조건부 실행 비순차적 명령어 이슈 컴퓨터 시스템.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 엠X1(MX1)블록 매칭을 적용한 센서스 기반 스테레오 정합",
+        "Author":"Inventor : 문병인, 성원석, 배경렬 \/ Data : 2015.07.13",
+        "Etc":"Application\/Registration No. C-2015-016498",
+        "URL":"\/datas\/publications\/프로그램\/엠X1(MX1)블록 매칭을 적용한 센서스 기반 스테레오 정합.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 시차 영상 다단계 블록화가 적용된 시차 탐색 범위 추정 프로그램",
+        "Author":"Inventor : 문병인,안태웅, 배경렬 \/ Data : 2015.07.13",
+        "Etc":"Application\/Registration No. C-2015-016497",
+        "URL":"\/datas\/publications\/프로그램\/시차 영상 다단계 블록화가 적용된 시차 탐색 범위 추정 프로그램.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 관심영역 병합 전처리 라이브러리",
+        "Author":"Inventor : 문병인, 허성남 \/ Data : 2014.11.18",
+        "Etc":"Application\/Registration No. C-2014-028727",
+        "URL":"\/datas\/publications\/프로그램\/관심영역 병합 전처리 라이브러리.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 좌우 교차 검토 라이브러리",
+        "Author":"Inventor : 문병인, 배경렬, 현종길 \/ Data : 2014.11.18",
+        "Etc":"Application\/Registration No. C-2014-028726",
+        "URL":"\/datas\/publications\/프로그램\/좌우 교차 검토 라이브러리.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 특징점 매칭 기반의 점진적 관심영역 추출 라이브러리",
+        "Author":"Inventor : 허성남, 문병인 \/ Data : 2014.07.09",
+        "Etc":"Application\/Registration No. C-2014-016878",
+        "URL":"\/datas\/publications\/프로그램\/특징점 매칭 기반의 점진적 관심영역 추출 라이브러리.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 블록 레벨 희스토그램 기반 시차 탐색 범위 추정 라이브러리",
+        "Author":"Inventor : 문병인, 손현식 \/ Data : 2014.07.09",
+        "Etc":"Application\/Registration No. C-2014-016877",
+        "URL":"\/datas\/publications\/프로그램\/블록 레벨 희스토그램 기반 시차 탐색 범위 추정 라이브러리.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 정확도 높은 시드 픽셀 검출 라이브러리",
+        "Author":"Inventor : 조재욱, 장영종, 문병인 \/ Data : 2013.07.18",
+        "Etc":"Application\/Registration No. C-2013-014603",
+        "URL":"\/datas\/publications\/프로그램\/정확도 높은 시드 픽셀 검출 라이브러리.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 에이디 센서스(AD-Census) 기반 스테레오 정합 라이브러리",
+        "Author":"Inventor : 조재욱, 장영종, 문병인 \/ Data : 2013.07.18",
+        "Etc":"Application\/Registration No. C-2013-014602",
+        "URL":"\/datas\/publications\/프로그램\/에이디 센서스(AD-Census) 기반 스테레오 정합 라이브러리.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 페이지 교체 정책 시뮬레이터",
+        "Author":"Inventor : 민경국, 배경렬, 손현식, 장영종, 문병인 \/ Data : 2012.11.09",
+        "Etc":"Application\/Registration No. C-2012-022185",
+        "URL":"\/datas\/publications\/프로그램\/페이지 교체 정책 시뮬레이터.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 다이나믹 프로그래밍 기반 스테레오 정합 라이브러리",
+        "Author":"Inventor : 조재욱, 배경렬, 장영종, 문병인 \/ Data : 2012.11.09",
+        "Etc":"Application\/Registration No. C-2012-022184",
+        "URL":"\/datas\/publications\/프로그램\/다이나믹 프로그래밍 기반 스테레오 정합 라이브러리.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"프로그램",
+        "Title":"[등록] 스테레오 정합 라이브러리",
+        "Author":"Inventor : 배경렬, 옥승호, 장영종, 문병인 \/ Data : 2011.11.29",
+        "Etc":"Application\/Registration No. 2011-01-121-008226",
+        "URL":"\/datas\/publications\/프로그램\/스테레오 정합 라이브러리.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[포스터] 초고속 메모리 테스트를 위한 패턴 생성기 ASIC",
+        "Author":"Inventor : 김정환, 민경국, 정성훈, 문병인 \/ Date : 2024.07.09",
+        "Etc":"Publication : 2024 IDEC Congress",
+        "URL":"\/datas\/publications\/CDC\/[포스터] 초고속 메모리 테스트를 위한 패턴 생성기 ASIC.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[포스터] Face Detection Accelerator ASIC",
+        "Author":"Inventor : Sunghun Jung, Kyeong-Kuk Min, Hayoon Song, and Byungin Moon \/ Date : 2023.10.26",
+        "Etc":"Publication : ISOCC 2023 Chip Design Contest",
+        "URL":"\/datas\/publications\/CDC\/[포스터] 2023 Face Detection Accelerator ASIC.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[포스터] Face Detection Accelerator Based on Haar Cascade Classifiers",
+        "Author":"Inventor : Junghwan Kim, Hayoon Song, Sunghun Jung, and Byungin Moon \/ Date : 2023.08.25",
+        "Etc":"Publication : 시스템반도체인력양성사업 칩 디자인 경진대회",
+        "URL":"\/datas\/publications\/CDC\/[포스터] Face Detection Accelerator Based on Haar Cascade Classifiers.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[포스터] SGM 기반 3차원 정보 추출 ASIC",
+        "Author":"Inventor : 김영현, 민경국, 문병인 \/ Date : 2023.07.06",
+        "Etc":"Publication : ISOCC 2023 Chip Design Contest",
+        "URL":"\/datas\/publications\/CDC\/[포스터] 2023 SGM 기반 3차원 정보 추출 ASIC.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[포스터] Face detection accelerator ASIC",
+        "Author":"Inventor : Jongkil Hyun, Kyeong-Kuk Min, and Byungin Moon \/ Date : 2022.10.20",
+        "Etc":"Publication : ISOCC 2022 Chip Design Contest",
+        "URL":"\/datas\/publications\/CDC\/[포스터] 2022 Face detection accelerator ASIC.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[포스터] 전방 상황 인지를 위한 얼굴 검출 가속기",
+        "Author":"Inventor : 현종길, 민경국, 문병인 \/ Date : 2022.07.07",
+        "Etc":"Publication : 2022 IDEC Congress",
+        "URL":"\/datas\/publications\/CDC\/[포스터] 전방 상황 인지를 위한 얼굴 검출 가속기.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[포스터] SGM 기반 3차원 정보 추출 ASIC",
+        "Author":"Inventor : 김영현, 현종길, 민경국, 문병인 \/ Date : 2022.07.07",
+        "Etc":"Publication : 2022 IDEC Congress",
+        "URL":"\/datas\/publications\/CDC\/[포스터] 2022 SGM 기반 3차원 정보 추출 ASIC.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[데모] A Census Transform Based Stereo Matching Processor Using Sparse Multi-Windows",
+        "Author":"Inventor : 민경국, 문병인 \/ Date : 2017.02.15",
+        "Etc":"Publication : KCS 2017 Chip Design Contest",
+        "URL":"\/datas\/publications\/CDC\/[데모] A Census Transform Based Stereo Matching Processor Using Sparse Multi-Windows.pdf",
+        "prize_category":"Best Demo Award",
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[포스터] Adaptive Support Weight Based Stereo Matching Accelerator",
+        "Author":"Inventor : Kyeong-Kuk Min, Hyeon-Sik Son, Kyeong-ryeol Bae, and Byungin Moon \/ Date : 2015.11.03",
+        "Etc":"Publication : ISOCC 2015 Chip Design Contest",
+        "URL":"\/datas\/publications\/CDC\/[포스터] Adaptive Support Weight Based Stereo Matching Accelerator.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[패널] A Hough Transform-Based Line Detection Accelerator",
+        "Author":"Inventor : Jeong-Rok Lee, Hyeon-Sik Son, Kyeong-ryeol Bae, and Byungin Moon \/ Date : 2014.02.25",
+        "Etc":"Publication : KCS 2014 Chip Design Contest",
+        "URL":"\/datas\/publications\/CDC\/[패널] A Hough Transform-Based Line Detection Accelerator.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[데모] Census Transform Based Stereo Matching Accelerator",
+        "Author":"Inventor : Hyeon-Sik Son, Kyeong-ryeol Bae, Seung-Ho Ok, and Byungin Moon \/ Date : 2013.11.18",
+        "Etc":"Publication : ISOCC 2013 Chip Design Contest",
+        "URL":"\/datas\/publications\/CDC\/[데모] Census Transform Based Stereo Matching Accelerator.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    }
+]

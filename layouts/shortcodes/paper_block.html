@@ -1,0 +1,193 @@
+{{ $scroll := .Get "scroll" }}
+{{ $category := .Get "category" }}
+{{ $nameKorean := .Get "name_kr" }}
+{{ $nameEnglish := .Get "name_en" }}
+{{ $indexing := .Get "indexing" }}
+{{ $prize := .Get "prize"}}
+
+{{ $filteredPapers := slice }}
+{{ range $index, $paper := .Site.Data.data }}
+{{ $author := index $paper "Author" }}
+{{ $prize_category := index $paper "prize_category" }}
+
+{{ $categoryMatch := or (eq $category "") (eq (index $paper "Category") $category) }}
+{{ $nameKoreanMatch := or (eq $nameKorean "") (in $author $nameKorean) }}
+{{ $nameEnglishMatch := or (eq $nameEnglish "") (in $author $nameEnglish) }}
+{{ $prizeMatch := ne $prize_category "" }}
+
+
+{{ if eq $prize "" }}
+  {{ if and $categoryMatch (or $nameKoreanMatch $nameEnglishMatch)}}
+    {{ $filteredPapers = $filteredPapers | append $paper }}
+  {{ end }}
+{{ else }}
+  {{ if and $categoryMatch (or $nameKoreanMatch $nameEnglishMatch) $prize_category}}
+    {{ $filteredPapers = $filteredPapers | append $paper }}
+  {{ end }}
+{{ end }}
+{{ end }}
+  
+
+{{ if gt (len $filteredPapers) 0 }}
+<ul class="paper-list{{ $scroll }}">
+  {{ range $index, $paper := $filteredPapers }}
+  {{ $reverseIndex := add (sub (len $filteredPapers) (add $index 1)) 1}}
+  <div class="{{ if or (index $paper "URL") (index $paper "prize_URL") }}paper{{ else }}paper-no-link{{ end }}" id="{{ $category }}">
+      {{ if and (ne $indexing "no") ((eq $indexing "")) }}
+      <div class="index">{{ $reverseIndex }}</div>
+      {{ end }}
+      <div class="paper-content">          
+        <strong title="{{ index $paper "Description" }}">
+          {{if (index $paper "prize_category") }} [{{ index $paper "prize_category" }}] {{end}} {{ index $paper "Title" }}
+        </strong><br>
+        {{ index $paper "Author" }}<br>
+        {{ index $paper "Etc" }}<br>
+        {{ if and (index $paper "Note") (ne (index $paper "Note") "") }}
+        <div class="note-hover">Note : {{ index $paper "Note" }}</div>
+        {{ end }}
+      </div>
+      {{ if $prize }}
+        {{ if (index $paper "prize_URL") }}
+          {{ with index $paper "prize_URL" }}
+          <a class="paper-link" href="{{ . }}"></a>
+          {{ end }}
+        {{ else }}
+          {{ with index $paper "URL" }}
+          <a class="paper-link" href="{{ . }}"></a>
+          {{ end }}
+        {{ end }}
+      {{ else }}
+        {{ with index $paper "URL" }}
+        <a class="paper-link" href="{{ . }}"></a>
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
+</ul>
+{{ end }}
+
+<script>
+  var paperList = document.querySelectorAll('.paper, .paper-no-link');
+  paperList.forEach(function (paper) {
+    var noteHover = paper.querySelector('.note-hover');
+    if (noteHover) {
+      paper.addEventListener('mouseover', function () {
+        noteHover.style.display = 'block';
+      });
+      paper.addEventListener('mouseout', function () {
+        noteHover.style.display = 'none';
+      });
+    }
+    paper.addEventListener('mousemove', function (e) {
+      var x = e.offsetX
+      const focusElX = e.offsetX + "px"
+      var y = e.offsetY
+      const focusElY = e.offsetY + "px"
+      var rotateX = -4 / 9 * y + 20
+      var rotateY = -2 / 45 * x + 20
+      // console.log(x, y, rotateX, rotateY);
+      paper.style = 'transform : translateX(50px) scale(1.07) perspective(800px) rotateX(' + rotateX / 2 + 'deg) rotateY(' + rotateY / 2 + 'deg)'
+      paper.style.background = radial-gradient(
+      circle 200px at ${focusElX} ${focusElY},
+      rgba(255, 255, 255, 1) 30%,
+      rgba(255, 255, 255, 0.7) 70%,
+      rgba(225, 225, 225, 0.3) 100%
+    })
+    paper.addEventListener('mouseout', function () {
+      paper.style = 'transform : rotate(0)'
+    });
+  });
+</script>
+
+<style>
+  .paper-listyes {
+    max-height: 800px;
+    padding-right : 60px;
+    overflow-x: hidden; /* 가로 스크롤 제거 */
+    overflow-y: auto;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.3);
+  }
+  .paper-listyes > .paper {
+  filter: none; /* 모든 논문 목록을 선명하게 표시 */
+}
+
+.paper, .paper-no-link {
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    border-radius: 20px; /* 테두리를 약간 둥글게 만듭니다 */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    transition: transform 0.2s ease, box-shadow 0.8s ease; /* 애니메이션 효과를 추가합니다 */
+    background: linear-gradient(to bottom, #ffffff, white); 위에서 아래로 투명하게 변하는 그라데이션 배경색을 적용합니다
+    z-index: 1; /* z-index를 추가하여 그림자가 다른 요소 위에 나타나도록 합니다 */
+  }
+
+  .paper:hover {
+    transition: transform 0.2s ease, box-shadow 0.4s ease; /* 애니메이션 효과를 추가합니다 */
+    transform: translateX(5px) scale(1.08); /* 마우스 오버 시 약간 확대합니다 */
+    z-index: 3; /* 마우스 오버 시 z-index를 높여 그림자가 다른 요소 위에 나타나도록 합니다 */
+    box-shadow:
+    inset 0 -3em 3em rgba(95, 127, 255, 0.5),
+    0 0 0 0px white,
+    0 0 0 0px white,
+    0 0 0 0px white,
+    0.3em 0.3em 1em rgba(255, 255, 255, 0.9);
+  }
+  
+  .paper-no-link:hover {
+    transition: transform 0.2s ease, box-shadow 0.4s ease; /* 애니메이션 효과를 추가합니다 */
+    transform: translateX(5px) scale(1.08); /* 마우스 오버 시 약간 확대합니다 */
+    z-index: 3; /* 마우스 오버 시 z-index를 높여 그림자가 다른 요소 위에 나타나도록 합니다 */
+    box-shadow:
+    inset 0 -3em 3em rgba(71, 71, 71, 0.5),
+    0 0 0 0px white,
+    0.3em 0.3em 1em rgba(255, 255, 255, 0.9);
+  }
+  
+  .index {
+    flex: 0 0 30px;
+    margin-left: 10px; /* 여백 추가 */
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .paper-content {
+    flex: 1;
+    padding-left: 20px;
+  }
+  
+  .note-hover {
+    display: none;
+    color: blue;
+    font-weight: bold;
+  }
+  
+  .paper-link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: black;
+  }
+  .paper-link::after {
+  /* content: "관련 링크"; */
+  display: none;
+  position: absolute;
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 5px;
+  font-size: 18px; /* 툴팁의 폰트 크기를 조절합니다 */
+}
+
+.paper-link:hover::after {
+  display: block;
+  top: 30%;
+  left: 1%;
+  transform: translateX(-50%);
+}
+</style>

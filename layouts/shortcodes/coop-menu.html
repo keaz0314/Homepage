@@ -1,0 +1,121 @@
+<head>
+  <style>
+    /* 기본 square 스타일 */
+    .square {
+      width: 300px;
+      height: 300px;
+      border: 1px solid black;
+      margin: 10px;
+      display: inline-block;
+    }
+
+    /* 기본 table 스타일 */
+    table {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="square" style="min-width: 900px;"></div>
+  <!-- 나머지 square들 추가 -->
+  <div class="square"></div>
+  <div class="square"></div>
+  <div class="square"></div>
+
+  <!-- 테이블들 추가 -->
+  <table>
+    <!-- 요일에 따른 데이터 표시 -->
+  </table>
+  <table>
+    <!-- 요일에 따른 데이터 표시 -->
+  </table>
+  <table>
+    <!-- 요일에 따른 데이터 표시 -->
+  </table>
+  <table>
+    <!-- 요일에 따른 데이터 표시 -->
+  </table>
+
+  <script>
+    window.onload = function () {
+      var currentDate = new Date();
+      var currentDay = currentDate.getDay(); // 0: 일요일, 1: 월요일, ..., 6: 토요일
+
+      // 요일에 해당하는 열(col)을 표시하는 함수
+      function displayDayColumns(day) {
+        var tables = document.querySelectorAll('table'); // 모든 테이블 선택
+
+        for (var t = 0; t < tables.length; t++) {
+          var rows = tables[t].rows; // 각 테이블의 모든 행 선택
+
+          for (var i = 0; i < rows.length; i++) {
+            var cells = rows[i].cells; // 각 행의 셀 선택
+
+            for (var j = 0; j < cells.length; j++) {
+              if (j === day) { // 요일에 해당하는 열만 표시
+                cells[j].style.display = 'table-cell';
+              } else {
+                cells[j].style.display = 'none'; // 나머지 열 숨김
+              }
+            }
+          }
+        }
+      }
+
+      function displayAllColumns() {
+        var tables = document.querySelectorAll('table'); // 모든 테이블 선택
+
+        for (var t = 0; t < tables.length; t++) {
+          var rows = tables[t].rows; // 각 테이블의 모든 행 선택
+
+          for (var i = 0; i < rows.length; i++) {
+            var cells = rows[i].cells; // 각 행의 셀 선택
+
+            for (var j = 0; j < cells.length; j++) {
+              cells[j].style.display = 'table-cell';
+            }
+          }
+        }
+      }
+
+      // 초기 페이지 로드 시 현재 요일에 해당하는 열만 표시
+      displayDayColumns(currentDay);
+
+      var squares = document.querySelectorAll('.square');
+
+      squares.forEach(function (square) {
+        square.addEventListener('mouseover', function () {
+          // 마우스를 올린 square 안에 있는 테이블 표시, 나머지 square는 숨김
+          tables = square.querySelectorAll('table');
+          tables.forEach(function (table) {
+            table.style.display = 'table';
+          });
+
+          squares.forEach(function (s) {
+            if (s !== square) {
+              s.style.display = 'none';
+            } else {
+              s.style.minWidth = '900px'; // 마우스를 올렸을 때 최소 너비 조정
+            }
+
+          });
+          displayAllColumns()
+        });
+
+        square.addEventListener('mouseout', function () {
+          // 마우스를 치웠을 때 모든 square 표시하고 현재 요일에 해당하는 열만 표시
+          tables = document.querySelectorAll('table');
+          tables.forEach(function (table) {
+            table.style.display = 'flex';
+          });
+
+          squares.forEach(function (s) {
+            s.style.display = 'inline-block';
+            s.style.minWidth = ''; // 마우스를 땠을 때 최소 너비 초기화
+          });
+          displayDayColumns(currentDay);
+        });
+      });
+    };
+  </script>
+</body>

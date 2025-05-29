@@ -1,0 +1,17 @@
+baseURL = 'https://soc.knu.ac.kr'
+languageCode = 'ko-kr'
+title = 'SoC Laborotary'
+theme = "hugo-book"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+
+[params]
+  BookToC = false
+  BookSearch = false
+  BookLogo = "/datas/webpage_base/main_logo.png"
+  BookFavicon = "/datas/webpage_base/soc_icon.png"
+  allowSearchIndexing = false
+
+  
