@@ -10,6 +10,8 @@ weight: 2
 
 <style>
 .book-page {
+  min-width: 1230px;
+  max-width: 1800px;
   padding-left: 16px;
   padding-right: 16px;
   /* text-align: -webkit-center; */
