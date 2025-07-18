@@ -1,0 +1,1350 @@
+{
+  ".git": {
+    "type": "file",
+    "name": ".git",
+    "url": "/uploads/.git"
+  },
+  ".gitignore": {
+    "type": "file",
+    "name": ".gitignore",
+    "url": "/uploads/.gitignore"
+  },
+  "themes": {
+    "type": "folder",
+    "name": "themes",
+    "children": {
+      "hugo-book": {
+        "type": "folder",
+        "name": "hugo-book",
+        "children": {
+          ".git": {
+            "type": "file",
+            "name": ".git",
+            "url": "/uploads/themes/hugo-book/.git"
+          },
+          ".github": {
+            "type": "folder",
+            "name": ".github",
+            "children": {
+              "workflows": {
+                "type": "folder",
+                "name": "workflows",
+                "children": {
+                  "main.yml": {
+                    "type": "file",
+                    "name": "main.yml",
+                    "url": "/uploads/themes/hugo-book/.github/workflows/main.yml"
+                  }
+                }
+              }
+            }
+          },
+          ".gitignore": {
+            "type": "file",
+            "name": ".gitignore",
+            "url": "/uploads/themes/hugo-book/.gitignore"
+          },
+          "LICENSE": {
+            "type": "file",
+            "name": "LICENSE",
+            "url": "/uploads/themes/hugo-book/LICENSE"
+          },
+          "README.md": {
+            "type": "file",
+            "name": "README.md",
+            "url": "/uploads/themes/hugo-book/README.md"
+          },
+          "archetypes": {
+            "type": "folder",
+            "name": "archetypes",
+            "children": {
+              "docs.md": {
+                "type": "file",
+                "name": "docs.md",
+                "url": "/uploads/themes/hugo-book/archetypes/docs.md"
+              },
+              "posts.md": {
+                "type": "file",
+                "name": "posts.md",
+                "url": "/uploads/themes/hugo-book/archetypes/posts.md"
+              }
+            }
+          },
+          "assets": {
+            "type": "folder",
+            "name": "assets",
+            "children": {
+              "_custom.scss": {
+                "type": "file",
+                "name": "_custom.scss",
+                "url": "/uploads/themes/hugo-book/assets/_custom.scss"
+              },
+              "_defaults.scss": {
+                "type": "file",
+                "name": "_defaults.scss",
+                "url": "/uploads/themes/hugo-book/assets/_defaults.scss"
+              },
+              "_fonts.scss": {
+                "type": "file",
+                "name": "_fonts.scss",
+                "url": "/uploads/themes/hugo-book/assets/_fonts.scss"
+              },
+              "_main.scss": {
+                "type": "file",
+                "name": "_main.scss",
+                "url": "/uploads/themes/hugo-book/assets/_main.scss"
+              },
+              "_markdown.scss": {
+                "type": "file",
+                "name": "_markdown.scss",
+                "url": "/uploads/themes/hugo-book/assets/_markdown.scss"
+              },
+              "_print.scss": {
+                "type": "file",
+                "name": "_print.scss",
+                "url": "/uploads/themes/hugo-book/assets/_print.scss"
+              },
+              "_shortcodes.scss": {
+                "type": "file",
+                "name": "_shortcodes.scss",
+                "url": "/uploads/themes/hugo-book/assets/_shortcodes.scss"
+              },
+              "_utils.scss": {
+                "type": "file",
+                "name": "_utils.scss",
+                "url": "/uploads/themes/hugo-book/assets/_utils.scss"
+              },
+              "_variables.scss": {
+                "type": "file",
+                "name": "_variables.scss",
+                "url": "/uploads/themes/hugo-book/assets/_variables.scss"
+              },
+              "book.scss": {
+                "type": "file",
+                "name": "book.scss",
+                "url": "/uploads/themes/hugo-book/assets/book.scss"
+              },
+              "clipboard.js": {
+                "type": "file",
+                "name": "clipboard.js",
+                "url": "/uploads/themes/hugo-book/assets/clipboard.js"
+              },
+              "manifest.json": {
+                "type": "file",
+                "name": "manifest.json",
+                "url": "/uploads/themes/hugo-book/assets/manifest.json"
+              },
+              "menu-reset.js": {
+                "type": "file",
+                "name": "menu-reset.js",
+                "url": "/uploads/themes/hugo-book/assets/menu-reset.js"
+              },
+              "mermaid.json": {
+                "type": "file",
+                "name": "mermaid.json",
+                "url": "/uploads/themes/hugo-book/assets/mermaid.json"
+              },
+              "normalize.css": {
+                "type": "file",
+                "name": "normalize.css",
+                "url": "/uploads/themes/hugo-book/assets/normalize.css"
+              },
+              "plugins": {
+                "type": "folder",
+                "name": "plugins",
+                "children": {
+                  "_numbered.scss": {
+                    "type": "file",
+                    "name": "_numbered.scss",
+                    "url": "/uploads/themes/hugo-book/assets/plugins/_numbered.scss"
+                  },
+                  "_scrollbars.scss": {
+                    "type": "file",
+                    "name": "_scrollbars.scss",
+                    "url": "/uploads/themes/hugo-book/assets/plugins/_scrollbars.scss"
+                  }
+                }
+              },
+              "search-data.json": {
+                "type": "file",
+                "name": "search-data.json",
+                "url": "/uploads/themes/hugo-book/assets/search-data.json"
+              },
+              "search.js": {
+                "type": "file",
+                "name": "search.js",
+                "url": "/uploads/themes/hugo-book/assets/search.js"
+              },
+              "sw-register.js": {
+                "type": "file",
+                "name": "sw-register.js",
+                "url": "/uploads/themes/hugo-book/assets/sw-register.js"
+              },
+              "sw.js": {
+                "type": "file",
+                "name": "sw.js",
+                "url": "/uploads/themes/hugo-book/assets/sw.js"
+              },
+              "themes": {
+                "type": "folder",
+                "name": "themes",
+                "children": {
+                  "_auto.scss": {
+                    "type": "file",
+                    "name": "_auto.scss",
+                    "url": "/uploads/themes/hugo-book/assets/themes/_auto.scss"
+                  },
+                  "_dark.scss": {
+                    "type": "file",
+                    "name": "_dark.scss",
+                    "url": "/uploads/themes/hugo-book/assets/themes/_dark.scss"
+                  },
+                  "_light.scss": {
+                    "type": "file",
+                    "name": "_light.scss",
+                    "url": "/uploads/themes/hugo-book/assets/themes/_light.scss"
+                  }
+                }
+              }
+            }
+          },
+          "exampleSite": {
+            "type": "folder",
+            "name": "exampleSite",
+            "children": {
+              "assets": {
+                "type": "folder",
+                "name": "assets",
+                "children": {
+                  "_custom.scss": {
+                    "type": "file",
+                    "name": "_custom.scss",
+                    "url": "/uploads/themes/hugo-book/exampleSite/assets/_custom.scss"
+                  },
+                  "_variables.scss": {
+                    "type": "file",
+                    "name": "_variables.scss",
+                    "url": "/uploads/themes/hugo-book/exampleSite/assets/_variables.scss"
+                  }
+                }
+              },
+              "content.en": {
+                "type": "folder",
+                "name": "content.en",
+                "children": {
+                  "_index.md": {
+                    "type": "file",
+                    "name": "_index.md",
+                    "url": "/uploads/themes/hugo-book/exampleSite/content.en/_index.md"
+                  },
+                  "docs": {
+                    "type": "folder",
+                    "name": "docs",
+                    "children": {
+                      "example": {
+                        "type": "folder",
+                        "name": "example",
+                        "children": {
+                          "_index.md": {
+                            "type": "file",
+                            "name": "_index.md",
+                            "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/example/_index.md"
+                          },
+                          "collapsed": {
+                            "type": "folder",
+                            "name": "collapsed",
+                            "children": {
+                              "3rd-level": {
+                                "type": "folder",
+                                "name": "3rd-level",
+                                "children": {
+                                  "4th-level.md": {
+                                    "type": "file",
+                                    "name": "4th-level.md",
+                                    "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/example/collapsed/3rd-level/4th-level.md"
+                                  },
+                                  "_index.md": {
+                                    "type": "file",
+                                    "name": "_index.md",
+                                    "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/example/collapsed/3rd-level/_index.md"
+                                  }
+                                }
+                              },
+                              "_index.md": {
+                                "type": "file",
+                                "name": "_index.md",
+                                "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/example/collapsed/_index.md"
+                              }
+                            }
+                          },
+                          "hidden.md": {
+                            "type": "file",
+                            "name": "hidden.md",
+                            "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/example/hidden.md"
+                          },
+                          "table-of-contents": {
+                            "type": "folder",
+                            "name": "table-of-contents",
+                            "children": {
+                              "_index.md": {
+                                "type": "file",
+                                "name": "_index.md",
+                                "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/example/table-of-contents/_index.md"
+                              },
+                              "with-toc.md": {
+                                "type": "file",
+                                "name": "with-toc.md",
+                                "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/example/table-of-contents/with-toc.md"
+                              },
+                              "without-toc.md": {
+                                "type": "file",
+                                "name": "without-toc.md",
+                                "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/example/table-of-contents/without-toc.md"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "shortcodes": {
+                        "type": "folder",
+                        "name": "shortcodes",
+                        "children": {
+                          "_index.md": {
+                            "type": "file",
+                            "name": "_index.md",
+                            "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/_index.md"
+                          },
+                          "buttons.md": {
+                            "type": "file",
+                            "name": "buttons.md",
+                            "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/buttons.md"
+                          },
+                          "columns.md": {
+                            "type": "file",
+                            "name": "columns.md",
+                            "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/columns.md"
+                          },
+                          "details.md": {
+                            "type": "file",
+                            "name": "details.md",
+                            "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/details.md"
+                          },
+                          "hints.md": {
+                            "type": "file",
+                            "name": "hints.md",
+                            "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/hints.md"
+                          },
+                          "katex.md": {
+                            "type": "file",
+                            "name": "katex.md",
+                            "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/katex.md"
+                          },
+                          "mermaid.md": {
+                            "type": "file",
+                            "name": "mermaid.md",
+                            "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/mermaid.md"
+                          },
+                          "section": {
+                            "type": "folder",
+                            "name": "section",
+                            "children": {
+                              "_index.md": {
+                                "type": "file",
+                                "name": "_index.md",
+                                "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/section/_index.md"
+                              },
+                              "first-page.md": {
+                                "type": "file",
+                                "name": "first-page.md",
+                                "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/section/first-page.md"
+                              },
+                              "second-page.md": {
+                                "type": "file",
+                                "name": "second-page.md",
+                                "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/section/second-page.md"
+                              }
+                            }
+                          },
+                          "tabs.md": {
+                            "type": "file",
+                            "name": "tabs.md",
+                            "url": "/uploads/themes/hugo-book/exampleSite/content.en/docs/shortcodes/tabs.md"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "posts": {
+                    "type": "folder",
+                    "name": "posts",
+                    "children": {
+                      "_index.md": {
+                        "type": "file",
+                        "name": "_index.md",
+                        "url": "/uploads/themes/hugo-book/exampleSite/content.en/posts/_index.md"
+                      },
+                      "creating-a-new-theme.md": {
+                        "type": "file",
+                        "name": "creating-a-new-theme.md",
+                        "url": "/uploads/themes/hugo-book/exampleSite/content.en/posts/creating-a-new-theme.md"
+                      },
+                      "goisforlovers.md": {
+                        "type": "file",
+                        "name": "goisforlovers.md",
+                        "url": "/uploads/themes/hugo-book/exampleSite/content.en/posts/goisforlovers.md"
+                      },
+                      "hugoisforlovers.md": {
+                        "type": "file",
+                        "name": "hugoisforlovers.md",
+                        "url": "/uploads/themes/hugo-book/exampleSite/content.en/posts/hugoisforlovers.md"
+                      },
+                      "migrate-from-jekyll.md": {
+                        "type": "file",
+                        "name": "migrate-from-jekyll.md",
+                        "url": "/uploads/themes/hugo-book/exampleSite/content.en/posts/migrate-from-jekyll.md"
+                      }
+                    }
+                  }
+                }
+              },
+              "content.he": {
+                "type": "folder",
+                "name": "content.he",
+                "children": {
+                  "_index.md": {
+                    "type": "file",
+                    "name": "_index.md",
+                    "url": "/uploads/themes/hugo-book/exampleSite/content.he/_index.md"
+                  }
+                }
+              },
+              "content.zh": {
+                "type": "folder",
+                "name": "content.zh",
+                "children": {
+                  "_index.md": {
+                    "type": "file",
+                    "name": "_index.md",
+                    "url": "/uploads/themes/hugo-book/exampleSite/content.zh/_index.md"
+                  }
+                }
+              },
+              "hugo.toml": {
+                "type": "file",
+                "name": "hugo.toml",
+                "url": "/uploads/themes/hugo-book/exampleSite/hugo.toml"
+              },
+              "hugo.yaml": {
+                "type": "file",
+                "name": "hugo.yaml",
+                "url": "/uploads/themes/hugo-book/exampleSite/hugo.yaml"
+              }
+            }
+          },
+          "go.mod": {
+            "type": "file",
+            "name": "go.mod",
+            "url": "/uploads/themes/hugo-book/go.mod"
+          },
+          "i18n": {
+            "type": "folder",
+            "name": "i18n",
+            "children": {
+              "am.yaml": {
+                "type": "file",
+                "name": "am.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/am.yaml"
+              },
+              "bn.yaml": {
+                "type": "file",
+                "name": "bn.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/bn.yaml"
+              },
+              "cn.yaml": {
+                "type": "file",
+                "name": "cn.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/cn.yaml"
+              },
+              "cs.yaml": {
+                "type": "file",
+                "name": "cs.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/cs.yaml"
+              },
+              "de.yaml": {
+                "type": "file",
+                "name": "de.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/de.yaml"
+              },
+              "en.yaml": {
+                "type": "file",
+                "name": "en.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/en.yaml"
+              },
+              "es.yaml": {
+                "type": "file",
+                "name": "es.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/es.yaml"
+              },
+              "fa.yaml": {
+                "type": "file",
+                "name": "fa.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/fa.yaml"
+              },
+              "fr.yaml": {
+                "type": "file",
+                "name": "fr.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/fr.yaml"
+              },
+              "he.yaml": {
+                "type": "file",
+                "name": "he.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/he.yaml"
+              },
+              "it.yaml": {
+                "type": "file",
+                "name": "it.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/it.yaml"
+              },
+              "ja.yaml": {
+                "type": "file",
+                "name": "ja.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/ja.yaml"
+              },
+              "jp.yaml": {
+                "type": "file",
+                "name": "jp.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/jp.yaml"
+              },
+              "ko.yaml": {
+                "type": "file",
+                "name": "ko.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/ko.yaml"
+              },
+              "nb.yaml": {
+                "type": "file",
+                "name": "nb.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/nb.yaml"
+              },
+              "nl.yaml": {
+                "type": "file",
+                "name": "nl.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/nl.yaml"
+              },
+              "oc.yaml": {
+                "type": "file",
+                "name": "oc.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/oc.yaml"
+              },
+              "pl.yaml": {
+                "type": "file",
+                "name": "pl.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/pl.yaml"
+              },
+              "pt.yaml": {
+                "type": "file",
+                "name": "pt.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/pt.yaml"
+              },
+              "ru.yaml": {
+                "type": "file",
+                "name": "ru.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/ru.yaml"
+              },
+              "sv.yaml": {
+                "type": "file",
+                "name": "sv.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/sv.yaml"
+              },
+              "tr.yaml": {
+                "type": "file",
+                "name": "tr.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/tr.yaml"
+              },
+              "uk.yaml": {
+                "type": "file",
+                "name": "uk.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/uk.yaml"
+              },
+              "zh-TW.yaml": {
+                "type": "file",
+                "name": "zh-TW.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/zh-TW.yaml"
+              },
+              "zh.yaml": {
+                "type": "file",
+                "name": "zh.yaml",
+                "url": "/uploads/themes/hugo-book/i18n/zh.yaml"
+              }
+            }
+          },
+          "images": {
+            "type": "folder",
+            "name": "images",
+            "children": {
+              "screenshot.png": {
+                "type": "file",
+                "name": "screenshot.png",
+                "url": "/uploads/themes/hugo-book/images/screenshot.png"
+              },
+              "tn.png": {
+                "type": "file",
+                "name": "tn.png",
+                "url": "/uploads/themes/hugo-book/images/tn.png"
+              }
+            }
+          },
+          "layouts": {
+            "type": "folder",
+            "name": "layouts",
+            "children": {
+              "404.html": {
+                "type": "file",
+                "name": "404.html",
+                "url": "/uploads/themes/hugo-book/layouts/404.html"
+              },
+              "_default": {
+                "type": "folder",
+                "name": "_default",
+                "children": {
+                  "_markup": {
+                    "type": "folder",
+                    "name": "_markup",
+                    "children": {
+                      "render-heading.html": {
+                        "type": "file",
+                        "name": "render-heading.html",
+                        "url": "/uploads/themes/hugo-book/layouts/_default/_markup/render-heading.html"
+                      },
+                      "render-image.html": {
+                        "type": "file",
+                        "name": "render-image.html",
+                        "url": "/uploads/themes/hugo-book/layouts/_default/_markup/render-image.html"
+                      },
+                      "render-link.html": {
+                        "type": "file",
+                        "name": "render-link.html",
+                        "url": "/uploads/themes/hugo-book/layouts/_default/_markup/render-link.html"
+                      }
+                    }
+                  },
+                  "baseof.html": {
+                    "type": "file",
+                    "name": "baseof.html",
+                    "url": "/uploads/themes/hugo-book/layouts/_default/baseof.html"
+                  },
+                  "list.html": {
+                    "type": "file",
+                    "name": "list.html",
+                    "url": "/uploads/themes/hugo-book/layouts/_default/list.html"
+                  },
+                  "single.html": {
+                    "type": "file",
+                    "name": "single.html",
+                    "url": "/uploads/themes/hugo-book/layouts/_default/single.html"
+                  }
+                }
+              },
+              "partials": {
+                "type": "folder",
+                "name": "partials",
+                "children": {
+                  "docs": {
+                    "type": "folder",
+                    "name": "docs",
+                    "children": {
+                      "brand.html": {
+                        "type": "file",
+                        "name": "brand.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/brand.html"
+                      },
+                      "comments.html": {
+                        "type": "file",
+                        "name": "comments.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/comments.html"
+                      },
+                      "date.html": {
+                        "type": "file",
+                        "name": "date.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/date.html"
+                      },
+                      "footer.html": {
+                        "type": "file",
+                        "name": "footer.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/footer.html"
+                      },
+                      "header.html": {
+                        "type": "file",
+                        "name": "header.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/header.html"
+                      },
+                      "html-head-favicon.html": {
+                        "type": "file",
+                        "name": "html-head-favicon.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/html-head-favicon.html"
+                      },
+                      "html-head-title.html": {
+                        "type": "file",
+                        "name": "html-head-title.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/html-head-title.html"
+                      },
+                      "html-head.html": {
+                        "type": "file",
+                        "name": "html-head.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/html-head.html"
+                      },
+                      "inject": {
+                        "type": "folder",
+                        "name": "inject",
+                        "children": {
+                          "body.html": {
+                            "type": "file",
+                            "name": "body.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/inject/body.html"
+                          },
+                          "content-after.html": {
+                            "type": "file",
+                            "name": "content-after.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/inject/content-after.html"
+                          },
+                          "content-before.html": {
+                            "type": "file",
+                            "name": "content-before.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/inject/content-before.html"
+                          },
+                          "footer.html": {
+                            "type": "file",
+                            "name": "footer.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/inject/footer.html"
+                          },
+                          "head.html": {
+                            "type": "file",
+                            "name": "head.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/inject/head.html"
+                          },
+                          "menu-after.html": {
+                            "type": "file",
+                            "name": "menu-after.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/inject/menu-after.html"
+                          },
+                          "menu-before.html": {
+                            "type": "file",
+                            "name": "menu-before.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/inject/menu-before.html"
+                          },
+                          "toc-after.html": {
+                            "type": "file",
+                            "name": "toc-after.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/inject/toc-after.html"
+                          },
+                          "toc-before.html": {
+                            "type": "file",
+                            "name": "toc-before.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/inject/toc-before.html"
+                          }
+                        }
+                      },
+                      "languages.html": {
+                        "type": "file",
+                        "name": "languages.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/languages.html"
+                      },
+                      "links": {
+                        "type": "folder",
+                        "name": "links",
+                        "children": {
+                          "commit.html": {
+                            "type": "file",
+                            "name": "commit.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/links/commit.html"
+                          },
+                          "edit.html": {
+                            "type": "file",
+                            "name": "edit.html",
+                            "url": "/uploads/themes/hugo-book/layouts/partials/docs/links/edit.html"
+                          }
+                        }
+                      },
+                      "menu-filetree.html": {
+                        "type": "file",
+                        "name": "menu-filetree.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/menu-filetree.html"
+                      },
+                      "menu-hugo.html": {
+                        "type": "file",
+                        "name": "menu-hugo.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/menu-hugo.html"
+                      },
+                      "menu.html": {
+                        "type": "file",
+                        "name": "menu.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/menu.html"
+                      },
+                      "post-meta.html": {
+                        "type": "file",
+                        "name": "post-meta.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/post-meta.html"
+                      },
+                      "search.html": {
+                        "type": "file",
+                        "name": "search.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/search.html"
+                      },
+                      "taxonomy.html": {
+                        "type": "file",
+                        "name": "taxonomy.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/taxonomy.html"
+                      },
+                      "title.html": {
+                        "type": "file",
+                        "name": "title.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/title.html"
+                      },
+                      "toc.html": {
+                        "type": "file",
+                        "name": "toc.html",
+                        "url": "/uploads/themes/hugo-book/layouts/partials/docs/toc.html"
+                      }
+                    }
+                  }
+                }
+              },
+              "posts": {
+                "type": "folder",
+                "name": "posts",
+                "children": {
+                  "list.html": {
+                    "type": "file",
+                    "name": "list.html",
+                    "url": "/uploads/themes/hugo-book/layouts/posts/list.html"
+                  },
+                  "single.html": {
+                    "type": "file",
+                    "name": "single.html",
+                    "url": "/uploads/themes/hugo-book/layouts/posts/single.html"
+                  }
+                }
+              },
+              "shortcodes": {
+                "type": "folder",
+                "name": "shortcodes",
+                "children": {
+                  "button.html": {
+                    "type": "file",
+                    "name": "button.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/button.html"
+                  },
+                  "columns.html": {
+                    "type": "file",
+                    "name": "columns.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/columns.html"
+                  },
+                  "details.html": {
+                    "type": "file",
+                    "name": "details.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/details.html"
+                  },
+                  "hint.html": {
+                    "type": "file",
+                    "name": "hint.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/hint.html"
+                  },
+                  "html.html": {
+                    "type": "file",
+                    "name": "html.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/html.html"
+                  },
+                  "i18n.html": {
+                    "type": "file",
+                    "name": "i18n.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/i18n.html"
+                  },
+                  "katex.html": {
+                    "type": "file",
+                    "name": "katex.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/katex.html"
+                  },
+                  "mermaid.html": {
+                    "type": "file",
+                    "name": "mermaid.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/mermaid.html"
+                  },
+                  "paper_block.html": {
+                    "type": "file",
+                    "name": "paper_block.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/paper_block.html"
+                  },
+                  "paper_block_0.html": {
+                    "type": "file",
+                    "name": "paper_block_0.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/paper_block_0.html"
+                  },
+                  "section.html": {
+                    "type": "file",
+                    "name": "section.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/section.html"
+                  },
+                  "tab.html": {
+                    "type": "file",
+                    "name": "tab.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/tab.html"
+                  },
+                  "tabs.html": {
+                    "type": "file",
+                    "name": "tabs.html",
+                    "url": "/uploads/themes/hugo-book/layouts/shortcodes/tabs.html"
+                  }
+                }
+              },
+              "taxonomy": {
+                "type": "folder",
+                "name": "taxonomy",
+                "children": {
+                  "list.html": {
+                    "type": "file",
+                    "name": "list.html",
+                    "url": "/uploads/themes/hugo-book/layouts/taxonomy/list.html"
+                  },
+                  "taxonomy.html": {
+                    "type": "file",
+                    "name": "taxonomy.html",
+                    "url": "/uploads/themes/hugo-book/layouts/taxonomy/taxonomy.html"
+                  }
+                }
+              }
+            }
+          },
+          "static": {
+            "type": "folder",
+            "name": "static",
+            "children": {
+              "favicon.png": {
+                "type": "file",
+                "name": "favicon.png",
+                "url": "/uploads/themes/hugo-book/static/favicon.png"
+              },
+              "favicon.svg": {
+                "type": "file",
+                "name": "favicon.svg",
+                "url": "/uploads/themes/hugo-book/static/favicon.svg"
+              },
+              "fonts": {
+                "type": "folder",
+                "name": "fonts",
+                "children": {
+                  "roboto-mono-v13-latin-regular.woff": {
+                    "type": "file",
+                    "name": "roboto-mono-v13-latin-regular.woff",
+                    "url": "/uploads/themes/hugo-book/static/fonts/roboto-mono-v13-latin-regular.woff"
+                  },
+                  "roboto-mono-v13-latin-regular.woff2": {
+                    "type": "file",
+                    "name": "roboto-mono-v13-latin-regular.woff2",
+                    "url": "/uploads/themes/hugo-book/static/fonts/roboto-mono-v13-latin-regular.woff2"
+                  },
+                  "roboto-v27-latin-700.woff": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-700.woff",
+                    "url": "/uploads/themes/hugo-book/static/fonts/roboto-v27-latin-700.woff"
+                  },
+                  "roboto-v27-latin-700.woff2": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-700.woff2",
+                    "url": "/uploads/themes/hugo-book/static/fonts/roboto-v27-latin-700.woff2"
+                  },
+                  "roboto-v27-latin-regular.woff": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-regular.woff",
+                    "url": "/uploads/themes/hugo-book/static/fonts/roboto-v27-latin-regular.woff"
+                  },
+                  "roboto-v27-latin-regular.woff2": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-regular.woff2",
+                    "url": "/uploads/themes/hugo-book/static/fonts/roboto-v27-latin-regular.woff2"
+                  }
+                }
+              },
+              "fuse.min.js": {
+                "type": "file",
+                "name": "fuse.min.js",
+                "url": "/uploads/themes/hugo-book/static/fuse.min.js"
+              },
+              "katex": {
+                "type": "folder",
+                "name": "katex",
+                "children": {
+                  "auto-render.min.js": {
+                    "type": "file",
+                    "name": "auto-render.min.js",
+                    "url": "/uploads/themes/hugo-book/static/katex/auto-render.min.js"
+                  },
+                  "fonts": {
+                    "type": "folder",
+                    "name": "fonts",
+                    "children": {
+                      "KaTeX_AMS-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_AMS-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_AMS-Regular.ttf"
+                      },
+                      "KaTeX_AMS-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_AMS-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_AMS-Regular.woff"
+                      },
+                      "KaTeX_AMS-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_AMS-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_AMS-Regular.woff2"
+                      },
+                      "KaTeX_Caligraphic-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Bold.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Caligraphic-Bold.ttf"
+                      },
+                      "KaTeX_Caligraphic-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Bold.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Caligraphic-Bold.woff"
+                      },
+                      "KaTeX_Caligraphic-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Bold.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Caligraphic-Bold.woff2"
+                      },
+                      "KaTeX_Caligraphic-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Caligraphic-Regular.ttf"
+                      },
+                      "KaTeX_Caligraphic-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Caligraphic-Regular.woff"
+                      },
+                      "KaTeX_Caligraphic-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Caligraphic-Regular.woff2"
+                      },
+                      "KaTeX_Fraktur-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Bold.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Fraktur-Bold.ttf"
+                      },
+                      "KaTeX_Fraktur-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Bold.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Fraktur-Bold.woff"
+                      },
+                      "KaTeX_Fraktur-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Bold.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Fraktur-Bold.woff2"
+                      },
+                      "KaTeX_Fraktur-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Fraktur-Regular.ttf"
+                      },
+                      "KaTeX_Fraktur-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Fraktur-Regular.woff"
+                      },
+                      "KaTeX_Fraktur-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Fraktur-Regular.woff2"
+                      },
+                      "KaTeX_Main-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Bold.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-Bold.ttf"
+                      },
+                      "KaTeX_Main-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Bold.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-Bold.woff"
+                      },
+                      "KaTeX_Main-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Bold.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-Bold.woff2"
+                      },
+                      "KaTeX_Main-BoldItalic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-BoldItalic.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-BoldItalic.ttf"
+                      },
+                      "KaTeX_Main-BoldItalic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-BoldItalic.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-BoldItalic.woff"
+                      },
+                      "KaTeX_Main-BoldItalic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-BoldItalic.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-BoldItalic.woff2"
+                      },
+                      "KaTeX_Main-Italic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Italic.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-Italic.ttf"
+                      },
+                      "KaTeX_Main-Italic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Italic.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-Italic.woff"
+                      },
+                      "KaTeX_Main-Italic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Italic.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-Italic.woff2"
+                      },
+                      "KaTeX_Main-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-Regular.ttf"
+                      },
+                      "KaTeX_Main-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-Regular.woff"
+                      },
+                      "KaTeX_Main-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Main-Regular.woff2"
+                      },
+                      "KaTeX_Math-BoldItalic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Math-BoldItalic.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Math-BoldItalic.ttf"
+                      },
+                      "KaTeX_Math-BoldItalic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Math-BoldItalic.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Math-BoldItalic.woff"
+                      },
+                      "KaTeX_Math-BoldItalic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Math-BoldItalic.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Math-BoldItalic.woff2"
+                      },
+                      "KaTeX_Math-Italic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Math-Italic.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Math-Italic.ttf"
+                      },
+                      "KaTeX_Math-Italic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Math-Italic.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Math-Italic.woff"
+                      },
+                      "KaTeX_Math-Italic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Math-Italic.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Math-Italic.woff2"
+                      },
+                      "KaTeX_SansSerif-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Bold.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_SansSerif-Bold.ttf"
+                      },
+                      "KaTeX_SansSerif-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Bold.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_SansSerif-Bold.woff"
+                      },
+                      "KaTeX_SansSerif-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Bold.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_SansSerif-Bold.woff2"
+                      },
+                      "KaTeX_SansSerif-Italic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Italic.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_SansSerif-Italic.ttf"
+                      },
+                      "KaTeX_SansSerif-Italic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Italic.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_SansSerif-Italic.woff"
+                      },
+                      "KaTeX_SansSerif-Italic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Italic.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_SansSerif-Italic.woff2"
+                      },
+                      "KaTeX_SansSerif-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_SansSerif-Regular.ttf"
+                      },
+                      "KaTeX_SansSerif-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_SansSerif-Regular.woff"
+                      },
+                      "KaTeX_SansSerif-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_SansSerif-Regular.woff2"
+                      },
+                      "KaTeX_Script-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Script-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Script-Regular.ttf"
+                      },
+                      "KaTeX_Script-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Script-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Script-Regular.woff"
+                      },
+                      "KaTeX_Script-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Script-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Script-Regular.woff2"
+                      },
+                      "KaTeX_Size1-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size1-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size1-Regular.ttf"
+                      },
+                      "KaTeX_Size1-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size1-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size1-Regular.woff"
+                      },
+                      "KaTeX_Size1-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size1-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size1-Regular.woff2"
+                      },
+                      "KaTeX_Size2-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size2-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size2-Regular.ttf"
+                      },
+                      "KaTeX_Size2-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size2-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size2-Regular.woff"
+                      },
+                      "KaTeX_Size2-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size2-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size2-Regular.woff2"
+                      },
+                      "KaTeX_Size3-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size3-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size3-Regular.ttf"
+                      },
+                      "KaTeX_Size3-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size3-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size3-Regular.woff"
+                      },
+                      "KaTeX_Size3-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size3-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size3-Regular.woff2"
+                      },
+                      "KaTeX_Size4-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size4-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size4-Regular.ttf"
+                      },
+                      "KaTeX_Size4-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size4-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size4-Regular.woff"
+                      },
+                      "KaTeX_Size4-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size4-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Size4-Regular.woff2"
+                      },
+                      "KaTeX_Typewriter-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Typewriter-Regular.ttf",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Typewriter-Regular.ttf"
+                      },
+                      "KaTeX_Typewriter-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Typewriter-Regular.woff",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Typewriter-Regular.woff"
+                      },
+                      "KaTeX_Typewriter-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Typewriter-Regular.woff2",
+                        "url": "/uploads/themes/hugo-book/static/katex/fonts/KaTeX_Typewriter-Regular.woff2"
+                      }
+                    }
+                  },
+                  "katex.min.css": {
+                    "type": "file",
+                    "name": "katex.min.css",
+                    "url": "/uploads/themes/hugo-book/static/katex/katex.min.css"
+                  },
+                  "katex.min.js": {
+                    "type": "file",
+                    "name": "katex.min.js",
+                    "url": "/uploads/themes/hugo-book/static/katex/katex.min.js"
+                  }
+                }
+              },
+              "mermaid.min.js": {
+                "type": "file",
+                "name": "mermaid.min.js",
+                "url": "/uploads/themes/hugo-book/static/mermaid.min.js"
+              },
+              "svg": {
+                "type": "folder",
+                "name": "svg",
+                "children": {
+                  "calendar.svg": {
+                    "type": "file",
+                    "name": "calendar.svg",
+                    "url": "/uploads/themes/hugo-book/static/svg/calendar.svg"
+                  },
+                  "edit.svg": {
+                    "type": "file",
+                    "name": "edit.svg",
+                    "url": "/uploads/themes/hugo-book/static/svg/edit.svg"
+                  },
+                  "menu.svg": {
+                    "type": "file",
+                    "name": "menu.svg",
+                    "url": "/uploads/themes/hugo-book/static/svg/menu.svg"
+                  },
+                  "toc.svg": {
+                    "type": "file",
+                    "name": "toc.svg",
+                    "url": "/uploads/themes/hugo-book/static/svg/toc.svg"
+                  },
+                  "translate.svg": {
+                    "type": "file",
+                    "name": "translate.svg",
+                    "url": "/uploads/themes/hugo-book/static/svg/translate.svg"
+                  }
+                }
+              }
+            }
+          },
+          "theme.toml": {
+            "type": "file",
+            "name": "theme.toml",
+            "url": "/uploads/themes/hugo-book/theme.toml"
+          }
+        }
+      }
+    }
+  },
+  "컴퓨터연산특론_텀프로젝트.zip": {
+    "type": "file",
+    "name": "컴퓨터연산특론_텀프로젝트.zip",
+    "url": "/uploads/컴퓨터연산특론_텀프로젝트.zip"
+  }
+}

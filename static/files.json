@@ -1,0 +1,42 @@
+{
+  "Huins RPS-Z7020.pdf": {
+    "type": "file",
+    "name": "Huins RPS-Z7020.pdf",
+    "url": "/share/Huins RPS-Z7020.pdf"
+  },
+  "Vivado.pdf": {
+    "type": "file",
+    "name": "Vivado.pdf",
+    "url": "/share/Vivado.pdf"
+  },
+  "clock1.zip": {
+    "type": "file",
+    "name": "clock1.zip",
+    "url": "/share/clock1.zip"
+  },
+  "clock2.zip": {
+    "type": "file",
+    "name": "clock2.zip",
+    "url": "/share/clock2.zip"
+  },
+  "main.c": {
+    "type": "file",
+    "name": "main.c",
+    "url": "/share/main.c"
+  },
+  "tsolution.v": {
+    "type": "file",
+    "name": "tsolution.v",
+    "url": "/share/tsolution.v"
+  },
+  "tsolution.zip": {
+    "type": "file",
+    "name": "tsolution.zip",
+    "url": "/share/tsolution.zip"
+  },
+  "실습 자료.zip": {
+    "type": "file",
+    "name": "실습 자료.zip",
+    "url": "/share/실습 자료.zip"
+  }
+}

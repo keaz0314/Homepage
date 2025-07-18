@@ -1431,6 +1431,16 @@
     },
     {
         "Category":"국내 학술대회",
+        "Title":"반복 연산 기반 Otsu 방법을 활용한 국부적 임곗값 산출 기법",
+        "Author":"이은해, 강주완, 문병인",
+        "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2025",
+        "URL":null,
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
         "Title":"하드웨어 친화적 캐니 에지 검출 알고리즘",
         "Author":"조승준, 강주완, 김태준, 정인수, 문병인",
         "Etc":"대한전자공학회 SoC설계연구회 SoC 학술대회, May. 2025",
@@ -1444,7 +1454,7 @@
         "Title":"ISA 기반 March 패턴 생성기의 FPGA 구현 및 검증",
         "Author":"정인수, 강주완, 김태준, 조승준, 문병인",
         "Etc":"한국정보기술학회 추계종합학술대회, Nov. 2024",
-        "URL":null,
+        "URL":"https:\/\/www.dbpia.co.kr\/journal\/articleDetail?nodeId=NODE12024897",
         "prize_category":null,
         "prize_URL":null,
         "Note":null

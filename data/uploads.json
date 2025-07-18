@@ -1,0 +1,2683 @@
+{
+  ".gitignore": {
+    "type": "file",
+    "name": ".gitignore",
+    "url": "/uploads/uploads/.gitignore"
+  },
+  "themes": {
+    "type": "folder",
+    "name": "themes",
+    "children": {
+      "hugo-book": {
+        "type": "folder",
+        "name": "hugo-book",
+        "children": {
+          ".gitignore": {
+            "type": "file",
+            "name": ".gitignore",
+            "url": "/uploads/hugo-book/.gitignore"
+          },
+          "LICENSE": {
+            "type": "file",
+            "name": "LICENSE",
+            "url": "/uploads/hugo-book/LICENSE"
+          },
+          "exampleSite": {
+            "type": "folder",
+            "name": "exampleSite",
+            "children": {
+              "content.he": {
+                "type": "folder",
+                "name": "content.he",
+                "children": {
+                  "_index.md": {
+                    "type": "file",
+                    "name": "_index.md",
+                    "url": "/uploads/content.he/_index.md"
+                  }
+                }
+              },
+              "hugo.yaml": {
+                "type": "file",
+                "name": "hugo.yaml",
+                "url": "/uploads/exampleSite/hugo.yaml"
+              },
+              "assets": {
+                "type": "folder",
+                "name": "assets",
+                "children": {
+                  "_custom.scss": {
+                    "type": "file",
+                    "name": "_custom.scss",
+                    "url": "/uploads/assets/_custom.scss"
+                  },
+                  "_variables.scss": {
+                    "type": "file",
+                    "name": "_variables.scss",
+                    "url": "/uploads/assets/_variables.scss"
+                  }
+                }
+              },
+              "content.zh": {
+                "type": "folder",
+                "name": "content.zh",
+                "children": {
+                  "_index.md": {
+                    "type": "file",
+                    "name": "_index.md",
+                    "url": "/uploads/content.zh/_index.md"
+                  }
+                }
+              },
+              "content.en": {
+                "type": "folder",
+                "name": "content.en",
+                "children": {
+                  "_index.md": {
+                    "type": "file",
+                    "name": "_index.md",
+                    "url": "/uploads/content.en/_index.md"
+                  },
+                  "posts": {
+                    "type": "folder",
+                    "name": "posts",
+                    "children": {
+                      "creating-a-new-theme.md": {
+                        "type": "file",
+                        "name": "creating-a-new-theme.md",
+                        "url": "/uploads/posts/creating-a-new-theme.md"
+                      },
+                      "goisforlovers.md": {
+                        "type": "file",
+                        "name": "goisforlovers.md",
+                        "url": "/uploads/posts/goisforlovers.md"
+                      },
+                      "_index.md": {
+                        "type": "file",
+                        "name": "_index.md",
+                        "url": "/uploads/posts/_index.md"
+                      },
+                      "hugoisforlovers.md": {
+                        "type": "file",
+                        "name": "hugoisforlovers.md",
+                        "url": "/uploads/posts/hugoisforlovers.md"
+                      },
+                      "migrate-from-jekyll.md": {
+                        "type": "file",
+                        "name": "migrate-from-jekyll.md",
+                        "url": "/uploads/posts/migrate-from-jekyll.md"
+                      }
+                    }
+                  },
+                  "docs": {
+                    "type": "folder",
+                    "name": "docs",
+                    "children": {
+                      "example": {
+                        "type": "folder",
+                        "name": "example",
+                        "children": {
+                          "hidden.md": {
+                            "type": "file",
+                            "name": "hidden.md",
+                            "url": "/uploads/example/hidden.md"
+                          },
+                          "table-of-contents": {
+                            "type": "folder",
+                            "name": "table-of-contents",
+                            "children": {
+                              "without-toc.md": {
+                                "type": "file",
+                                "name": "without-toc.md",
+                                "url": "/uploads/table-of-contents/without-toc.md"
+                              },
+                              "with-toc.md": {
+                                "type": "file",
+                                "name": "with-toc.md",
+                                "url": "/uploads/table-of-contents/with-toc.md"
+                              },
+                              "_index.md": {
+                                "type": "file",
+                                "name": "_index.md",
+                                "url": "/uploads/table-of-contents/_index.md"
+                              }
+                            }
+                          },
+                          "collapsed": {
+                            "type": "folder",
+                            "name": "collapsed",
+                            "children": {
+                              "3rd-level": {
+                                "type": "folder",
+                                "name": "3rd-level",
+                                "children": {
+                                  "4th-level.md": {
+                                    "type": "file",
+                                    "name": "4th-level.md",
+                                    "url": "/uploads/3rd-level/4th-level.md"
+                                  },
+                                  "_index.md": {
+                                    "type": "file",
+                                    "name": "_index.md",
+                                    "url": "/uploads/3rd-level/_index.md"
+                                  }
+                                }
+                              },
+                              "_index.md": {
+                                "type": "file",
+                                "name": "_index.md",
+                                "url": "/uploads/collapsed/_index.md"
+                              }
+                            }
+                          },
+                          "_index.md": {
+                            "type": "file",
+                            "name": "_index.md",
+                            "url": "/uploads/example/_index.md"
+                          }
+                        }
+                      },
+                      "shortcodes": {
+                        "type": "folder",
+                        "name": "shortcodes",
+                        "children": {
+                          "buttons.md": {
+                            "type": "file",
+                            "name": "buttons.md",
+                            "url": "/uploads/shortcodes/buttons.md"
+                          },
+                          "mermaid.md": {
+                            "type": "file",
+                            "name": "mermaid.md",
+                            "url": "/uploads/shortcodes/mermaid.md"
+                          },
+                          "columns.md": {
+                            "type": "file",
+                            "name": "columns.md",
+                            "url": "/uploads/shortcodes/columns.md"
+                          },
+                          "hints.md": {
+                            "type": "file",
+                            "name": "hints.md",
+                            "url": "/uploads/shortcodes/hints.md"
+                          },
+                          "details.md": {
+                            "type": "file",
+                            "name": "details.md",
+                            "url": "/uploads/shortcodes/details.md"
+                          },
+                          "section": {
+                            "type": "folder",
+                            "name": "section",
+                            "children": {
+                              "first-page.md": {
+                                "type": "file",
+                                "name": "first-page.md",
+                                "url": "/uploads/section/first-page.md"
+                              },
+                              "second-page.md": {
+                                "type": "file",
+                                "name": "second-page.md",
+                                "url": "/uploads/section/second-page.md"
+                              },
+                              "_index.md": {
+                                "type": "file",
+                                "name": "_index.md",
+                                "url": "/uploads/section/_index.md"
+                              }
+                            }
+                          },
+                          "tabs.md": {
+                            "type": "file",
+                            "name": "tabs.md",
+                            "url": "/uploads/shortcodes/tabs.md"
+                          },
+                          "katex.md": {
+                            "type": "file",
+                            "name": "katex.md",
+                            "url": "/uploads/shortcodes/katex.md"
+                          },
+                          "_index.md": {
+                            "type": "file",
+                            "name": "_index.md",
+                            "url": "/uploads/shortcodes/_index.md"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "hugo.toml": {
+                "type": "file",
+                "name": "hugo.toml",
+                "url": "/uploads/exampleSite/hugo.toml"
+              }
+            }
+          },
+          ".github": {
+            "type": "folder",
+            "name": ".github",
+            "children": {
+              "workflows": {
+                "type": "folder",
+                "name": "workflows",
+                "children": {
+                  "main.yml": {
+                    "type": "file",
+                    "name": "main.yml",
+                    "url": "/uploads/workflows/main.yml"
+                  }
+                }
+              }
+            }
+          },
+          "assets": {
+            "type": "folder",
+            "name": "assets",
+            "children": {
+              "_fonts.scss": {
+                "type": "file",
+                "name": "_fonts.scss",
+                "url": "/uploads/assets/_fonts.scss"
+              },
+              "plugins": {
+                "type": "folder",
+                "name": "plugins",
+                "children": {
+                  "_numbered.scss": {
+                    "type": "file",
+                    "name": "_numbered.scss",
+                    "url": "/uploads/plugins/_numbered.scss"
+                  },
+                  "_scrollbars.scss": {
+                    "type": "file",
+                    "name": "_scrollbars.scss",
+                    "url": "/uploads/plugins/_scrollbars.scss"
+                  }
+                }
+              },
+              "_main.scss": {
+                "type": "file",
+                "name": "_main.scss",
+                "url": "/uploads/assets/_main.scss"
+              },
+              "sw-register.js": {
+                "type": "file",
+                "name": "sw-register.js",
+                "url": "/uploads/assets/sw-register.js"
+              },
+              "_custom.scss": {
+                "type": "file",
+                "name": "_custom.scss",
+                "url": "/uploads/assets/_custom.scss"
+              },
+              "_utils.scss": {
+                "type": "file",
+                "name": "_utils.scss",
+                "url": "/uploads/assets/_utils.scss"
+              },
+              "_variables.scss": {
+                "type": "file",
+                "name": "_variables.scss",
+                "url": "/uploads/assets/_variables.scss"
+              },
+              "normalize.css": {
+                "type": "file",
+                "name": "normalize.css",
+                "url": "/uploads/assets/normalize.css"
+              },
+              "themes": {
+                "type": "folder",
+                "name": "themes",
+                "children": {
+                  "_light.scss": {
+                    "type": "file",
+                    "name": "_light.scss",
+                    "url": "/uploads/themes/_light.scss"
+                  },
+                  "_dark.scss": {
+                    "type": "file",
+                    "name": "_dark.scss",
+                    "url": "/uploads/themes/_dark.scss"
+                  },
+                  "_auto.scss": {
+                    "type": "file",
+                    "name": "_auto.scss",
+                    "url": "/uploads/themes/_auto.scss"
+                  }
+                }
+              },
+              "menu-reset.js": {
+                "type": "file",
+                "name": "menu-reset.js",
+                "url": "/uploads/assets/menu-reset.js"
+              },
+              "clipboard.js": {
+                "type": "file",
+                "name": "clipboard.js",
+                "url": "/uploads/assets/clipboard.js"
+              },
+              "search-data.json": {
+                "type": "file",
+                "name": "search-data.json",
+                "url": "/uploads/assets/search-data.json"
+              },
+              "_markdown.scss": {
+                "type": "file",
+                "name": "_markdown.scss",
+                "url": "/uploads/assets/_markdown.scss"
+              },
+              "mermaid.json": {
+                "type": "file",
+                "name": "mermaid.json",
+                "url": "/uploads/assets/mermaid.json"
+              },
+              "search.js": {
+                "type": "file",
+                "name": "search.js",
+                "url": "/uploads/assets/search.js"
+              },
+              "manifest.json": {
+                "type": "file",
+                "name": "manifest.json",
+                "url": "/uploads/assets/manifest.json"
+              },
+              "_print.scss": {
+                "type": "file",
+                "name": "_print.scss",
+                "url": "/uploads/assets/_print.scss"
+              },
+              "sw.js": {
+                "type": "file",
+                "name": "sw.js",
+                "url": "/uploads/assets/sw.js"
+              },
+              "book.scss": {
+                "type": "file",
+                "name": "book.scss",
+                "url": "/uploads/assets/book.scss"
+              },
+              "_shortcodes.scss": {
+                "type": "file",
+                "name": "_shortcodes.scss",
+                "url": "/uploads/assets/_shortcodes.scss"
+              },
+              "_defaults.scss": {
+                "type": "file",
+                "name": "_defaults.scss",
+                "url": "/uploads/assets/_defaults.scss"
+              }
+            }
+          },
+          "go.mod": {
+            "type": "file",
+            "name": "go.mod",
+            "url": "/uploads/hugo-book/go.mod"
+          },
+          "static": {
+            "type": "folder",
+            "name": "static",
+            "children": {
+              "favicon.png": {
+                "type": "file",
+                "name": "favicon.png",
+                "url": "/uploads/static/favicon.png"
+              },
+              "favicon.svg": {
+                "type": "file",
+                "name": "favicon.svg",
+                "url": "/uploads/static/favicon.svg"
+              },
+              "svg": {
+                "type": "folder",
+                "name": "svg",
+                "children": {
+                  "menu.svg": {
+                    "type": "file",
+                    "name": "menu.svg",
+                    "url": "/uploads/svg/menu.svg"
+                  },
+                  "calendar.svg": {
+                    "type": "file",
+                    "name": "calendar.svg",
+                    "url": "/uploads/svg/calendar.svg"
+                  },
+                  "edit.svg": {
+                    "type": "file",
+                    "name": "edit.svg",
+                    "url": "/uploads/svg/edit.svg"
+                  },
+                  "toc.svg": {
+                    "type": "file",
+                    "name": "toc.svg",
+                    "url": "/uploads/svg/toc.svg"
+                  },
+                  "translate.svg": {
+                    "type": "file",
+                    "name": "translate.svg",
+                    "url": "/uploads/svg/translate.svg"
+                  }
+                }
+              },
+              "mermaid.min.js": {
+                "type": "file",
+                "name": "mermaid.min.js",
+                "url": "/uploads/static/mermaid.min.js"
+              },
+              "fuse.min.js": {
+                "type": "file",
+                "name": "fuse.min.js",
+                "url": "/uploads/static/fuse.min.js"
+              },
+              "katex": {
+                "type": "folder",
+                "name": "katex",
+                "children": {
+                  "katex.min.js": {
+                    "type": "file",
+                    "name": "katex.min.js",
+                    "url": "/uploads/katex/katex.min.js"
+                  },
+                  "katex.min.css": {
+                    "type": "file",
+                    "name": "katex.min.css",
+                    "url": "/uploads/katex/katex.min.css"
+                  },
+                  "auto-render.min.js": {
+                    "type": "file",
+                    "name": "auto-render.min.js",
+                    "url": "/uploads/katex/auto-render.min.js"
+                  },
+                  "fonts": {
+                    "type": "folder",
+                    "name": "fonts",
+                    "children": {
+                      "KaTeX_Size4-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size4-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Size4-Regular.woff2"
+                      },
+                      "KaTeX_Main-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Bold.ttf",
+                        "url": "/uploads/fonts/KaTeX_Main-Bold.ttf"
+                      },
+                      "KaTeX_Fraktur-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Bold.woff",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Bold.woff"
+                      },
+                      "KaTeX_Caligraphic-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Bold.ttf",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Bold.ttf"
+                      },
+                      "KaTeX_Math-Italic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Math-Italic.ttf",
+                        "url": "/uploads/fonts/KaTeX_Math-Italic.ttf"
+                      },
+                      "KaTeX_AMS-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_AMS-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_AMS-Regular.woff"
+                      },
+                      "KaTeX_Fraktur-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Bold.woff2",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Bold.woff2"
+                      },
+                      "KaTeX_Fraktur-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Regular.woff"
+                      },
+                      "KaTeX_Math-Italic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Math-Italic.woff2",
+                        "url": "/uploads/fonts/KaTeX_Math-Italic.woff2"
+                      },
+                      "KaTeX_SansSerif-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Bold.ttf",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Bold.ttf"
+                      },
+                      "KaTeX_Size2-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size2-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Size2-Regular.woff2"
+                      },
+                      "KaTeX_Main-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Main-Regular.woff2"
+                      },
+                      "KaTeX_Script-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Script-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Script-Regular.woff"
+                      },
+                      "KaTeX_Main-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Main-Regular.ttf"
+                      },
+                      "KaTeX_Math-BoldItalic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Math-BoldItalic.woff2",
+                        "url": "/uploads/fonts/KaTeX_Math-BoldItalic.woff2"
+                      },
+                      "KaTeX_Size3-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size3-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Size3-Regular.woff2"
+                      },
+                      "KaTeX_Caligraphic-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Regular.ttf"
+                      },
+                      "KaTeX_Fraktur-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Bold.ttf",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Bold.ttf"
+                      },
+                      "KaTeX_Size2-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size2-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Size2-Regular.ttf"
+                      },
+                      "KaTeX_Math-BoldItalic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Math-BoldItalic.ttf",
+                        "url": "/uploads/fonts/KaTeX_Math-BoldItalic.ttf"
+                      },
+                      "KaTeX_AMS-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_AMS-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_AMS-Regular.woff2"
+                      },
+                      "KaTeX_Main-BoldItalic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-BoldItalic.ttf",
+                        "url": "/uploads/fonts/KaTeX_Main-BoldItalic.ttf"
+                      },
+                      "KaTeX_SansSerif-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Bold.woff2",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Bold.woff2"
+                      },
+                      "KaTeX_Size2-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size2-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Size2-Regular.woff"
+                      },
+                      "KaTeX_Main-BoldItalic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-BoldItalic.woff2",
+                        "url": "/uploads/fonts/KaTeX_Main-BoldItalic.woff2"
+                      },
+                      "KaTeX_Caligraphic-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Bold.woff2",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Bold.woff2"
+                      },
+                      "KaTeX_Fraktur-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Regular.woff2"
+                      },
+                      "KaTeX_SansSerif-Italic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Italic.ttf",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Italic.ttf"
+                      },
+                      "KaTeX_Main-Italic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Italic.woff2",
+                        "url": "/uploads/fonts/KaTeX_Main-Italic.woff2"
+                      },
+                      "KaTeX_Caligraphic-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Regular.woff2"
+                      },
+                      "KaTeX_SansSerif-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Regular.woff"
+                      },
+                      "KaTeX_Typewriter-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Typewriter-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Typewriter-Regular.ttf"
+                      },
+                      "KaTeX_Size1-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size1-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Size1-Regular.woff"
+                      },
+                      "KaTeX_Main-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Bold.woff2",
+                        "url": "/uploads/fonts/KaTeX_Main-Bold.woff2"
+                      },
+                      "KaTeX_SansSerif-Italic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Italic.woff2",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Italic.woff2"
+                      },
+                      "KaTeX_Caligraphic-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Bold.woff",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Bold.woff"
+                      },
+                      "KaTeX_Typewriter-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Typewriter-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Typewriter-Regular.woff2"
+                      },
+                      "KaTeX_Script-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Script-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Script-Regular.woff2"
+                      },
+                      "KaTeX_SansSerif-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Bold.woff",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Bold.woff"
+                      },
+                      "KaTeX_Main-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Main-Regular.woff"
+                      },
+                      "KaTeX_Size4-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size4-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Size4-Regular.woff"
+                      },
+                      "KaTeX_Math-Italic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Math-Italic.woff",
+                        "url": "/uploads/fonts/KaTeX_Math-Italic.woff"
+                      },
+                      "KaTeX_AMS-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_AMS-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_AMS-Regular.ttf"
+                      },
+                      "KaTeX_Fraktur-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Regular.ttf"
+                      },
+                      "KaTeX_Typewriter-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Typewriter-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Typewriter-Regular.woff"
+                      },
+                      "KaTeX_Main-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Bold.woff",
+                        "url": "/uploads/fonts/KaTeX_Main-Bold.woff"
+                      },
+                      "KaTeX_Script-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Script-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Script-Regular.ttf"
+                      },
+                      "KaTeX_Main-Italic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Italic.ttf",
+                        "url": "/uploads/fonts/KaTeX_Main-Italic.ttf"
+                      },
+                      "KaTeX_Caligraphic-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Regular.woff"
+                      },
+                      "KaTeX_Size1-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size1-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Size1-Regular.ttf"
+                      },
+                      "KaTeX_SansSerif-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Regular.ttf"
+                      },
+                      "KaTeX_SansSerif-Italic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Italic.woff",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Italic.woff"
+                      },
+                      "KaTeX_Size1-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size1-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Size1-Regular.woff2"
+                      },
+                      "KaTeX_Main-Italic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Italic.woff",
+                        "url": "/uploads/fonts/KaTeX_Main-Italic.woff"
+                      },
+                      "KaTeX_SansSerif-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Regular.woff2"
+                      },
+                      "KaTeX_Size3-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size3-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Size3-Regular.woff"
+                      },
+                      "KaTeX_Size4-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size4-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Size4-Regular.ttf"
+                      },
+                      "KaTeX_Main-BoldItalic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-BoldItalic.woff",
+                        "url": "/uploads/fonts/KaTeX_Main-BoldItalic.woff"
+                      },
+                      "KaTeX_Math-BoldItalic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Math-BoldItalic.woff",
+                        "url": "/uploads/fonts/KaTeX_Math-BoldItalic.woff"
+                      },
+                      "KaTeX_Size3-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size3-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Size3-Regular.ttf"
+                      }
+                    }
+                  }
+                }
+              },
+              "fonts": {
+                "type": "folder",
+                "name": "fonts",
+                "children": {
+                  "roboto-v27-latin-regular.woff2": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-regular.woff2",
+                    "url": "/uploads/fonts/roboto-v27-latin-regular.woff2"
+                  },
+                  "roboto-mono-v13-latin-regular.woff": {
+                    "type": "file",
+                    "name": "roboto-mono-v13-latin-regular.woff",
+                    "url": "/uploads/fonts/roboto-mono-v13-latin-regular.woff"
+                  },
+                  "roboto-v27-latin-700.woff": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-700.woff",
+                    "url": "/uploads/fonts/roboto-v27-latin-700.woff"
+                  },
+                  "roboto-v27-latin-regular.woff": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-regular.woff",
+                    "url": "/uploads/fonts/roboto-v27-latin-regular.woff"
+                  },
+                  "roboto-mono-v13-latin-regular.woff2": {
+                    "type": "file",
+                    "name": "roboto-mono-v13-latin-regular.woff2",
+                    "url": "/uploads/fonts/roboto-mono-v13-latin-regular.woff2"
+                  },
+                  "roboto-v27-latin-700.woff2": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-700.woff2",
+                    "url": "/uploads/fonts/roboto-v27-latin-700.woff2"
+                  }
+                }
+              }
+            }
+          },
+          ".git": {
+            "type": "file",
+            "name": ".git",
+            "url": "/uploads/hugo-book/.git"
+          },
+          "theme.toml": {
+            "type": "file",
+            "name": "theme.toml",
+            "url": "/uploads/hugo-book/theme.toml"
+          },
+          "README.md": {
+            "type": "file",
+            "name": "README.md",
+            "url": "/uploads/hugo-book/README.md"
+          },
+          "layouts": {
+            "type": "folder",
+            "name": "layouts",
+            "children": {
+              "_default": {
+                "type": "folder",
+                "name": "_default",
+                "children": {
+                  "list.html": {
+                    "type": "file",
+                    "name": "list.html",
+                    "url": "/uploads/_default/list.html"
+                  },
+                  "baseof.html": {
+                    "type": "file",
+                    "name": "baseof.html",
+                    "url": "/uploads/_default/baseof.html"
+                  },
+                  "_markup": {
+                    "type": "folder",
+                    "name": "_markup",
+                    "children": {
+                      "render-image.html": {
+                        "type": "file",
+                        "name": "render-image.html",
+                        "url": "/uploads/_markup/render-image.html"
+                      },
+                      "render-link.html": {
+                        "type": "file",
+                        "name": "render-link.html",
+                        "url": "/uploads/_markup/render-link.html"
+                      },
+                      "render-heading.html": {
+                        "type": "file",
+                        "name": "render-heading.html",
+                        "url": "/uploads/_markup/render-heading.html"
+                      }
+                    }
+                  },
+                  "single.html": {
+                    "type": "file",
+                    "name": "single.html",
+                    "url": "/uploads/_default/single.html"
+                  }
+                }
+              },
+              "partials": {
+                "type": "folder",
+                "name": "partials",
+                "children": {
+                  "docs": {
+                    "type": "folder",
+                    "name": "docs",
+                    "children": {
+                      "post-meta.html": {
+                        "type": "file",
+                        "name": "post-meta.html",
+                        "url": "/uploads/docs/post-meta.html"
+                      },
+                      "menu-filetree.html": {
+                        "type": "file",
+                        "name": "menu-filetree.html",
+                        "url": "/uploads/docs/menu-filetree.html"
+                      },
+                      "taxonomy.html": {
+                        "type": "file",
+                        "name": "taxonomy.html",
+                        "url": "/uploads/docs/taxonomy.html"
+                      },
+                      "html-head-title.html": {
+                        "type": "file",
+                        "name": "html-head-title.html",
+                        "url": "/uploads/docs/html-head-title.html"
+                      },
+                      "html-head.html": {
+                        "type": "file",
+                        "name": "html-head.html",
+                        "url": "/uploads/docs/html-head.html"
+                      },
+                      "toc.html": {
+                        "type": "file",
+                        "name": "toc.html",
+                        "url": "/uploads/docs/toc.html"
+                      },
+                      "menu.html": {
+                        "type": "file",
+                        "name": "menu.html",
+                        "url": "/uploads/docs/menu.html"
+                      },
+                      "html-head-favicon.html": {
+                        "type": "file",
+                        "name": "html-head-favicon.html",
+                        "url": "/uploads/docs/html-head-favicon.html"
+                      },
+                      "brand.html": {
+                        "type": "file",
+                        "name": "brand.html",
+                        "url": "/uploads/docs/brand.html"
+                      },
+                      "search.html": {
+                        "type": "file",
+                        "name": "search.html",
+                        "url": "/uploads/docs/search.html"
+                      },
+                      "links": {
+                        "type": "folder",
+                        "name": "links",
+                        "children": {
+                          "edit.html": {
+                            "type": "file",
+                            "name": "edit.html",
+                            "url": "/uploads/links/edit.html"
+                          },
+                          "commit.html": {
+                            "type": "file",
+                            "name": "commit.html",
+                            "url": "/uploads/links/commit.html"
+                          }
+                        }
+                      },
+                      "comments.html": {
+                        "type": "file",
+                        "name": "comments.html",
+                        "url": "/uploads/docs/comments.html"
+                      },
+                      "inject": {
+                        "type": "folder",
+                        "name": "inject",
+                        "children": {
+                          "menu-before.html": {
+                            "type": "file",
+                            "name": "menu-before.html",
+                            "url": "/uploads/inject/menu-before.html"
+                          },
+                          "content-before.html": {
+                            "type": "file",
+                            "name": "content-before.html",
+                            "url": "/uploads/inject/content-before.html"
+                          },
+                          "content-after.html": {
+                            "type": "file",
+                            "name": "content-after.html",
+                            "url": "/uploads/inject/content-after.html"
+                          },
+                          "toc-before.html": {
+                            "type": "file",
+                            "name": "toc-before.html",
+                            "url": "/uploads/inject/toc-before.html"
+                          },
+                          "body.html": {
+                            "type": "file",
+                            "name": "body.html",
+                            "url": "/uploads/inject/body.html"
+                          },
+                          "menu-after.html": {
+                            "type": "file",
+                            "name": "menu-after.html",
+                            "url": "/uploads/inject/menu-after.html"
+                          },
+                          "toc-after.html": {
+                            "type": "file",
+                            "name": "toc-after.html",
+                            "url": "/uploads/inject/toc-after.html"
+                          },
+                          "footer.html": {
+                            "type": "file",
+                            "name": "footer.html",
+                            "url": "/uploads/inject/footer.html"
+                          },
+                          "head.html": {
+                            "type": "file",
+                            "name": "head.html",
+                            "url": "/uploads/inject/head.html"
+                          }
+                        }
+                      },
+                      "languages.html": {
+                        "type": "file",
+                        "name": "languages.html",
+                        "url": "/uploads/docs/languages.html"
+                      },
+                      "title.html": {
+                        "type": "file",
+                        "name": "title.html",
+                        "url": "/uploads/docs/title.html"
+                      },
+                      "header.html": {
+                        "type": "file",
+                        "name": "header.html",
+                        "url": "/uploads/docs/header.html"
+                      },
+                      "footer.html": {
+                        "type": "file",
+                        "name": "footer.html",
+                        "url": "/uploads/docs/footer.html"
+                      },
+                      "date.html": {
+                        "type": "file",
+                        "name": "date.html",
+                        "url": "/uploads/docs/date.html"
+                      },
+                      "menu-hugo.html": {
+                        "type": "file",
+                        "name": "menu-hugo.html",
+                        "url": "/uploads/docs/menu-hugo.html"
+                      }
+                    }
+                  }
+                }
+              },
+              "posts": {
+                "type": "folder",
+                "name": "posts",
+                "children": {
+                  "list.html": {
+                    "type": "file",
+                    "name": "list.html",
+                    "url": "/uploads/posts/list.html"
+                  },
+                  "single.html": {
+                    "type": "file",
+                    "name": "single.html",
+                    "url": "/uploads/posts/single.html"
+                  }
+                }
+              },
+              "404.html": {
+                "type": "file",
+                "name": "404.html",
+                "url": "/uploads/layouts/404.html"
+              },
+              "taxonomy": {
+                "type": "folder",
+                "name": "taxonomy",
+                "children": {
+                  "taxonomy.html": {
+                    "type": "file",
+                    "name": "taxonomy.html",
+                    "url": "/uploads/taxonomy/taxonomy.html"
+                  },
+                  "list.html": {
+                    "type": "file",
+                    "name": "list.html",
+                    "url": "/uploads/taxonomy/list.html"
+                  }
+                }
+              },
+              "shortcodes": {
+                "type": "folder",
+                "name": "shortcodes",
+                "children": {
+                  "html.html": {
+                    "type": "file",
+                    "name": "html.html",
+                    "url": "/uploads/shortcodes/html.html"
+                  },
+                  "section.html": {
+                    "type": "file",
+                    "name": "section.html",
+                    "url": "/uploads/shortcodes/section.html"
+                  },
+                  "katex.html": {
+                    "type": "file",
+                    "name": "katex.html",
+                    "url": "/uploads/shortcodes/katex.html"
+                  },
+                  "columns.html": {
+                    "type": "file",
+                    "name": "columns.html",
+                    "url": "/uploads/shortcodes/columns.html"
+                  },
+                  "hint.html": {
+                    "type": "file",
+                    "name": "hint.html",
+                    "url": "/uploads/shortcodes/hint.html"
+                  },
+                  "paper_block_0.html": {
+                    "type": "file",
+                    "name": "paper_block_0.html",
+                    "url": "/uploads/shortcodes/paper_block_0.html"
+                  },
+                  "details.html": {
+                    "type": "file",
+                    "name": "details.html",
+                    "url": "/uploads/shortcodes/details.html"
+                  },
+                  "i18n.html": {
+                    "type": "file",
+                    "name": "i18n.html",
+                    "url": "/uploads/shortcodes/i18n.html"
+                  },
+                  "button.html": {
+                    "type": "file",
+                    "name": "button.html",
+                    "url": "/uploads/shortcodes/button.html"
+                  },
+                  "tabs.html": {
+                    "type": "file",
+                    "name": "tabs.html",
+                    "url": "/uploads/shortcodes/tabs.html"
+                  },
+                  "paper_block.html": {
+                    "type": "file",
+                    "name": "paper_block.html",
+                    "url": "/uploads/shortcodes/paper_block.html"
+                  },
+                  "mermaid.html": {
+                    "type": "file",
+                    "name": "mermaid.html",
+                    "url": "/uploads/shortcodes/mermaid.html"
+                  },
+                  "tab.html": {
+                    "type": "file",
+                    "name": "tab.html",
+                    "url": "/uploads/shortcodes/tab.html"
+                  }
+                }
+              }
+            }
+          },
+          "archetypes": {
+            "type": "folder",
+            "name": "archetypes",
+            "children": {
+              "docs.md": {
+                "type": "file",
+                "name": "docs.md",
+                "url": "/uploads/archetypes/docs.md"
+              },
+              "posts.md": {
+                "type": "file",
+                "name": "posts.md",
+                "url": "/uploads/archetypes/posts.md"
+              }
+            }
+          },
+          "i18n": {
+            "type": "folder",
+            "name": "i18n",
+            "children": {
+              "fr.yaml": {
+                "type": "file",
+                "name": "fr.yaml",
+                "url": "/uploads/i18n/fr.yaml"
+              },
+              "zh.yaml": {
+                "type": "file",
+                "name": "zh.yaml",
+                "url": "/uploads/i18n/zh.yaml"
+              },
+              "ko.yaml": {
+                "type": "file",
+                "name": "ko.yaml",
+                "url": "/uploads/i18n/ko.yaml"
+              },
+              "nl.yaml": {
+                "type": "file",
+                "name": "nl.yaml",
+                "url": "/uploads/i18n/nl.yaml"
+              },
+              "ru.yaml": {
+                "type": "file",
+                "name": "ru.yaml",
+                "url": "/uploads/i18n/ru.yaml"
+              },
+              "es.yaml": {
+                "type": "file",
+                "name": "es.yaml",
+                "url": "/uploads/i18n/es.yaml"
+              },
+              "de.yaml": {
+                "type": "file",
+                "name": "de.yaml",
+                "url": "/uploads/i18n/de.yaml"
+              },
+              "oc.yaml": {
+                "type": "file",
+                "name": "oc.yaml",
+                "url": "/uploads/i18n/oc.yaml"
+              },
+              "bn.yaml": {
+                "type": "file",
+                "name": "bn.yaml",
+                "url": "/uploads/i18n/bn.yaml"
+              },
+              "sv.yaml": {
+                "type": "file",
+                "name": "sv.yaml",
+                "url": "/uploads/i18n/sv.yaml"
+              },
+              "en.yaml": {
+                "type": "file",
+                "name": "en.yaml",
+                "url": "/uploads/i18n/en.yaml"
+              },
+              "he.yaml": {
+                "type": "file",
+                "name": "he.yaml",
+                "url": "/uploads/i18n/he.yaml"
+              },
+              "ja.yaml": {
+                "type": "file",
+                "name": "ja.yaml",
+                "url": "/uploads/i18n/ja.yaml"
+              },
+              "uk.yaml": {
+                "type": "file",
+                "name": "uk.yaml",
+                "url": "/uploads/i18n/uk.yaml"
+              },
+              "pl.yaml": {
+                "type": "file",
+                "name": "pl.yaml",
+                "url": "/uploads/i18n/pl.yaml"
+              },
+              "tr.yaml": {
+                "type": "file",
+                "name": "tr.yaml",
+                "url": "/uploads/i18n/tr.yaml"
+              },
+              "fa.yaml": {
+                "type": "file",
+                "name": "fa.yaml",
+                "url": "/uploads/i18n/fa.yaml"
+              },
+              "cn.yaml": {
+                "type": "file",
+                "name": "cn.yaml",
+                "url": "/uploads/i18n/cn.yaml"
+              },
+              "cs.yaml": {
+                "type": "file",
+                "name": "cs.yaml",
+                "url": "/uploads/i18n/cs.yaml"
+              },
+              "nb.yaml": {
+                "type": "file",
+                "name": "nb.yaml",
+                "url": "/uploads/i18n/nb.yaml"
+              },
+              "pt.yaml": {
+                "type": "file",
+                "name": "pt.yaml",
+                "url": "/uploads/i18n/pt.yaml"
+              },
+              "am.yaml": {
+                "type": "file",
+                "name": "am.yaml",
+                "url": "/uploads/i18n/am.yaml"
+              },
+              "jp.yaml": {
+                "type": "file",
+                "name": "jp.yaml",
+                "url": "/uploads/i18n/jp.yaml"
+              },
+              "zh-TW.yaml": {
+                "type": "file",
+                "name": "zh-TW.yaml",
+                "url": "/uploads/i18n/zh-TW.yaml"
+              },
+              "it.yaml": {
+                "type": "file",
+                "name": "it.yaml",
+                "url": "/uploads/i18n/it.yaml"
+              }
+            }
+          },
+          "images": {
+            "type": "folder",
+            "name": "images",
+            "children": {
+              "tn.png": {
+                "type": "file",
+                "name": "tn.png",
+                "url": "/uploads/images/tn.png"
+              },
+              "screenshot.png": {
+                "type": "file",
+                "name": "screenshot.png",
+                "url": "/uploads/images/screenshot.png"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  ".git": {
+    "type": "file",
+    "name": ".git",
+    "url": "/uploads/uploads/.git"
+  },
+  "themes (1)": {
+    "type": "folder",
+    "name": "themes (1)",
+    "children": {
+      "hugo-book": {
+        "type": "folder",
+        "name": "hugo-book",
+        "children": {
+          ".gitignore": {
+            "type": "file",
+            "name": ".gitignore",
+            "url": "/uploads/hugo-book/.gitignore"
+          },
+          "LICENSE": {
+            "type": "file",
+            "name": "LICENSE",
+            "url": "/uploads/hugo-book/LICENSE"
+          },
+          "exampleSite": {
+            "type": "folder",
+            "name": "exampleSite",
+            "children": {
+              "content.he": {
+                "type": "folder",
+                "name": "content.he",
+                "children": {
+                  "_index.md": {
+                    "type": "file",
+                    "name": "_index.md",
+                    "url": "/uploads/content.he/_index.md"
+                  }
+                }
+              },
+              "hugo.yaml": {
+                "type": "file",
+                "name": "hugo.yaml",
+                "url": "/uploads/exampleSite/hugo.yaml"
+              },
+              "assets": {
+                "type": "folder",
+                "name": "assets",
+                "children": {
+                  "_custom.scss": {
+                    "type": "file",
+                    "name": "_custom.scss",
+                    "url": "/uploads/assets/_custom.scss"
+                  },
+                  "_variables.scss": {
+                    "type": "file",
+                    "name": "_variables.scss",
+                    "url": "/uploads/assets/_variables.scss"
+                  }
+                }
+              },
+              "content.zh": {
+                "type": "folder",
+                "name": "content.zh",
+                "children": {
+                  "_index.md": {
+                    "type": "file",
+                    "name": "_index.md",
+                    "url": "/uploads/content.zh/_index.md"
+                  }
+                }
+              },
+              "content.en": {
+                "type": "folder",
+                "name": "content.en",
+                "children": {
+                  "_index.md": {
+                    "type": "file",
+                    "name": "_index.md",
+                    "url": "/uploads/content.en/_index.md"
+                  },
+                  "posts": {
+                    "type": "folder",
+                    "name": "posts",
+                    "children": {
+                      "creating-a-new-theme.md": {
+                        "type": "file",
+                        "name": "creating-a-new-theme.md",
+                        "url": "/uploads/posts/creating-a-new-theme.md"
+                      },
+                      "goisforlovers.md": {
+                        "type": "file",
+                        "name": "goisforlovers.md",
+                        "url": "/uploads/posts/goisforlovers.md"
+                      },
+                      "_index.md": {
+                        "type": "file",
+                        "name": "_index.md",
+                        "url": "/uploads/posts/_index.md"
+                      },
+                      "hugoisforlovers.md": {
+                        "type": "file",
+                        "name": "hugoisforlovers.md",
+                        "url": "/uploads/posts/hugoisforlovers.md"
+                      },
+                      "migrate-from-jekyll.md": {
+                        "type": "file",
+                        "name": "migrate-from-jekyll.md",
+                        "url": "/uploads/posts/migrate-from-jekyll.md"
+                      }
+                    }
+                  },
+                  "docs": {
+                    "type": "folder",
+                    "name": "docs",
+                    "children": {
+                      "example": {
+                        "type": "folder",
+                        "name": "example",
+                        "children": {
+                          "hidden.md": {
+                            "type": "file",
+                            "name": "hidden.md",
+                            "url": "/uploads/example/hidden.md"
+                          },
+                          "table-of-contents": {
+                            "type": "folder",
+                            "name": "table-of-contents",
+                            "children": {
+                              "without-toc.md": {
+                                "type": "file",
+                                "name": "without-toc.md",
+                                "url": "/uploads/table-of-contents/without-toc.md"
+                              },
+                              "with-toc.md": {
+                                "type": "file",
+                                "name": "with-toc.md",
+                                "url": "/uploads/table-of-contents/with-toc.md"
+                              },
+                              "_index.md": {
+                                "type": "file",
+                                "name": "_index.md",
+                                "url": "/uploads/table-of-contents/_index.md"
+                              }
+                            }
+                          },
+                          "collapsed": {
+                            "type": "folder",
+                            "name": "collapsed",
+                            "children": {
+                              "3rd-level": {
+                                "type": "folder",
+                                "name": "3rd-level",
+                                "children": {
+                                  "4th-level.md": {
+                                    "type": "file",
+                                    "name": "4th-level.md",
+                                    "url": "/uploads/3rd-level/4th-level.md"
+                                  },
+                                  "_index.md": {
+                                    "type": "file",
+                                    "name": "_index.md",
+                                    "url": "/uploads/3rd-level/_index.md"
+                                  }
+                                }
+                              },
+                              "_index.md": {
+                                "type": "file",
+                                "name": "_index.md",
+                                "url": "/uploads/collapsed/_index.md"
+                              }
+                            }
+                          },
+                          "_index.md": {
+                            "type": "file",
+                            "name": "_index.md",
+                            "url": "/uploads/example/_index.md"
+                          }
+                        }
+                      },
+                      "shortcodes": {
+                        "type": "folder",
+                        "name": "shortcodes",
+                        "children": {
+                          "buttons.md": {
+                            "type": "file",
+                            "name": "buttons.md",
+                            "url": "/uploads/shortcodes/buttons.md"
+                          },
+                          "mermaid.md": {
+                            "type": "file",
+                            "name": "mermaid.md",
+                            "url": "/uploads/shortcodes/mermaid.md"
+                          },
+                          "columns.md": {
+                            "type": "file",
+                            "name": "columns.md",
+                            "url": "/uploads/shortcodes/columns.md"
+                          },
+                          "hints.md": {
+                            "type": "file",
+                            "name": "hints.md",
+                            "url": "/uploads/shortcodes/hints.md"
+                          },
+                          "details.md": {
+                            "type": "file",
+                            "name": "details.md",
+                            "url": "/uploads/shortcodes/details.md"
+                          },
+                          "section": {
+                            "type": "folder",
+                            "name": "section",
+                            "children": {
+                              "first-page.md": {
+                                "type": "file",
+                                "name": "first-page.md",
+                                "url": "/uploads/section/first-page.md"
+                              },
+                              "second-page.md": {
+                                "type": "file",
+                                "name": "second-page.md",
+                                "url": "/uploads/section/second-page.md"
+                              },
+                              "_index.md": {
+                                "type": "file",
+                                "name": "_index.md",
+                                "url": "/uploads/section/_index.md"
+                              }
+                            }
+                          },
+                          "tabs.md": {
+                            "type": "file",
+                            "name": "tabs.md",
+                            "url": "/uploads/shortcodes/tabs.md"
+                          },
+                          "katex.md": {
+                            "type": "file",
+                            "name": "katex.md",
+                            "url": "/uploads/shortcodes/katex.md"
+                          },
+                          "_index.md": {
+                            "type": "file",
+                            "name": "_index.md",
+                            "url": "/uploads/shortcodes/_index.md"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "hugo.toml": {
+                "type": "file",
+                "name": "hugo.toml",
+                "url": "/uploads/exampleSite/hugo.toml"
+              }
+            }
+          },
+          ".github": {
+            "type": "folder",
+            "name": ".github",
+            "children": {
+              "workflows": {
+                "type": "folder",
+                "name": "workflows",
+                "children": {
+                  "main.yml": {
+                    "type": "file",
+                    "name": "main.yml",
+                    "url": "/uploads/workflows/main.yml"
+                  }
+                }
+              }
+            }
+          },
+          "assets": {
+            "type": "folder",
+            "name": "assets",
+            "children": {
+              "_fonts.scss": {
+                "type": "file",
+                "name": "_fonts.scss",
+                "url": "/uploads/assets/_fonts.scss"
+              },
+              "plugins": {
+                "type": "folder",
+                "name": "plugins",
+                "children": {
+                  "_numbered.scss": {
+                    "type": "file",
+                    "name": "_numbered.scss",
+                    "url": "/uploads/plugins/_numbered.scss"
+                  },
+                  "_scrollbars.scss": {
+                    "type": "file",
+                    "name": "_scrollbars.scss",
+                    "url": "/uploads/plugins/_scrollbars.scss"
+                  }
+                }
+              },
+              "_main.scss": {
+                "type": "file",
+                "name": "_main.scss",
+                "url": "/uploads/assets/_main.scss"
+              },
+              "sw-register.js": {
+                "type": "file",
+                "name": "sw-register.js",
+                "url": "/uploads/assets/sw-register.js"
+              },
+              "_custom.scss": {
+                "type": "file",
+                "name": "_custom.scss",
+                "url": "/uploads/assets/_custom.scss"
+              },
+              "_utils.scss": {
+                "type": "file",
+                "name": "_utils.scss",
+                "url": "/uploads/assets/_utils.scss"
+              },
+              "_variables.scss": {
+                "type": "file",
+                "name": "_variables.scss",
+                "url": "/uploads/assets/_variables.scss"
+              },
+              "normalize.css": {
+                "type": "file",
+                "name": "normalize.css",
+                "url": "/uploads/assets/normalize.css"
+              },
+              "themes": {
+                "type": "folder",
+                "name": "themes",
+                "children": {
+                  "_light.scss": {
+                    "type": "file",
+                    "name": "_light.scss",
+                    "url": "/uploads/themes/_light.scss"
+                  },
+                  "_dark.scss": {
+                    "type": "file",
+                    "name": "_dark.scss",
+                    "url": "/uploads/themes/_dark.scss"
+                  },
+                  "_auto.scss": {
+                    "type": "file",
+                    "name": "_auto.scss",
+                    "url": "/uploads/themes/_auto.scss"
+                  }
+                }
+              },
+              "menu-reset.js": {
+                "type": "file",
+                "name": "menu-reset.js",
+                "url": "/uploads/assets/menu-reset.js"
+              },
+              "clipboard.js": {
+                "type": "file",
+                "name": "clipboard.js",
+                "url": "/uploads/assets/clipboard.js"
+              },
+              "search-data.json": {
+                "type": "file",
+                "name": "search-data.json",
+                "url": "/uploads/assets/search-data.json"
+              },
+              "_markdown.scss": {
+                "type": "file",
+                "name": "_markdown.scss",
+                "url": "/uploads/assets/_markdown.scss"
+              },
+              "mermaid.json": {
+                "type": "file",
+                "name": "mermaid.json",
+                "url": "/uploads/assets/mermaid.json"
+              },
+              "search.js": {
+                "type": "file",
+                "name": "search.js",
+                "url": "/uploads/assets/search.js"
+              },
+              "manifest.json": {
+                "type": "file",
+                "name": "manifest.json",
+                "url": "/uploads/assets/manifest.json"
+              },
+              "_print.scss": {
+                "type": "file",
+                "name": "_print.scss",
+                "url": "/uploads/assets/_print.scss"
+              },
+              "sw.js": {
+                "type": "file",
+                "name": "sw.js",
+                "url": "/uploads/assets/sw.js"
+              },
+              "book.scss": {
+                "type": "file",
+                "name": "book.scss",
+                "url": "/uploads/assets/book.scss"
+              },
+              "_shortcodes.scss": {
+                "type": "file",
+                "name": "_shortcodes.scss",
+                "url": "/uploads/assets/_shortcodes.scss"
+              },
+              "_defaults.scss": {
+                "type": "file",
+                "name": "_defaults.scss",
+                "url": "/uploads/assets/_defaults.scss"
+              }
+            }
+          },
+          "go.mod": {
+            "type": "file",
+            "name": "go.mod",
+            "url": "/uploads/hugo-book/go.mod"
+          },
+          "static": {
+            "type": "folder",
+            "name": "static",
+            "children": {
+              "favicon.png": {
+                "type": "file",
+                "name": "favicon.png",
+                "url": "/uploads/static/favicon.png"
+              },
+              "favicon.svg": {
+                "type": "file",
+                "name": "favicon.svg",
+                "url": "/uploads/static/favicon.svg"
+              },
+              "svg": {
+                "type": "folder",
+                "name": "svg",
+                "children": {
+                  "menu.svg": {
+                    "type": "file",
+                    "name": "menu.svg",
+                    "url": "/uploads/svg/menu.svg"
+                  },
+                  "calendar.svg": {
+                    "type": "file",
+                    "name": "calendar.svg",
+                    "url": "/uploads/svg/calendar.svg"
+                  },
+                  "edit.svg": {
+                    "type": "file",
+                    "name": "edit.svg",
+                    "url": "/uploads/svg/edit.svg"
+                  },
+                  "toc.svg": {
+                    "type": "file",
+                    "name": "toc.svg",
+                    "url": "/uploads/svg/toc.svg"
+                  },
+                  "translate.svg": {
+                    "type": "file",
+                    "name": "translate.svg",
+                    "url": "/uploads/svg/translate.svg"
+                  }
+                }
+              },
+              "mermaid.min.js": {
+                "type": "file",
+                "name": "mermaid.min.js",
+                "url": "/uploads/static/mermaid.min.js"
+              },
+              "fuse.min.js": {
+                "type": "file",
+                "name": "fuse.min.js",
+                "url": "/uploads/static/fuse.min.js"
+              },
+              "katex": {
+                "type": "folder",
+                "name": "katex",
+                "children": {
+                  "katex.min.js": {
+                    "type": "file",
+                    "name": "katex.min.js",
+                    "url": "/uploads/katex/katex.min.js"
+                  },
+                  "katex.min.css": {
+                    "type": "file",
+                    "name": "katex.min.css",
+                    "url": "/uploads/katex/katex.min.css"
+                  },
+                  "auto-render.min.js": {
+                    "type": "file",
+                    "name": "auto-render.min.js",
+                    "url": "/uploads/katex/auto-render.min.js"
+                  },
+                  "fonts": {
+                    "type": "folder",
+                    "name": "fonts",
+                    "children": {
+                      "KaTeX_Size4-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size4-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Size4-Regular.woff2"
+                      },
+                      "KaTeX_Main-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Bold.ttf",
+                        "url": "/uploads/fonts/KaTeX_Main-Bold.ttf"
+                      },
+                      "KaTeX_Fraktur-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Bold.woff",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Bold.woff"
+                      },
+                      "KaTeX_Caligraphic-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Bold.ttf",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Bold.ttf"
+                      },
+                      "KaTeX_Math-Italic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Math-Italic.ttf",
+                        "url": "/uploads/fonts/KaTeX_Math-Italic.ttf"
+                      },
+                      "KaTeX_AMS-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_AMS-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_AMS-Regular.woff"
+                      },
+                      "KaTeX_Fraktur-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Bold.woff2",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Bold.woff2"
+                      },
+                      "KaTeX_Fraktur-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Regular.woff"
+                      },
+                      "KaTeX_Math-Italic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Math-Italic.woff2",
+                        "url": "/uploads/fonts/KaTeX_Math-Italic.woff2"
+                      },
+                      "KaTeX_SansSerif-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Bold.ttf",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Bold.ttf"
+                      },
+                      "KaTeX_Size2-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size2-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Size2-Regular.woff2"
+                      },
+                      "KaTeX_Main-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Main-Regular.woff2"
+                      },
+                      "KaTeX_Script-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Script-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Script-Regular.woff"
+                      },
+                      "KaTeX_Main-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Main-Regular.ttf"
+                      },
+                      "KaTeX_Math-BoldItalic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Math-BoldItalic.woff2",
+                        "url": "/uploads/fonts/KaTeX_Math-BoldItalic.woff2"
+                      },
+                      "KaTeX_Size3-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size3-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Size3-Regular.woff2"
+                      },
+                      "KaTeX_Caligraphic-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Regular.ttf"
+                      },
+                      "KaTeX_Fraktur-Bold.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Bold.ttf",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Bold.ttf"
+                      },
+                      "KaTeX_Size2-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size2-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Size2-Regular.ttf"
+                      },
+                      "KaTeX_Math-BoldItalic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Math-BoldItalic.ttf",
+                        "url": "/uploads/fonts/KaTeX_Math-BoldItalic.ttf"
+                      },
+                      "KaTeX_AMS-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_AMS-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_AMS-Regular.woff2"
+                      },
+                      "KaTeX_Main-BoldItalic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-BoldItalic.ttf",
+                        "url": "/uploads/fonts/KaTeX_Main-BoldItalic.ttf"
+                      },
+                      "KaTeX_SansSerif-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Bold.woff2",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Bold.woff2"
+                      },
+                      "KaTeX_Size2-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size2-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Size2-Regular.woff"
+                      },
+                      "KaTeX_Main-BoldItalic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-BoldItalic.woff2",
+                        "url": "/uploads/fonts/KaTeX_Main-BoldItalic.woff2"
+                      },
+                      "KaTeX_Caligraphic-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Bold.woff2",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Bold.woff2"
+                      },
+                      "KaTeX_Fraktur-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Regular.woff2"
+                      },
+                      "KaTeX_SansSerif-Italic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Italic.ttf",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Italic.ttf"
+                      },
+                      "KaTeX_Main-Italic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Italic.woff2",
+                        "url": "/uploads/fonts/KaTeX_Main-Italic.woff2"
+                      },
+                      "KaTeX_Caligraphic-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Regular.woff2"
+                      },
+                      "KaTeX_SansSerif-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Regular.woff"
+                      },
+                      "KaTeX_Typewriter-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Typewriter-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Typewriter-Regular.ttf"
+                      },
+                      "KaTeX_Size1-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size1-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Size1-Regular.woff"
+                      },
+                      "KaTeX_Main-Bold.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Bold.woff2",
+                        "url": "/uploads/fonts/KaTeX_Main-Bold.woff2"
+                      },
+                      "KaTeX_SansSerif-Italic.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Italic.woff2",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Italic.woff2"
+                      },
+                      "KaTeX_Caligraphic-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Bold.woff",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Bold.woff"
+                      },
+                      "KaTeX_Typewriter-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Typewriter-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Typewriter-Regular.woff2"
+                      },
+                      "KaTeX_Script-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Script-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Script-Regular.woff2"
+                      },
+                      "KaTeX_SansSerif-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Bold.woff",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Bold.woff"
+                      },
+                      "KaTeX_Main-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Main-Regular.woff"
+                      },
+                      "KaTeX_Size4-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size4-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Size4-Regular.woff"
+                      },
+                      "KaTeX_Math-Italic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Math-Italic.woff",
+                        "url": "/uploads/fonts/KaTeX_Math-Italic.woff"
+                      },
+                      "KaTeX_AMS-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_AMS-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_AMS-Regular.ttf"
+                      },
+                      "KaTeX_Fraktur-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Fraktur-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Fraktur-Regular.ttf"
+                      },
+                      "KaTeX_Typewriter-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Typewriter-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Typewriter-Regular.woff"
+                      },
+                      "KaTeX_Main-Bold.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Bold.woff",
+                        "url": "/uploads/fonts/KaTeX_Main-Bold.woff"
+                      },
+                      "KaTeX_Script-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Script-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Script-Regular.ttf"
+                      },
+                      "KaTeX_Main-Italic.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Italic.ttf",
+                        "url": "/uploads/fonts/KaTeX_Main-Italic.ttf"
+                      },
+                      "KaTeX_Caligraphic-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Caligraphic-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Caligraphic-Regular.woff"
+                      },
+                      "KaTeX_Size1-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size1-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Size1-Regular.ttf"
+                      },
+                      "KaTeX_SansSerif-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Regular.ttf"
+                      },
+                      "KaTeX_SansSerif-Italic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Italic.woff",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Italic.woff"
+                      },
+                      "KaTeX_Size1-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_Size1-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_Size1-Regular.woff2"
+                      },
+                      "KaTeX_Main-Italic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-Italic.woff",
+                        "url": "/uploads/fonts/KaTeX_Main-Italic.woff"
+                      },
+                      "KaTeX_SansSerif-Regular.woff2": {
+                        "type": "file",
+                        "name": "KaTeX_SansSerif-Regular.woff2",
+                        "url": "/uploads/fonts/KaTeX_SansSerif-Regular.woff2"
+                      },
+                      "KaTeX_Size3-Regular.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Size3-Regular.woff",
+                        "url": "/uploads/fonts/KaTeX_Size3-Regular.woff"
+                      },
+                      "KaTeX_Size4-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size4-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Size4-Regular.ttf"
+                      },
+                      "KaTeX_Main-BoldItalic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Main-BoldItalic.woff",
+                        "url": "/uploads/fonts/KaTeX_Main-BoldItalic.woff"
+                      },
+                      "KaTeX_Math-BoldItalic.woff": {
+                        "type": "file",
+                        "name": "KaTeX_Math-BoldItalic.woff",
+                        "url": "/uploads/fonts/KaTeX_Math-BoldItalic.woff"
+                      },
+                      "KaTeX_Size3-Regular.ttf": {
+                        "type": "file",
+                        "name": "KaTeX_Size3-Regular.ttf",
+                        "url": "/uploads/fonts/KaTeX_Size3-Regular.ttf"
+                      }
+                    }
+                  }
+                }
+              },
+              "fonts": {
+                "type": "folder",
+                "name": "fonts",
+                "children": {
+                  "roboto-v27-latin-regular.woff2": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-regular.woff2",
+                    "url": "/uploads/fonts/roboto-v27-latin-regular.woff2"
+                  },
+                  "roboto-mono-v13-latin-regular.woff": {
+                    "type": "file",
+                    "name": "roboto-mono-v13-latin-regular.woff",
+                    "url": "/uploads/fonts/roboto-mono-v13-latin-regular.woff"
+                  },
+                  "roboto-v27-latin-700.woff": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-700.woff",
+                    "url": "/uploads/fonts/roboto-v27-latin-700.woff"
+                  },
+                  "roboto-v27-latin-regular.woff": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-regular.woff",
+                    "url": "/uploads/fonts/roboto-v27-latin-regular.woff"
+                  },
+                  "roboto-mono-v13-latin-regular.woff2": {
+                    "type": "file",
+                    "name": "roboto-mono-v13-latin-regular.woff2",
+                    "url": "/uploads/fonts/roboto-mono-v13-latin-regular.woff2"
+                  },
+                  "roboto-v27-latin-700.woff2": {
+                    "type": "file",
+                    "name": "roboto-v27-latin-700.woff2",
+                    "url": "/uploads/fonts/roboto-v27-latin-700.woff2"
+                  }
+                }
+              }
+            }
+          },
+          ".git": {
+            "type": "file",
+            "name": ".git",
+            "url": "/uploads/hugo-book/.git"
+          },
+          "theme.toml": {
+            "type": "file",
+            "name": "theme.toml",
+            "url": "/uploads/hugo-book/theme.toml"
+          },
+          "README.md": {
+            "type": "file",
+            "name": "README.md",
+            "url": "/uploads/hugo-book/README.md"
+          },
+          "layouts": {
+            "type": "folder",
+            "name": "layouts",
+            "children": {
+              "_default": {
+                "type": "folder",
+                "name": "_default",
+                "children": {
+                  "list.html": {
+                    "type": "file",
+                    "name": "list.html",
+                    "url": "/uploads/_default/list.html"
+                  },
+                  "baseof.html": {
+                    "type": "file",
+                    "name": "baseof.html",
+                    "url": "/uploads/_default/baseof.html"
+                  },
+                  "_markup": {
+                    "type": "folder",
+                    "name": "_markup",
+                    "children": {
+                      "render-image.html": {
+                        "type": "file",
+                        "name": "render-image.html",
+                        "url": "/uploads/_markup/render-image.html"
+                      },
+                      "render-link.html": {
+                        "type": "file",
+                        "name": "render-link.html",
+                        "url": "/uploads/_markup/render-link.html"
+                      },
+                      "render-heading.html": {
+                        "type": "file",
+                        "name": "render-heading.html",
+                        "url": "/uploads/_markup/render-heading.html"
+                      }
+                    }
+                  },
+                  "single.html": {
+                    "type": "file",
+                    "name": "single.html",
+                    "url": "/uploads/_default/single.html"
+                  }
+                }
+              },
+              "partials": {
+                "type": "folder",
+                "name": "partials",
+                "children": {
+                  "docs": {
+                    "type": "folder",
+                    "name": "docs",
+                    "children": {
+                      "post-meta.html": {
+                        "type": "file",
+                        "name": "post-meta.html",
+                        "url": "/uploads/docs/post-meta.html"
+                      },
+                      "menu-filetree.html": {
+                        "type": "file",
+                        "name": "menu-filetree.html",
+                        "url": "/uploads/docs/menu-filetree.html"
+                      },
+                      "taxonomy.html": {
+                        "type": "file",
+                        "name": "taxonomy.html",
+                        "url": "/uploads/docs/taxonomy.html"
+                      },
+                      "html-head-title.html": {
+                        "type": "file",
+                        "name": "html-head-title.html",
+                        "url": "/uploads/docs/html-head-title.html"
+                      },
+                      "html-head.html": {
+                        "type": "file",
+                        "name": "html-head.html",
+                        "url": "/uploads/docs/html-head.html"
+                      },
+                      "toc.html": {
+                        "type": "file",
+                        "name": "toc.html",
+                        "url": "/uploads/docs/toc.html"
+                      },
+                      "menu.html": {
+                        "type": "file",
+                        "name": "menu.html",
+                        "url": "/uploads/docs/menu.html"
+                      },
+                      "html-head-favicon.html": {
+                        "type": "file",
+                        "name": "html-head-favicon.html",
+                        "url": "/uploads/docs/html-head-favicon.html"
+                      },
+                      "brand.html": {
+                        "type": "file",
+                        "name": "brand.html",
+                        "url": "/uploads/docs/brand.html"
+                      },
+                      "search.html": {
+                        "type": "file",
+                        "name": "search.html",
+                        "url": "/uploads/docs/search.html"
+                      },
+                      "links": {
+                        "type": "folder",
+                        "name": "links",
+                        "children": {
+                          "edit.html": {
+                            "type": "file",
+                            "name": "edit.html",
+                            "url": "/uploads/links/edit.html"
+                          },
+                          "commit.html": {
+                            "type": "file",
+                            "name": "commit.html",
+                            "url": "/uploads/links/commit.html"
+                          }
+                        }
+                      },
+                      "comments.html": {
+                        "type": "file",
+                        "name": "comments.html",
+                        "url": "/uploads/docs/comments.html"
+                      },
+                      "inject": {
+                        "type": "folder",
+                        "name": "inject",
+                        "children": {
+                          "menu-before.html": {
+                            "type": "file",
+                            "name": "menu-before.html",
+                            "url": "/uploads/inject/menu-before.html"
+                          },
+                          "content-before.html": {
+                            "type": "file",
+                            "name": "content-before.html",
+                            "url": "/uploads/inject/content-before.html"
+                          },
+                          "content-after.html": {
+                            "type": "file",
+                            "name": "content-after.html",
+                            "url": "/uploads/inject/content-after.html"
+                          },
+                          "toc-before.html": {
+                            "type": "file",
+                            "name": "toc-before.html",
+                            "url": "/uploads/inject/toc-before.html"
+                          },
+                          "body.html": {
+                            "type": "file",
+                            "name": "body.html",
+                            "url": "/uploads/inject/body.html"
+                          },
+                          "menu-after.html": {
+                            "type": "file",
+                            "name": "menu-after.html",
+                            "url": "/uploads/inject/menu-after.html"
+                          },
+                          "toc-after.html": {
+                            "type": "file",
+                            "name": "toc-after.html",
+                            "url": "/uploads/inject/toc-after.html"
+                          },
+                          "footer.html": {
+                            "type": "file",
+                            "name": "footer.html",
+                            "url": "/uploads/inject/footer.html"
+                          },
+                          "head.html": {
+                            "type": "file",
+                            "name": "head.html",
+                            "url": "/uploads/inject/head.html"
+                          }
+                        }
+                      },
+                      "languages.html": {
+                        "type": "file",
+                        "name": "languages.html",
+                        "url": "/uploads/docs/languages.html"
+                      },
+                      "title.html": {
+                        "type": "file",
+                        "name": "title.html",
+                        "url": "/uploads/docs/title.html"
+                      },
+                      "header.html": {
+                        "type": "file",
+                        "name": "header.html",
+                        "url": "/uploads/docs/header.html"
+                      },
+                      "footer.html": {
+                        "type": "file",
+                        "name": "footer.html",
+                        "url": "/uploads/docs/footer.html"
+                      },
+                      "date.html": {
+                        "type": "file",
+                        "name": "date.html",
+                        "url": "/uploads/docs/date.html"
+                      },
+                      "menu-hugo.html": {
+                        "type": "file",
+                        "name": "menu-hugo.html",
+                        "url": "/uploads/docs/menu-hugo.html"
+                      }
+                    }
+                  }
+                }
+              },
+              "posts": {
+                "type": "folder",
+                "name": "posts",
+                "children": {
+                  "list.html": {
+                    "type": "file",
+                    "name": "list.html",
+                    "url": "/uploads/posts/list.html"
+                  },
+                  "single.html": {
+                    "type": "file",
+                    "name": "single.html",
+                    "url": "/uploads/posts/single.html"
+                  }
+                }
+              },
+              "404.html": {
+                "type": "file",
+                "name": "404.html",
+                "url": "/uploads/layouts/404.html"
+              },
+              "taxonomy": {
+                "type": "folder",
+                "name": "taxonomy",
+                "children": {
+                  "taxonomy.html": {
+                    "type": "file",
+                    "name": "taxonomy.html",
+                    "url": "/uploads/taxonomy/taxonomy.html"
+                  },
+                  "list.html": {
+                    "type": "file",
+                    "name": "list.html",
+                    "url": "/uploads/taxonomy/list.html"
+                  }
+                }
+              },
+              "shortcodes": {
+                "type": "folder",
+                "name": "shortcodes",
+                "children": {
+                  "html.html": {
+                    "type": "file",
+                    "name": "html.html",
+                    "url": "/uploads/shortcodes/html.html"
+                  },
+                  "section.html": {
+                    "type": "file",
+                    "name": "section.html",
+                    "url": "/uploads/shortcodes/section.html"
+                  },
+                  "katex.html": {
+                    "type": "file",
+                    "name": "katex.html",
+                    "url": "/uploads/shortcodes/katex.html"
+                  },
+                  "columns.html": {
+                    "type": "file",
+                    "name": "columns.html",
+                    "url": "/uploads/shortcodes/columns.html"
+                  },
+                  "hint.html": {
+                    "type": "file",
+                    "name": "hint.html",
+                    "url": "/uploads/shortcodes/hint.html"
+                  },
+                  "paper_block_0.html": {
+                    "type": "file",
+                    "name": "paper_block_0.html",
+                    "url": "/uploads/shortcodes/paper_block_0.html"
+                  },
+                  "details.html": {
+                    "type": "file",
+                    "name": "details.html",
+                    "url": "/uploads/shortcodes/details.html"
+                  },
+                  "i18n.html": {
+                    "type": "file",
+                    "name": "i18n.html",
+                    "url": "/uploads/shortcodes/i18n.html"
+                  },
+                  "button.html": {
+                    "type": "file",
+                    "name": "button.html",
+                    "url": "/uploads/shortcodes/button.html"
+                  },
+                  "tabs.html": {
+                    "type": "file",
+                    "name": "tabs.html",
+                    "url": "/uploads/shortcodes/tabs.html"
+                  },
+                  "paper_block.html": {
+                    "type": "file",
+                    "name": "paper_block.html",
+                    "url": "/uploads/shortcodes/paper_block.html"
+                  },
+                  "mermaid.html": {
+                    "type": "file",
+                    "name": "mermaid.html",
+                    "url": "/uploads/shortcodes/mermaid.html"
+                  },
+                  "tab.html": {
+                    "type": "file",
+                    "name": "tab.html",
+                    "url": "/uploads/shortcodes/tab.html"
+                  }
+                }
+              }
+            }
+          },
+          "archetypes": {
+            "type": "folder",
+            "name": "archetypes",
+            "children": {
+              "docs.md": {
+                "type": "file",
+                "name": "docs.md",
+                "url": "/uploads/archetypes/docs.md"
+              },
+              "posts.md": {
+                "type": "file",
+                "name": "posts.md",
+                "url": "/uploads/archetypes/posts.md"
+              }
+            }
+          },
+          "i18n": {
+            "type": "folder",
+            "name": "i18n",
+            "children": {
+              "fr.yaml": {
+                "type": "file",
+                "name": "fr.yaml",
+                "url": "/uploads/i18n/fr.yaml"
+              },
+              "zh.yaml": {
+                "type": "file",
+                "name": "zh.yaml",
+                "url": "/uploads/i18n/zh.yaml"
+              },
+              "ko.yaml": {
+                "type": "file",
+                "name": "ko.yaml",
+                "url": "/uploads/i18n/ko.yaml"
+              },
+              "nl.yaml": {
+                "type": "file",
+                "name": "nl.yaml",
+                "url": "/uploads/i18n/nl.yaml"
+              },
+              "ru.yaml": {
+                "type": "file",
+                "name": "ru.yaml",
+                "url": "/uploads/i18n/ru.yaml"
+              },
+              "es.yaml": {
+                "type": "file",
+                "name": "es.yaml",
+                "url": "/uploads/i18n/es.yaml"
+              },
+              "de.yaml": {
+                "type": "file",
+                "name": "de.yaml",
+                "url": "/uploads/i18n/de.yaml"
+              },
+              "oc.yaml": {
+                "type": "file",
+                "name": "oc.yaml",
+                "url": "/uploads/i18n/oc.yaml"
+              },
+              "bn.yaml": {
+                "type": "file",
+                "name": "bn.yaml",
+                "url": "/uploads/i18n/bn.yaml"
+              },
+              "sv.yaml": {
+                "type": "file",
+                "name": "sv.yaml",
+                "url": "/uploads/i18n/sv.yaml"
+              },
+              "en.yaml": {
+                "type": "file",
+                "name": "en.yaml",
+                "url": "/uploads/i18n/en.yaml"
+              },
+              "he.yaml": {
+                "type": "file",
+                "name": "he.yaml",
+                "url": "/uploads/i18n/he.yaml"
+              },
+              "ja.yaml": {
+                "type": "file",
+                "name": "ja.yaml",
+                "url": "/uploads/i18n/ja.yaml"
+              },
+              "uk.yaml": {
+                "type": "file",
+                "name": "uk.yaml",
+                "url": "/uploads/i18n/uk.yaml"
+              },
+              "pl.yaml": {
+                "type": "file",
+                "name": "pl.yaml",
+                "url": "/uploads/i18n/pl.yaml"
+              },
+              "tr.yaml": {
+                "type": "file",
+                "name": "tr.yaml",
+                "url": "/uploads/i18n/tr.yaml"
+              },
+              "fa.yaml": {
+                "type": "file",
+                "name": "fa.yaml",
+                "url": "/uploads/i18n/fa.yaml"
+              },
+              "cn.yaml": {
+                "type": "file",
+                "name": "cn.yaml",
+                "url": "/uploads/i18n/cn.yaml"
+              },
+              "cs.yaml": {
+                "type": "file",
+                "name": "cs.yaml",
+                "url": "/uploads/i18n/cs.yaml"
+              },
+              "nb.yaml": {
+                "type": "file",
+                "name": "nb.yaml",
+                "url": "/uploads/i18n/nb.yaml"
+              },
+              "pt.yaml": {
+                "type": "file",
+                "name": "pt.yaml",
+                "url": "/uploads/i18n/pt.yaml"
+              },
+              "am.yaml": {
+                "type": "file",
+                "name": "am.yaml",
+                "url": "/uploads/i18n/am.yaml"
+              },
+              "jp.yaml": {
+                "type": "file",
+                "name": "jp.yaml",
+                "url": "/uploads/i18n/jp.yaml"
+              },
+              "zh-TW.yaml": {
+                "type": "file",
+                "name": "zh-TW.yaml",
+                "url": "/uploads/i18n/zh-TW.yaml"
+              },
+              "it.yaml": {
+                "type": "file",
+                "name": "it.yaml",
+                "url": "/uploads/i18n/it.yaml"
+              }
+            }
+          },
+          "images": {
+            "type": "folder",
+            "name": "images",
+            "children": {
+              "tn.png": {
+                "type": "file",
+                "name": "tn.png",
+                "url": "/uploads/images/tn.png"
+              },
+              "screenshot.png": {
+                "type": "file",
+                "name": "screenshot.png",
+                "url": "/uploads/images/screenshot.png"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "컴퓨터연산특론_텀프로젝트.zip": {
+    "type": "file",
+    "name": "컴퓨터연산특론_텀프로젝트.zip",
+    "url": "/uploads/uploads/컴퓨터연산특론_텀프로젝트.zip"
+  }
+}

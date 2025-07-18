@@ -13,5 +13,3 @@ theme = "hugo-book"
   BookLogo = "/datas/webpage_base/main_logo.png"
   BookFavicon = "/datas/webpage_base/soc_icon.png"
   allowSearchIndexing = false
-
-  
