@@ -1,5 +1,7 @@
 ---
 weight: 1
+tags:
+  - Homepage
 ---
 
 # Haseok Bong

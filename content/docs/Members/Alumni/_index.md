@@ -1,10 +1,15 @@
 ---
 weight: 2
+tags:
+  - Homepage
 ---
 # 졸업생 진로현황
 
 |졸업년도|이름|학위|진로현황|비고|
 |:---:|---|:---:|:---:|:---:|
+|2026년|[강주완 Joowan Kang](/datas/archives/members/m.s./joowan-kang)|석사|||
+||[정인수 Insu Jeong](/datas/archives/members/m.s./insu-jeong)|석사|||
+||[조승준 Seungjun Jo](/datas/archives/members/m.s./seungjun-jo)|석사|||
 |2024년|김경욱 Kyeonguk Kim|석사|||
 ||[송하윤 Hayoon Song](/datas/archives/members/m.s./hayoon-song)|석사|||
 |2023년|하지석 Jiseok Ha|석사|텔레칩스|병역특례|
@@ -24,7 +29,7 @@ weight: 2
 ||윤창호 Changho Yoon|석사|삼성전자|병역특례|
 |2017년|손현식 Hyeon-Sik Son|박사|삼성전자||
 ||현종길 Jongkil Hyun|석사|박사진학||
-||조현우 Hyun-Woo Jo|석사|박사진학||
+||조현우 Hyun-Woo Jo|석사|박사진학|삼성전자|
 ||이인규 Ingyu Lee|석사|SK하이닉스||
 ||조성득 Seong-Deuk Jo|석사|삼성전자||
 ||안태웅 Taewoong Ahn|석사|삼성전자||

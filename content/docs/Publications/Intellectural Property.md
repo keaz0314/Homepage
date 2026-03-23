@@ -1,6 +1,8 @@
 ---
 title: Intellectural Property
 weight: 4
+tags:
+  - Homepage
 ---
 
 # 하드웨어 IP

@@ -2,6 +2,8 @@
 title: Prizes
 weight: 5
 draft: false
+tags:
+  - Homepage
 ---
 
 # 수상 리스트 

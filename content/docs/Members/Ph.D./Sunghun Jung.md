@@ -1,6 +1,8 @@
 ---
 title: Sunghun Jung
 weight: 2
+tags:
+  - Homepage
 ---
 
 {{% columns %}}
@@ -11,7 +13,7 @@ weight: 2
 
 # Sunghun Jung
 
-## Ph.D. Student
+## Ph.D. Student 
 ### E-mail : keaz6060@knu.ac.kr
 
 ## Education

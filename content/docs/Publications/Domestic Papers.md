@@ -1,6 +1,8 @@
 ---
 title: Domestic Papers
 weight: 3
+tags:
+  - Homepage
 ---
 
 # 국내 학술지

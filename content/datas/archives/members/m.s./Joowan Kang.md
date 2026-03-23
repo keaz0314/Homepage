@@ -1,5 +1,7 @@
 ---
 weight: 3
+tags:
+  - Homepage
 ---
 
 {{% columns %}}

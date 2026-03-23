@@ -1,6 +1,11 @@
 ---
-weight : 999
-draft : false
+weight: 999
+draft: false
+_build:
+  render: true
+  list: false
+tags:
+  - Homepage
 ---
 
 # Share

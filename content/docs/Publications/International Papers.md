@@ -1,6 +1,8 @@
 ---
 title: International Papers
 weight: 2
+tags:
+  - Homepage
 ---
 
 # 국제 학술지

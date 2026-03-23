@@ -1,6 +1,8 @@
 ---
 weight: 1
 bookCollapse: false
+tags:
+  - Homepage
 ---
 #
 

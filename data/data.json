@@ -1101,6 +1101,16 @@
     },
     {
         "Category":"국내 학술지",
+        "Title":"MobileNet 기반 DeepLabv3+의 경량화 방법",
+        "Author":"김태준, 정인수, 강주완, 조승준, 문병인",
+        "Etc":"한국정보처리학회논문지, 14권, 11호, Nov. 2025",
+        "URL":"https:\/\/tkips.kips.or.kr\/digital-library\/105156",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술지",
         "Title":"반복 연산 기반 Otsu 방법을 활용한 에지 검출 가속기",
         "Author":"강주완, 정인수, 조승준, 문병인",
         "Etc":"한국정보처리학회논문지, 14권, 3호, Mar. 2025",
@@ -1431,10 +1441,30 @@
     },
     {
         "Category":"국내 학술대회",
+        "Title":"영상 분할 및 Otsu 기법을 사용한 에지 검출 가속기",
+        "Author":"이은해, 강주완, 정인수, 조승준, 문병인",
+        "Etc":"한국정보기술학회 추계종합학술대회, Nov. 2025",
+        "URL":"\/datas\/publications\/영상 분할 및 Otsu 기법을 사용한 에지 검출 가속기.pdf",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
         "Title":"반복 연산 기반 Otsu 방법을 활용한 국부적 임곗값 산출 기법",
         "Author":"이은해, 강주완, 문병인",
         "Etc":"한국정보기술학회 하계종합학술대회, Jun. 2025",
-        "URL":null,
+        "URL":"https:\/\/www.dbpia.co.kr\/Journal\/articleDetail?nodeId=NODE12288518",
+        "prize_category":null,
+        "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"국내 학술대회",
+        "Title":"DeepLabv3+ 네트워크의 경량화 기법",
+        "Author":"김태준, 정인수, 강주완, 조승준, 문병인",
+        "Etc":"ASK 2025 학술발표대회, May 2025",
+        "URL":"\/datas\/publications\/DeepLabv3+ 네트워크의 경량화 기법.pdf",
         "prize_category":null,
         "prize_URL":null,
         "Note":null
@@ -2667,6 +2697,26 @@
         "URL":"\/datas\/publications\/프로그램\/스테레오 정합 라이브러리.pdf",
         "prize_category":null,
         "prize_URL":null,
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[포스터] Pattern Generator for High-Speed Memory Test",
+        "Author":"Inventor : Insu Jeong, Joowan Kang, Junghwan Kim, Sunghun Jung, and Byungin Moon \/ Date : 2025.07.04",
+        "Etc":"Publication : 시스템반도체인력양성사업 칩 디자인 경진대회",
+        "URL":"\/datas\/publications\/CDC\/[포스터] Pattern Generator for High-Speed Memory Test.pdf",
+        "prize_category":"최우수상",
+        "prize_URL":"\/datas\/publications\/Prizes\/[최우수상] Pattern Generator for High-Speed Memory Test.pdf",
+        "Note":null
+    },
+    {
+        "Category":"CDC",
+        "Title":"[포스터] Edge Detection Accelerator Based on Otsu Method",
+        "Author":"Inventor : Joowan Kang, Insu Jeong, Seungjun Jo, Eunhae Lee, Taejun Kim, and Byungin Moon \/ Date : 2025.07.04",
+        "Etc":"Publication : 시스템반도체인력양성사업 칩 디자인 경진대회",
+        "URL":"\/datas\/publications\/CDC\/[포스터] Edge Detection Accelerator Based on Otsu Method.pdf",
+        "prize_category":"우수상",
+        "prize_URL":"\/datas\/publications\/Prizes\/[우수상] Edge Detection Accelerator Based on Otsu Method.pdf",
         "Note":null
     },
     {

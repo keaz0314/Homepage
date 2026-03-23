@@ -1,5 +1,7 @@
 ---
 weight: 2
+tags:
+  - Homepage
 ---
 
 # 학식 메뉴

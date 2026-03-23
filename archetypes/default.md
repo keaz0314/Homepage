@@ -1,3 +1,7 @@
+---
+tags:
+  - Homepage
+---
 +++
 date = '{{ .Date }}'
 draft = true

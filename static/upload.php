@@ -8,7 +8,7 @@ if (!isset($_SESSION['otp_authenticated']) || $_SESSION['otp_authenticated'] !==
 }
 
 // 기본 업로드 디렉토리 설정
-$base_upload_dir = '/mnt/NAS/SoC-NAS/Homepage/uploads/';
+$base_upload_dir = '/home/jsh/Homepage/uploads/';
 // 매핑 파일을 저장할 임시 디렉토리 (웹 서버가 쓰기 가능해야 함)
 $map_dir = sys_get_temp_dir();
 

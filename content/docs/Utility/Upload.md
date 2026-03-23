@@ -1,5 +1,10 @@
 ---
 weight: 99
+_build:
+  render: true
+  list: false
+tags:
+  - Homepage
 ---
 
 # 업로드 페이지

@@ -1,5 +1,7 @@
 ---
 weight: 1
+tags:
+  - Homepage
 ---
 
 # 교수님 학위논문

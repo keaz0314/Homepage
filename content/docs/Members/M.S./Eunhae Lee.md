@@ -1,5 +1,7 @@
 ---
-weight: 5
+weight: 2
+tags:
+  - Homepage
 ---
 
 {{% columns %}}
@@ -21,6 +23,8 @@ weight: 5
 2018.3 ~ Hamyeol Girls' High School
 
 ## Research Interests
+Error Correction Code (ECC)
+
 Embedded Systems
 
 Computer Architecture

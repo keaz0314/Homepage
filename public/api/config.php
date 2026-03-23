@@ -8,7 +8,11 @@ define('OTP_SECRET', 'YOUR_DEFAULT_SECRET_CHANGE_ME');
 
 // 세션 설정
 if (session_status() == PHP_SESSION_NONE) {
-    // 세션 타임아웃을 1시간(3600초)으로 설정합니다.
-    session_set_cookie_params(3600);
+    session_set_cookie_params([
+        'lifetime' => 3600,
+        'path' => '/',          // 전체 경로에서 쿠키 허용
+        'httponly' => true,     // 보안 강화
+        'samesite' => 'Lax'     // 브라우저 정책 대응
+    ]);
     session_start();
 }
