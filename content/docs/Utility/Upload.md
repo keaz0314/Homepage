@@ -98,94 +98,144 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // 3. 업로더 초기화
+  // 3. 업로더 초기화 및 이벤트 바인딩
   function initializeUploader() {
     otpOverlay.style.display = 'none';
     uploadContainer.style.visibility = 'visible';
 
-    dropZone.addEventListener('click', () => fileInput.click());
-    fileInput.addEventListener('change', (e) => handleFileSelection(e.target.files));
-
+    // 필수: 브라우저 기본 동작(파일 열기) 완벽 차단
     ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
       dropZone.addEventListener(eventName, preventDefaults, false);
       document.body.addEventListener(eventName, preventDefaults, false);
     });
+
     ['dragenter', 'dragover'].forEach(eventName => dropZone.addEventListener(eventName, highlight, false));
     ['dragleave', 'drop'].forEach(eventName => dropZone.addEventListener(eventName, unhighlight, false));
-    dropZone.addEventListener('drop', handleDrop, false);
+
+    // 클릭하여 업로드
+    dropZone.addEventListener('click', () => fileInput.click());
+    fileInput.addEventListener('change', async (e) => {
+      if (e.target.files.length > 0) {
+        await processUploads([...e.target.files]);
+        e.target.value = ''; // 동일 파일 재업로드를 위해 초기화
+      }
+    });
+
+    // 드래그 앤 드롭 업로드
+    dropZone.addEventListener('drop', async (e) => {
+      uploadStatus.innerHTML = '<div style="color:#555;">폴더 구조를 분석 중입니다. 파일이 많을 경우 수 초가 걸릴 수 있습니다...</div>';
+      const items = e.dataTransfer.items;
+      const filesToUpload = [];
+
+      if (items) {
+        for (let i = 0; i < items.length; i++) {
+          const entry = items[i].webkitGetAsEntry();
+          if (entry) {
+            await collectFiles(entry, "", filesToUpload);
+          }
+        }
+        await processUploads(filesToUpload);
+      }
+    }, false);
   }
 
   function preventDefaults(e) { e.preventDefault(); e.stopPropagation(); }
   function highlight() { dropZone.classList.add('dragover'); }
   function unhighlight() { dropZone.classList.remove('dragover'); }
+  function getBatchId() { return Date.now().toString(36) + Math.random().toString(36).substr(2); }
 
-  function getBatchId() {
-    return Date.now().toString(36) + Math.random().toString(36).substr(2);
+  // [핵심 수정] 100개 파일 읽기 제한 우회를 위한 재귀 읽기 함수
+  async function readAllEntries(dirReader) {
+    let allEntries = [];
+    let readEntries = async () => {
+      return new Promise((resolve, reject) => {
+        dirReader.readEntries(entries => {
+          if (entries.length > 0) {
+            allEntries = allEntries.concat(entries);
+            resolve(readEntries()); // 계속 읽기
+          } else {
+            resolve(allEntries); // 끝났으면 반환
+          }
+        }, reject);
+      });
+    };
+    return readEntries();
   }
 
-  function handleDrop(e) {
-    uploadStatus.innerHTML = '';
-    const batchId = getBatchId();
-    const items = e.dataTransfer.items;
-    if (items) {
-      for (let i = 0; i < items.length; i++) {
-        const entry = items[i].webkitGetAsEntry();
-        if (entry) traverseFileTree(entry, "", batchId);
+  // 파일 트리 수집 함수
+  async function collectFiles(item, path, fileList) {
+    if (item.isFile) {
+      return new Promise(resolve => {
+        item.file(file => {
+          file.customPath = path + file.name; // 드래그 시 경로 유지를 위한 속성
+          fileList.push(file);
+          resolve();
+        });
+      });
+    } else if (item.isDirectory) {
+      const dirReader = item.createReader();
+      const entries = await readAllEntries(dirReader); // 제한 우회 함수 사용
+      for (const entry of entries) {
+        await collectFiles(entry, path + item.name + "/", fileList);
       }
     }
   }
 
-  function handleFileSelection(files) {
-    uploadStatus.innerHTML = '';
+  // 순차 업로드 실행 함수
+  async function processUploads(fileList) {
+    if (fileList.length === 0) return;
+
+    uploadStatus.innerHTML = `<div>총 <b style="color:blue;">${fileList.length}</b>개의 파일 업로드를 시작합니다...</div>`;
     const batchId = getBatchId();
-    [...files].forEach(file => {
-      uploadFile(file, file.webkitRelativePath, batchId);
-    });
-  }
-
-  function traverseFileTree(item, path, batchId) {
-    if (item.isFile) {
-      item.file(file => uploadFile(file, path + file.name, batchId));
-    } else if (item.isDirectory) {
-      const dirReader = item.createReader();
-      dirReader.readEntries(entries => {
-        entries.forEach(entry => traverseFileTree(entry, path + item.name + "/", batchId));
-      });
+    
+    for (let i = 0; i < fileList.length; i++) {
+      const file = fileList[i];
+      const path = file.customPath || file.webkitRelativePath || file.name;
+      const progressMsg = `[${i + 1}/${fileList.length}] `;
+      
+      try {
+        await uploadFilePromise(file, path, batchId, progressMsg);
+      } catch (error) {
+        console.error("Upload Error:", error);
+      }
     }
+    uploadStatus.insertAdjacentHTML('afterbegin', '<div style="font-weight:bold; color:green; margin-bottom: 10px;">모든 파일 업로드가 완료되었습니다.</div>');
   }
 
-  function uploadFile(file, filePath, batchId) {
-    const url = '/upload.php';
-    const formData = new FormData();
-    const currentUploadId = `upload-item-${uploadCounter++}`;
+  // 단일 파일 업로드 (Promise 기반)
+  function uploadFilePromise(file, filePath, batchId, progressMsg) {
+    return new Promise((resolve) => {
+      const url = '/upload.php';
+      const formData = new FormData();
+      const currentUploadId = `upload-item-${uploadCounter++}`;
 
-    formData.append('batch_id', batchId);
-    formData.append('uploaded_file', file);
-    formData.append('file_path', filePath);
+      formData.append('batch_id', batchId);
+      formData.append('uploaded_file', file);
+      formData.append('file_path', filePath);
 
-    const statusElement = document.createElement('div');
-    statusElement.id = currentUploadId;
-    statusElement.className = 'upload-item uploading';
-    statusElement.innerHTML = `'${filePath}' 업로드 중...`;
-    uploadStatus.appendChild(statusElement);
+      const statusElement = document.createElement('div');
+      statusElement.id = currentUploadId;
+      statusElement.className = 'upload-item uploading';
+      statusElement.innerHTML = `${progressMsg} '${filePath}' 업로드 중...`;
+      uploadStatus.prepend(statusElement); // 새 항목을 위로 추가
 
-    fetch(url, {
-      method: 'POST',
-      body: formData
-    })
-    .then(response => {
-      if (response.ok) return response.text();
-      return response.text().then(text => { throw new Error(text) });
-    })
-    .then(data => {
-      const currentStatusElement = document.getElementById(currentUploadId);
-      currentStatusElement.className = 'upload-item success';
-      currentStatusElement.innerHTML = `'${data}' - 업로드 완료.`;
-    })
-    .catch(error => {
-      const currentStatusElement = document.getElementById(currentUploadId);
-      currentStatusElement.className = 'upload-item error';
-      currentStatusElement.innerHTML = `'${filePath}' - 업로드 실패: ${error.message}`;
+      fetch(url, { method: 'POST', body: formData })
+      .then(async response => {
+        if (!response.ok) throw new Error(await response.text());
+        return response.text();
+      })
+      .then(data => {
+        const el = document.getElementById(currentUploadId);
+        el.className = 'upload-item success';
+        el.innerHTML = `${progressMsg} '${data}' - 완료`;
+        resolve(); // 성공 시 다음 파일로 넘어감
+      })
+      .catch(error => {
+        const el = document.getElementById(currentUploadId);
+        el.className = 'upload-item error';
+        el.innerHTML = `${progressMsg} '${filePath}' - 실패: ${error.message}`;
+        resolve(); // 실패해도 멈추지 않고 다음 파일 진행
+      });
     });
   }
 });

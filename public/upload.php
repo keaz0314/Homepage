@@ -108,6 +108,7 @@ if (isset($_FILES['uploaded_file']) && isset($_POST['file_path']) && isset($_POS
             echo "오류: 디렉토리 생성에 실패했습니다.";
             exit;
         }
+        chmod($final_dir, 0775);
         write_log("mkdir successful or directory already exists.");
     }
 
@@ -118,6 +119,7 @@ if (isset($_FILES['uploaded_file']) && isset($_POST['file_path']) && isset($_POS
     if (move_uploaded_file($_FILES['uploaded_file']['tmp_name'], $target_file)) {
         write_log("move_uploaded_file successful.");
         echo htmlspecialchars($final_sanitized_path);
+        chmod($final_dir, 0775);
     } else {
         $error = error_get_last();
         write_log("move_uploaded_file failed. Error: " . ($error['message'] ?? 'Unknown error'));
