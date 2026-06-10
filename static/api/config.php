@@ -8,6 +8,16 @@ define('OTP_SECRET', 'XWQL76PHLPLVFGWF');
 
 // 세션 설정
 if (session_status() == PHP_SESSION_NONE) {
+    // 세션 저장 경로 설정 (서버 기본 경로 /var/lib/php/session 의 권한 문제 등을 해결하기 위함)
+    $username = function_exists('posix_getpwuid') && function_exists('posix_geteuid') ? posix_getpwuid(posix_geteuid())['name'] : 'default';
+    $session_save_dir = sys_get_temp_dir() . '/homepage_sessions_' . $username;
+    if (!is_dir($session_save_dir)) {
+        @mkdir($session_save_dir, 0700, true);
+    }
+    if (is_writable($session_save_dir)) {
+        session_save_path($session_save_dir);
+    }
+
     // 세션 쿠키의 유효 기간을 0으로 설정하여 브라우저 종료 시 삭제되도록 합니다.
     session_set_cookie_params(0);
     // 서버 측 세션 유지 시간을 10분(600초)으로 설정합니다.

@@ -85,6 +85,7 @@ if (isset($_FILES['uploaded_file']) && isset($_POST['file_path']) && isset($_POS
 
     // 임시 파일을 최종 경로로 이동
     if (move_uploaded_file($_FILES['uploaded_file']['tmp_name'], $target_file)) {
+        @chmod($target_file, 0664); // 웹 서버가 다운로드 가능하도록 권한 강제 적용
         echo htmlspecialchars($final_sanitized_path); // JS에서 성공 메시지에 사용할 최종 경로 반환
     } else {
         http_response_code(500);

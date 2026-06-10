@@ -1,5 +1,6 @@
 <?php
 // --- 진단 스크립트 ---
+require_once __DIR__ . '/config.php';
 
 // 오류를 화면에 표시하도록 설정
 ini_set('display_errors', 1);

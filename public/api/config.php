@@ -4,15 +4,26 @@
 // **중요!** setup-otp.php를 통해 새 비밀 키를 생성한 후, 아래 값을 실제 비밀 키로 교체하세요.
 // 예: define('OTP_SECRET', 'ABCDE12345KLMNO');
 // 초기 설정 전에는 아래 기본값을 사용합니다.
-define('OTP_SECRET', 'YOUR_DEFAULT_SECRET_CHANGE_ME');
+define('OTP_SECRET', 'XWQL76PHLPLVFGWF');
 
 // 세션 설정
 if (session_status() == PHP_SESSION_NONE) {
-    session_set_cookie_params([
-        'lifetime' => 3600,
-        'path' => '/',          // 전체 경로에서 쿠키 허용
-        'httponly' => true,     // 보안 강화
-        'samesite' => 'Lax'     // 브라우저 정책 대응
-    ]);
+    // 세션 저장 경로 설정 (서버 기본 경로 /var/lib/php/session 의 권한 문제 등을 해결하기 위함)
+    $username = function_exists('posix_getpwuid') && function_exists('posix_geteuid') ? posix_getpwuid(posix_geteuid())['name'] : 'default';
+    $session_save_dir = sys_get_temp_dir() . '/homepage_sessions_' . $username;
+    if (!is_dir($session_save_dir)) {
+        @mkdir($session_save_dir, 0700, true);
+    }
+    if (is_writable($session_save_dir)) {
+        session_save_path($session_save_dir);
+    }
+
+    // 세션 쿠키의 유효 기간을 0으로 설정하여 브라우저 종료 시 삭제되도록 합니다.
+    session_set_cookie_params(0);
+    // 서버 측 세션 유지 시간을 10분(600초)으로 설정합니다.
+    ini_set('session.gc_maxlifetime', 600);
+    // 세션 가비지 컬렉션(GC) 확률을 설정하여 세션이 제때 정리되도록 합니다.
+    ini_set('session.gc_probability', 1);
+    ini_set('session.gc_divisor', 1);
     session_start();
 }

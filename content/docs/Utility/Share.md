@@ -10,7 +10,6 @@ tags:
 
 # Share
 
-
 <div id="otp-overlay" style="display: none;">
   <div class="otp-box">
     <h1>OTP 인증</h1>

@@ -1,0 +1,24 @@
+@import "defaults";
+@import "variables";
+
+// Force light theme variables
+:root {
+  @include theme-light;
+}
+
+// Force light color scheme for browser UI elements
+html {
+  color-scheme: light !important;
+}
+
+@import "normalize";
+@import "utils";
+@import "main";
+@import "fonts";
+@import "print";
+
+@import "markdown";
+@import "shortcodes";
+
+// Custom defined styles
+@import "custom";
